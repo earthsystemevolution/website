@@ -1,9 +1,0 @@
----
-title: "4. new project"
-description: "blablabla. descriptions"
-author: "Earth System Crew"
-output: blogdown::html_page
----
-
-## Project 4: Project
-Ahahaha
