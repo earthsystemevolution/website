@@ -13,7 +13,7 @@ languageCode = "en-us"
 
 [Params]
     intro = true
-    headline = "Earth System Evolution"
+    headline = ""
     description = ""
     github = ""
     gitlab = ""
