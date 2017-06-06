@@ -3,6 +3,8 @@ relativeurls = false
 title = "Earth System Evolution"
 theme = "ghostwriter"
 languageCode = "en-us"
+pluralizelisttitles = "false"
+
 
 [Author]
     name = "Kristian Agasøster Haaga"
