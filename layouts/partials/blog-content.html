@@ -1,0 +1,36 @@
+{{ partial "header.html" . }}
+
+<div id="post-index" class="container" itemscope="" itemtype="https://schema.org/Blog">
+    {{ if .Site.Params.intro }}
+        
+        <header class="post-header">
+          <h1 class="post-title" itemprop="name">{{ .Site.Params.headline }}</h1>
+          <!--<p>{{ .Site.Params.description }}</p>-->
+        </header>
+    {{ end }}
+    
+  
+
+   
+    <h2 >Recent activity</h2>
+    <p>We are the <a href="/page/crew/">Earth System Evolution group</a> at the University of Bergen, Norway. Feel free to have a look at our <a href="/project/">ongoing projects</a> and <a href="/publication/">recent publications</a>.</p>
+    <p>These are our most recent activities: </p>
+      
+    {{ if .Site.Params.showRecentPosts}}
+      
+      <ol class="post-list">
+          {{ $pag := .Paginate (where .Data.Pages "Type" "post") }}
+          {{ range $pag.Pages }}
+              {{ partial "post-stub.html" . }}
+          {{ end }}
+      </ol>
+    
+    {{ end }}
+
+    <div class="post-navigation">
+        {{ partial "pagination.html" . }}
+    </div>
+    
+</div>
+
+{{ partial "footer.html" . }}

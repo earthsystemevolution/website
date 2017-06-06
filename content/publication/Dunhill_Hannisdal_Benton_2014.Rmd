@@ -1,0 +1,7 @@
+---
+title: "Disentangling rock record bias and common-cause from redundancy in the British fossil record"
+description: "Dunhill, AM, Hannisdal B, Benton MJ. Nature communications. 2014 Sep 4;5."
+date: "2014-09-04"
+---
+
+The paper can be found <a href="https://www.nature.com/articles/ncomms5818">here</a>.

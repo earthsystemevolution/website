@@ -1,0 +1,8 @@
+---
+title: "Opening of the K.G. Jebsen Centre for Deep Sea Research"
+date: "`r format(Sys.time(), '%Y-%m-%d')`"
+---
+
+# Header 1
+
+$\sum_i 1+2$

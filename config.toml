@@ -1,0 +1,66 @@
+relativeurls = true
+title = "Earth System Evolution"
+theme = "ghostwriter"
+languageCode = "en-us"
+copyright = "My Name"
+disqusShortname = "XXX"
+googleAnalytics = "XXX"
+
+[Author]
+    name = "Kristian Agasøster Haaga"
+    profile = ""
+
+[Taxonomies]
+    tag = "tags"
+
+[Params]
+    intro = true
+    headline = "Earth System Evolution"
+    description = ""
+    github = ""
+    gitlab = ""
+    linkedin = ""
+    gplus = ""
+    twitter = ""
+    stackoverflow = ""
+    email = ""
+    opengraph = false
+    shareTwitter = false
+    shareFacebook = false
+    shareGooglePlus = false
+    shareLinkedIn = false
+    dateFormat = "2006, January 2, Monday"
+    showRecentPostsOnMain = true
+
+[Permalinks]
+    post = "/:year/:month/:day/:filename/"
+
+[[menu.main]]
+    name = "Front"
+    url = "/"
+    weight = 1
+    
+[[menu.main]]
+    name = "Research"
+    url = "/page/research/"
+    weight = 1
+    
+[[menu.main]]
+    name = "Projects"
+    url = "/project/"
+    weight = 2
+    
+[[menu.main]]
+    name = "Publications & Talks"
+    url = "/publication/"
+    weight = 3
+
+[[menu.main]]
+    name = "Crew"
+    url = "/page/crew/"
+    weight = 4
+
+[[menu.main]]
+    name = "Recent activity"
+    url = "/post/"
+    weight = 5

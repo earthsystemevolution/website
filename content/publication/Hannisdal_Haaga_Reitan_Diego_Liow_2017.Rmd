@@ -1,0 +1,7 @@
+---
+title: "Common species link global ecosystems to climate change: dynamical evidence in the planktonic fossil record"
+description: "Hannisdal B, Haaga KA, Reitan T, Diego D, Liow LH. Manuscript submitted for publication."
+date: "`r format(Sys.time(), '%Y-%m-%d')`"
+---
+
+Short summary and link to the paper.

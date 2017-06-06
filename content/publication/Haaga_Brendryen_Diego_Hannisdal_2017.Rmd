@@ -1,0 +1,7 @@
+---
+title: "Forcing of Late Pleistocene ice ages by spatially variable summer insolation"
+description: "Haaga KA, Brendryen J, Diego D, Hannisdal B:. Manuscript in preparation."
+date: "`r format(Sys.time(), '%Y-%m-%d')`"
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4XADRLUrCEA" frameborder="0" allowfullscreen></iframe>

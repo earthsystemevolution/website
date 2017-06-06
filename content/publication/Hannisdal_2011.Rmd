@@ -1,0 +1,7 @@
+---
+title: "Detecting common-cause relationships with directional information transfer"
+description: "Hannisdal B. Geological Society, London, Special Publications. 2011 Jan 1;358(1):19-29."
+date: "2011-11-25"
+---
+
+The  <a href="http://sp.lyellcollection.org/content/358/1/19.full">paper</a> is available as a <a href="http://sp.lyellcollection.org/content/358/1/19.full.pdf+html">pdf file</a>.

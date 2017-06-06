@@ -1,0 +1,52 @@
+{{ partial "header.html" . }}
+
+<div id="post-index" class="container" itemscope="" itemtype="https://schema.org/Blog">
+    <!--{{ if .Site.Params.intro }}
+        
+        <header class="post-header">
+          <h1 class="post-title" itemprop="name">{{ .Site.Params.headline }}</h1>
+          <!--<p>{{ .Site.Params.description }}</p>
+        </header>
+    {{ end }}
+    -->
+    
+     <h1 >About us</h1>
+    <p>We are the <a href="/page/crew/">Earth System Evolution group</a> at the University of Bergen, Norway. Feel free to have a look at our <a href="/project/">ongoing projects</a> and <a href="/publication/">recent publications</a>.</p>
+    
+    
+  <h2 >Recent activity</h2>
+    {{ if .Site.Params.showRecentPostsOnMain}}
+      
+      <ol class="post-list">
+          {{ $pag := .Paginate (where .Data.Pages "Type" "post") }}
+          {{ range $pag.Pages }}
+              {{ partial "blogpost-stub.html" . }}
+          {{ end }}
+      </ol>
+    
+    {{ end }}
+    
+
+    <div class="post-navigation">
+        {{ partial "pagination.html" . }}
+    </div>
+
+    <h2 >We are funded by</h2>
+    <div class="logos">
+      <div class="Logos UIBlogo">
+         <img src="/images/UIBlogo.png" height="75"> 
+      </div>
+      <div class="Logos NFRlogo">
+        <img src="/images/NFR.png" height="75">
+      </div>
+      <div class="Logos BFSlogo">
+        <img src="/images/BFS_negative.png" height="75">
+      </div>
+      <div class="Logos KGJlogo">
+        <img src="/images/KGJ.jpg" height="75">
+    </div>
+    
+</div>
+
+
+{{ partial "custom_footer.html" . }}

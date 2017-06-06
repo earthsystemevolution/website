@@ -1,0 +1,10 @@
+---
+title: "1. Causal interactions in deep time"
+description: "Quantifying dynamical interactions in the Earth System across time scales."
+author: "Earth System Crew"
+---
+
+## Project 1: Causal interactions in deep time
+In this project, we apply established methods for detecting drive-response relationships from time series to quantify dynamical interactions between Earth System Components. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4XADRLUrCEA" frameborder="0" allowfullscreen></iframe>

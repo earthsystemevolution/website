@@ -1,0 +1,9 @@
+---
+title: "Phanerozoic Earth system evolution and marine biodiversity"
+description: "Hannisdal B, Peters SE. Science. 2011 Nov 25;334(6059):1121-4."
+date: "2011-11-25"
+---
+
+Pdf versions of the <a href="http://science.sciencemag.org/content/sci/334/6059/1121.full.pdf">paper</a> and <a href="http://science.sciencemag.org/content/sci/suppl/2011/11/23/334.6059.1121.DC1/Hannisdal.SOM.pdf">supplementary materials</a>. 
+
+James Crampton also published a <a href="http://www.sciencemag.org/content/334/6059/1073.summary">perspective</a> on the paper.

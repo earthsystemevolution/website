@@ -1,0 +1,9 @@
+---
+title: "2. Dynamical system invariants and information flow"
+description: "Establishing connections between probability-based and dynamical systems-based causality measures."
+author: "Earth System Crew"
+output: blogdown::html_page
+---
+
+## Project 2: Dynamical system invariants and information flow
+In this project, we aim to bridge the gap between information based and dynamical systems based causality measures. 
