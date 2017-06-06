@@ -1,3 +1,4 @@
+baseurl = "https://engraver-boar-33446.netlify.com""
 relativeurls = true
 title = "Earth System Evolution"
 theme = "ghostwriter"
