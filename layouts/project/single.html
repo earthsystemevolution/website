@@ -1,5 +1,7 @@
 {{ partial "header.html" . }}
 
+{{ if .IsPage }}
+
 <div class="container">
     <article class="post-container">
         {{ partial "page-content.html" . }}
@@ -7,5 +9,7 @@
         {{ partial "post-footer.html" . }}
     </article>
 </div>
+{{ end }}
 
-<!--{{ partial "footer.html" . }}-->
+
+
