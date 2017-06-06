@@ -27,7 +27,7 @@ languageCode = "en-us"
     shareFacebook = false
     shareGooglePlus = false
     shareLinkedIn = false
-    dateFormat = "2006, January 2, Monday"
+    dateFormat = "Monday, January 2, 2006"
     showRecentPostsOnMain = true
 
 [Permalinks]
