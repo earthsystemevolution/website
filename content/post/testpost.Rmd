@@ -1,8 +1,0 @@
----
-title: "Test post"
-author: "Kristian Agasøster Haaga"
-date: "`r format(Sys.time(), '%Y-%m-%d')`"
-draft: true
----
-
-# test header

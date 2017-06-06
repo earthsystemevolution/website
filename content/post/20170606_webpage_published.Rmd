@@ -1,0 +1,8 @@
+---
+title: "Webpage is now online"
+author: "Kristian Agasøster Haaga"
+date: "`r format(Sys.time(), '%Y-%m-%d')`"
+---
+
+# Webpage is online
+This is just a teaser. More content will be added shortly. 
