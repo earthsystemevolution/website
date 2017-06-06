@@ -54,11 +54,11 @@ languageCode = "en-us"
     weight = 3
 
 [[menu.main]]
-    name = "Crew"
-    url = "/page/crew/"
-    weight = 4
-
-[[menu.main]]
     name = "Recent activity"
     url = "/post/"
+    weight = 4
+    
+[[menu.main]]
+    name = "The crew"
+    url = "/page/crew/"
     weight = 5
