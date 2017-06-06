@@ -1,6 +1,8 @@
 {{ if .Site.Params.intro }}
-    <header class="post-header">
+    <header>
         <!--<h1 class="post-title">{{ .Site.Params.headline }}</h1>-->
+         <h1 class="post-title"> {{ .Title }} </h1>
+
         <p>{{ .Site.Params.description }}</p>
     </header>
 {{ end }}
