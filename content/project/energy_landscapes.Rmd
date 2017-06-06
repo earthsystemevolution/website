@@ -7,11 +7,6 @@ output: blogdown::html_page
 
 ## Project 3: Energy landscapes.
 
-### Energy
-Energy is EVERYWHERE, go check your chackras.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U8NNHmV3QPw" frameborder="0" allowfullscreen></iframe>
-
 ### Motivation 
 
 Hydrothermal vents support unique microbial communities which, unlike photosynthetic organisms, gain their metabolic energy from inorganic chemical reactions. Numerical models have been used to explore microbial composition and interactions in these systems by determining how much energy obtained from chemical reactions is converted to produce new biomass. 
