@@ -1,6 +1,6 @@
 ---
 title: "3. Energy landscapes and microbial interactions in hydrothermal systems"
-description: "The influence of energy availability on microbial interactions in hydrothermal systems"
+description: "Modeling the influence of energy availability on microbial interactions in hydrothermal systems"
 author: "Earth System Crew"
 output: blogdown::html_page
 ---
@@ -9,9 +9,24 @@ output: blogdown::html_page
 
 <div id="project-3-energy-landscapes." class="section level2">
 <h2>Project 3: Energy landscapes.</h2>
-<div id="motivation" class="section level3">
-<h3>Motivation</h3>
-<p>Hydrothermal vents support unique microbial communities which, unlike photosynthetic organisms, gain their metabolic energy from inorganic chemical reactions. Numerical models have been used to explore microbial composition and interactions in these systems by determining how much energy obtained from chemical reactions is converted to produce new biomass.</p>
-<p>In this project, we want to build up a model that considers both energy availability and population dynamics in order to have an insight on how microbial communities are shaped in these ecosystems. Models become a powerful predictive tool in these type of studies given the difficulties that arise during <em>in situ</em> sampling and can help to solve questions about how the proportion of microbial metabolisms found in these systems vary, the distribution in different microbial habitats, and the impact of microorganisms on the composition of hydrothermal fluids. In addition to this, a step further will be taken in the project by implementing an inverse model, which will help to estimate the values of unmeasurable model parameters (or flows) and parameter uncertainties. An inverse model is appropriate for this type of system, as is not easily accessible or observable the quantification of the energy available nor the amount of organisms in hydrothermal vents.</p>
+<p>Deep-sea sediments and subseafloor environments host slowly growing, low-density microbial populations. Microbial persistence in systems with such extreme energy limitation remains poorly understood. Hydrothermal vents, on the other hand, are veritable oases in the deep-sea desert, supporting rich biological communities with primary productivity driven by chemosynthetic autotrophs. Energy landscapes in hydrothermal vents are shaped by chemical gradients resulting from the mixing of seawater and vent fluids.</p>
+<!--
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d_yqE7VlAyw?rel=0" frameborder="0" allowfullscreen></iframe>
+</center>
+-->
+<!--
+![](../../images/Prøvetaking-fluider-1.mp4)
+-->
+<center>
+<video width="880" controls>
+<source src="../../images/Prøvetaking-fluider-1.mp4" type="video/mp4">
+</video>
+<div style="width: 880px; text-align: left;">
+Sampling of hydrothermal fluids pooling under a flange at the Loki’s Castle vent field, at nearly 2500 m depth, during the 2017 summer cruise. Copyright: K.G. Jebsen Centre for Deep Sea Research.
 </div>
+</center>
+<p></p>
+<p>Numerical models are an important tool for studying deep-sea hydrothermal and subseafloor systems given the difficulties of <em>in situ</em> sampling and culturing. Data for this project come from ongoing studies of hydrothermal vents and associated sediments along the Arctic Mid-Ocean Ridge. Geochemical data include concentrations of electron donors/acceptors from sediment cores, seawater, and vent fluids. Microbial data include relative abundance of taxonomic groups based on 16S rRNA gene copy numbers, and functional gene abundances from metatranscriptomic sequencing. Given the available observations, we turn to modeling approaches to shed light on mechanisms underpinning statistical associations in the data.</p>
+<p>In this project, we build models that capture the dynamic interactions between geochemical energy landscapes and microbial populations. By coupling bioenergetic parameters such as catabolic rates, maintenance energy, and biomass yield with microbial population growth, we wish to predict the relative proportion of microbial metabolisms, their spatial distribution, and the impact of microorganisms on the composition of hydrothermal fluids. However, given the range of uncertainties regarding the most appropriate model choice and the extent to which available data can help constrain unmeasurable parameters (e.g. flows, or fluxes), this project will also address the inverse problem: what are the most probable models and their associated uncertainty?</p>
 </div>

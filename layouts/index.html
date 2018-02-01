@@ -5,7 +5,7 @@
         
         <header class="post-header">
           <h1 class="post-title" itemprop="name">{{ .Site.Params.headline }}</h1>
-          <!--<p>{{ .Site.Params.description }}</p>
+          <p>{{ .Site.Params.description }}</p>
         </header>
     {{ end }}
     -->
@@ -17,16 +17,25 @@
   <h1>What do we do?</h1>
 
   <p>
+    
     <center>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/4XADRLUrCEA" frameborder="0" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/4XADRLUrCEA?rel=0" frameborder="0" allowfullscreen></iframe>
     </center>
+
+    <!--
+    <center>
+    <video width="600" controls>
+      <source src="/images/awesome_60FPS.avi" type="video/avi">
+    </video> 
+    <div style='width: 600px; text-align: left;'>Time series of insolation and global ice volume over the last 800,000 years and the corresponding trajectories in 3-D state space reconstructions.</div>
+    </center>
+    -->
   
-  <p>The animation illustrates some of our work from the <a href="/publication/Haaga_et_al_2017/">Forcing of Late Pleistocene ice ages by spatially variable summer insolation</a> paper, where we tease apart the forcing effect summer insolation had on global climate during the past ~800,000 years.
+  <p>The animation illustrates some of our work from the <a href="/publication/Haaga_et_al_2017/">Forcing of Late Pleistocene ice volume by spatially variable summer energy</a> paper, where we tease apart the forcing effect summer insolation had on global climate during the past ~800,000 years.
   </p>
   <p>For more information, feel free to have a look at our <a href="/project/">ongoing projects</a> and <a href="/publication/">recent publications</a>.</p>
-  </p>
-   
 
+<!--  </p>
   </p>
   <h2>Recent activity</h2>
     {{ if .Site.Params.showRecentPostsOnMain}}
@@ -39,7 +48,7 @@
       </ol>
     
     {{ end }}
-    
+ -->   
 
     <div class="post-navigation">
         {{ partial "pagination.html" . }}
@@ -48,16 +57,24 @@
     <h2 >We are funded by</h2>
     <div class="logos">
       <div class="Logos BFSlogo">
-        <img src="/images/BFS_negative.png" height="50">
+        <a href="http://www.bfstiftelse.no/?lang=en">
+        <img src="/images/BFS_negative.png" height="100">
+        </a>
       </div>
       <div class="Logos KGJlogo">
+        <a href="http://stiftkgj.no/?lang=en">
         <img src="/images/KGJ.jpg" height="50">
+        </a>
       </div>
       <div class="Logos NFRlogo">
-        <img src="/images/NFR.png" height="50">
+        <a href="https://www.forskningsradet.no/en/Home_page/1177315753906">
+        <img src="/images/NFR.png" height="30">
+        </a>
       </div>
       <div class="Logos UIBlogo">
-         <img src="/images/UIBlogo.png" height="50"> 
+        <a href="http://www.uib.no/en">
+        <img src="/images/UIBlogo.png" height="70"> 
+        </a>
       </div>
     </div>
 

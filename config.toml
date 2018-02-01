@@ -1,11 +1,12 @@
-baseurl = "http://estates-officer-instrument-66114.netlify.com/"
+baseurl = "https://www.earthsystemevolution.com/"
 relativeurls = false
 title = "Earth System Evolution"
 theme = "ghostwriter"
 languageCode = "en-us"
+paginate = 50 # The number of list entries that are shown
 
 [Author]
-    name = "Kristian Agasøster Haaga"
+    name = "Earth System Evolution"
     profile = ""
 
 [Taxonomies]
@@ -54,8 +55,8 @@ languageCode = "en-us"
     weight = 3
 
 [[menu.main]]
-    name = "Recent activity"
-    url = "/post/"
+    name = "Tools"
+    url = "/page/tools/"
     weight = 4
     
 [[menu.main]]

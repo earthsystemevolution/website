@@ -2,6 +2,12 @@
     {{ with .Params.Image }}
         <img class="post-featured-image" src="{{ . }}">
     {{ end }}
+    
+      {{ if .Description }}
+        <p>{{ .Description }}</p>
+      {{ end }}
+    
     <h2>Summary</h2>
+    
     {{ .Content }}
 </div>

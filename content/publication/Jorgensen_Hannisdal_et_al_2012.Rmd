@@ -1,6 +1,6 @@
 ---
 title: "Correlating microbial community proﬁles with geochemical data in highly stratiﬁed sediments from the Arctic Mid-Ocean Ridge "
-description: "Jorgensen SL, Hannisdal B, Lanzén A, Baumberger T, Flesland K, Fonseca R, Øvreås L, Steen IH, Thorseth IH, Pedersen RB, and Schleper C. Proceedings of the National Academy of Sciences, 2012, 109.42: E2846-E2855."
+description: "Jorgensen SL, Hannisdal B, Lanzén A, Baumberger T, Flesland K, Fonseca R, Øvreås L, Steen IH, Thorseth IH, Pedersen RB, and Schleper C (2012). Proceedings of the National Academy of Sciences 109: E2846-E2855."
 date: "2012-09-05"
 ---
 
