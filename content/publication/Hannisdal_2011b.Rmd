@@ -1,0 +1,7 @@
+---
+title: "Non-parametric inference of causal interactions from geological records"
+description: "Hannisdal B (2011). American Journal of Science 311: 315-334."
+date: "2011-04-24"
+---
+
+The paper is available as a <a href="http://webber.uib.no/geobio/Hannisdal/hannisdalajs2011.pdf">pdf file</a>.
