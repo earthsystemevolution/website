@@ -13,7 +13,7 @@ We're scientists with backgrounds in geology, theoretical physics, paleoclimatol
 * <a href="http://www.uib.no/personer/Bjarte.Hannisdal">Bjarte Hannisdal</a>. Researcher. 
 * <a href="http://www.uib.no/personer/David.Diego.Castro">David Diego</a>. Postdoctoral researcher.
 * <a href="http://www.uib.no/en/persons/Jo.Brendryen">Jo Brendryen</a>. Researcher.
-* <a href="https://cv.kahaaga.com/">Kristian Agasøster Haaga</a>. PhD candidate. 
+* <a href="https://kahaaga.com/">Kristian Agasøster Haaga</a>. PhD candidate. 
 * <a href="http://www.uib.no/en/persons/H%C3%A5kon.Dahle">Håkon Dahle</a>. Researcher.
 * <a href="http://www.uib.no/en/persons/Steffen.Jorgensen">Steffen Leth Jørgensen</a>. Researcher.
 * <a href="http://www.uib.no/personer/Laura.Vittoria.De.Luca.Pe%C3%B1a">Laura Vittoria De Luca Peña</a>. PhD candidate.
