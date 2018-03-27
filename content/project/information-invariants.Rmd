@@ -7,6 +7,25 @@ output: blogdown::html_page
 
 ## Project 2: Dynamical system invariants and information flow
 
+<div style='background-color: #f7f7f7'>
+<hr> 
+<center>
+<div style='margin-left: 20px; margin-right: 20px'>
+Here are some articles introducing the key concepts we use in this project:
+<div style='width: 250px;'>
+<a href="/articles/20180324_estimating_ergodic_probability_distributions/"><img src="/img/fig_estimating_probs.png" height="250px", width = "250px"></a>
+</div>
+<div style='width: 250px; text-align: left;'>
+<a href="/articles/20180324_estimating_ergodic_probability_distributions/"><h5>Estimating invariant probability distributions from time series</h5></a>
+</div>
+</div>
+</center>
+<hr> 
+</div>
+
+
+### Motivation
+
 In an open, dissipative system that exchanges energy and matter with its environment, a balancing of driving forces and dissipation will confine the dynamics to a subset of the state space known as an attractor. Examples of attractors can be stable fixed points (e.g. a pendulum with friction will converge on a position of rest), limit cycles (e.g. predator-prey oscillations), or more complex subsets such as the strange attractors of chaotic systems (e.g. the famous "butterfly"-shaped attractor of the Lorenz system). 
 
 The attractor is itself an invariant subset of the dynamics: if we pick any point on the attractor and follow its evolution under the dynamics of the system, the resulting trajectory lies entirely on the attractor. This implies that to study the long-term behavior of the system one needs to have information on the attractor, rather than the whole set of variables constituting the system. 

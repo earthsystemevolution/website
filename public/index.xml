@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Earth System Evolution</title>
+    <link>/</link>
+    <description>Recent content on Earth System Evolution</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Forcing of Late Pleistocene ice volume by spatially variable summer energy</title>
+      <link>/publication/haaga_et_al_2017/</link>
+      <pubDate>Tue, 27 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/haaga_et_al_2017/</guid>
+      <description>Insolation, or the amount of solar radiation reaching the Earth, varies across latitudes, and its importance as a dynamical forcing of global climate is debated. Here we use the intrinsic dynamical information in global sea level reconstructions to show that integrated summer insolation at different latitudes was a significant forcing of global ice volume during the past 800,000 years. Using a model-free approach, we provide an explicit test of the conventional assumption that Northern Hemisphere summer insolation represents the external forcing of the climate system.</description>
+    </item>
+    
+    <item>
+      <title>Webpage is now online</title>
+      <link>/2018/03/27/20170606_webpage_published/</link>
+      <pubDate>Tue, 27 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/03/27/20170606_webpage_published/</guid>
+      <description>Webpage is online This is just a teaser. More content will be added shortly.
+ </description>
+    </item>
+    
+    <item>
+      <title>Estimating invariant probability densities from time series</title>
+      <link>/articles/20180324_estimating_ergodic_probability_distributions/</link>
+      <pubDate>Sat, 24 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/articles/20180324_estimating_ergodic_probability_distributions/</guid>
+      <description>Motivation The main idea behind this article is the following:
+How do we quantify the maximum amount of information we can get out of incomplete observations, without assuming anything about the underlying dynamical system that produced them?
+This is a very basic tutorial where visualisations serve as replacements for the underlying mathematical concepts. Interested readers are referred to the work of Gary Froyland (which introduced the concept of estimating invariant measures as we do in this article).</description>
+    </item>
+    
+    <item>
+      <title>On formation-based sampling proxies and why they should not be used to correct the fossil record</title>
+      <link>/publication/dunhill_hannisdal_brocklehurst_benton_2017/</link>
+      <pubDate>Tue, 17 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/dunhill_hannisdal_brocklehurst_benton_2017/</guid>
+      <description>The paper can be found here.</description>
+    </item>
+    
+    <item>
+      <title>Source-to-sink analysis in an active extensional setting: Holocene erosion and deposition in the Sperchios rift, central Greece</title>
+      <link>/publication/pechlivanidou_et_al_2017/</link>
+      <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/pechlivanidou_et_al_2017/</guid>
+      <description>The paper can be found here.</description>
+    </item>
+    
+    <item>
+      <title>Common species link global ecosystems to climate change: dynamical evidence in the planktonic fossil record</title>
+      <link>/publication/hannisdal_haaga_reitan_diego_liow_2017/</link>
+      <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/hannisdal_haaga_reitan_diego_liow_2017/</guid>
+      <description>Common species shape the world around us, and changes in their commonness signify large-scale shifts in ecosystem structure and function. However, our understanding of long-term ecosystem response to environmental forcing in the deep past is centred on species richness, neglecting the disproportional impact of common species. Here, we use common and widespread species of planktonic foraminifera in deep-sea sediments to track changes in observed global occupancy (proportion of sampled sites at which a species is present and observed) through the turbulent climatic history of the last 65 Myr.</description>
+    </item>
+    
+    <item>
+      <title>Ocean-Ice Sheet Interactions in the Norwegian Sea and Teleconnections to Low Latitude Hydrology and Atmospheric Circulation</title>
+      <link>/publication/brendryen_hannisdal_haaga_et_al_2016/</link>
+      <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/brendryen_hannisdal_haaga_et_al_2016/</guid>
+      <description>Some short description of the talk (or abstract?)</description>
+    </item>
+    
+    <item>
+      <title>Non-parametric causal assessment in deep-time geological records</title>
+      <link>/publication/haaga_et_al_2016/</link>
+      <pubDate>Sun, 17 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/haaga_et_al_2016/</guid>
+      <description>The abstract is published here, and is available as a pdf file. The presentation is also available as a Shiny application.</description>
+    </item>
+    
+    <item>
+      <title>Disentangling rock record bias and common-cause from redundancy in the British fossil record</title>
+      <link>/publication/dunhill_hannisdal_benton_2014/</link>
+      <pubDate>Thu, 04 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/dunhill_hannisdal_benton_2014/</guid>
+      <description>The paper can be found here.</description>
+    </item>
+    
+    <item>
+      <title>Long‐term evolutionary and ecological responses of calcifying phytoplankton to changes in atmospheric CO2</title>
+      <link>/publication/hannisdal_hendericks_liow_2012/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/hannisdal_hendericks_liow_2012/</guid>
+      <description>The paper is available as a pdf file, along with the supplementary materials.</description>
+    </item>
+    
+    <item>
+      <title>Correlating microbial community proﬁles with geochemical data in highly stratiﬁed sediments from the Arctic Mid-Ocean Ridge </title>
+      <link>/publication/jorgensen_hannisdal_et_al_2012/</link>
+      <pubDate>Wed, 05 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/jorgensen_hannisdal_et_al_2012/</guid>
+      <description>The paper, including supplementary materials, is available as a pdf. Andreas P. Teske also published a commentary on the paper.</description>
+    </item>
+    
+    <item>
+      <title>Detecting common-cause relationships with directional information transfer</title>
+      <link>/publication/hannisdal_2011/</link>
+      <pubDate>Fri, 25 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/hannisdal_2011/</guid>
+      <description>The paper is available as a pdf file.</description>
+    </item>
+    
+    <item>
+      <title>Phanerozoic Earth system evolution and marine biodiversity</title>
+      <link>/publication/hannisdal_peters_2011/</link>
+      <pubDate>Fri, 25 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/hannisdal_peters_2011/</guid>
+      <description>The Phanerozoic fossil record of marine animal diversity covaries with the amount of marine sedimentary rock. The extent to which this covariation reflects a geologically controlled sampling bias remains unknown. We show that Phanerozoic records of seawater chemistry and continental flooding contain information on the diversity of marine animals that is independent of sedimentary rock quantity and sampling. Interrelationships among variables suggest long-term interactions among continental flooding, sulfur and carbon cycling, and macroevolution.</description>
+    </item>
+    
+    <item>
+      <title>Non-parametric inference of causal interactions from geological records</title>
+      <link>/publication/hannisdal_2011b/</link>
+      <pubDate>Sun, 24 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/hannisdal_2011b/</guid>
+      <description>The paper is available as a pdf file.</description>
+    </item>
+    
+    <item>
+      <title>On the relationship between macrostratigraphy and geological processes: quantitative information capture and sampling robustness</title>
+      <link>/publication/hannisdal_peters_2010/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/hannisdal_peters_2010/</guid>
+      <description>The paper is available as a pdf file.</description>
+    </item>
+    
+    <item>
+      <title>1. Causal interactions in deep time</title>
+      <link>/project/causal_interactions_in_deep_time/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/causal_interactions_in_deep_time/</guid>
+      <description>Project 1: Causal interactions in deep time It is a quirk of human cognition that we tend to process temporally extended, dynamic information by segmenting it into discrete events with a beginning and an end. Longer-term patterns are often perceived as a background, or status quo, against which events are identified and often retrofitted with a cause-effect structure. In geology, this event-based causal focus is enhanced by the discontinuous nature of the stratigraphic record (which, “like the life of a soldier, consists of long periods of boredom and short periods of terror” in Derek Ager’s famous aphorism).</description>
+    </item>
+    
+    <item>
+      <title>2. Dynamical system invariants and information flow</title>
+      <link>/project/information-invariants/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/information-invariants/</guid>
+      <description>Project 2: Dynamical system invariants and information flow   Here are some articles introducing the key concepts we use in this project: 
+  Estimating invariant probability distributions from time series  
+     Motivation In an open, dissipative system that exchanges energy and matter with its environment, a balancing of driving forces and dissipation will confine the dynamics to a subset of the state space known as an attractor.</description>
+    </item>
+    
+    <item>
+      <title>3. Energy landscapes and microbial interactions in hydrothermal systems</title>
+      <link>/project/energy_landscapes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/energy_landscapes/</guid>
+      <description>Project 3: Energy landscapes. Deep-sea sediments and subseafloor environments host slowly growing, low-density microbial populations. Microbial persistence in systems with such extreme energy limitation remains poorly understood. Hydrothermal vents, on the other hand, are veritable oases in the deep-sea desert, supporting rich biological communities with primary productivity driven by chemosynthetic autotrophs. Energy landscapes in hydrothermal vents are shaped by chemical gradients resulting from the mixing of seawater and vent fluids.</description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>/page/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/page/blog/</guid>
+      <description>Blog  </description>
+    </item>
+    
+    <item>
+      <title>Crew</title>
+      <link>/page/crew/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/page/crew/</guid>
+      <description>Earth System Evolution group The Earth System Evolution group is an interdisciplinary group based at the Department of Earth Science at the University of Bergen (UiB) in Norway. We are part of the K.G. Jebsen Centre for Deep Sea Research) and the Bjerknes Centre for Climate Research (BCCR). Formerly, we were part of the Centre for Geobiology (CGB), which was superseeded by the K.G. Jebsen Centre for Deep Sea Research in May 2017.</description>
+    </item>
+    
+    <item>
+      <title>Earth System Evolution</title>
+      <link>/page/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/page/research/</guid>
+      <description>Motivation Earth scientists increasingly recognize the need to study not only the components of the Earth system (lithosphere-hydrosphere-atmosphere-biosphere), but also the complex and evolving nature of their coupling. Understanding these interconnections is crucial for global environmental projections, including climate tipping points, ocean acidification, sea level rise, biodiversity loss and mass extinctions. Although unprecedented in the history of human civilization, such dramatic upheavals have occurred repeatedly throughout Earth’s history. Researchers therefore turn to the geological record for insights into causes, consequences, and time scales of global change in the past.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/page/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/page/publications/</guid>
+      <description>Recent publications  </description>
+    </item>
+    
+    <item>
+      <title>Tools</title>
+      <link>/page/tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/page/tools/</guid>
+      <description>Tools On this page, we will provide links to code repositories for different methods used in our projects. We also share some interactive software tools for generating time series from dynamical systems.
+ Wrapper functions in R that simplify lagged CCM analyses with surrogate testing. These functions accompany our study of the forcing of Late Pleistocene ice volume by spatially variable summer energy.
+ An interactive Daisyworld model that can be used to generate time series of components of a coupled dynamical system involving external forcing and internal feedbacks.</description>
+    </item>
+    
+  </channel>
+</rss>

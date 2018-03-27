@@ -63,3 +63,4 @@ paginate = 50 # The number of list entries that are shown
     name = "The crew"
     url = "/page/crew/"
     weight = 5
+    

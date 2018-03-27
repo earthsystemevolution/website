@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Earth System Evolution</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Earth System Evolution</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>1. Causal interactions in deep time</title>
+      <link>/project/causal_interactions_in_deep_time/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/causal_interactions_in_deep_time/</guid>
+      <description>Project 1: Causal interactions in deep time It is a quirk of human cognition that we tend to process temporally extended, dynamic information by segmenting it into discrete events with a beginning and an end. Longer-term patterns are often perceived as a background, or status quo, against which events are identified and often retrofitted with a cause-effect structure. In geology, this event-based causal focus is enhanced by the discontinuous nature of the stratigraphic record (which, “like the life of a soldier, consists of long periods of boredom and short periods of terror” in Derek Ager’s famous aphorism).</description>
+    </item>
+    
+    <item>
+      <title>2. Dynamical system invariants and information flow</title>
+      <link>/project/information-invariants/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/information-invariants/</guid>
+      <description>Project 2: Dynamical system invariants and information flow   Here are some articles introducing the key concepts we use in this project: 
+  Estimating invariant probability distributions from time series  
+     Motivation In an open, dissipative system that exchanges energy and matter with its environment, a balancing of driving forces and dissipation will confine the dynamics to a subset of the state space known as an attractor.</description>
+    </item>
+    
+    <item>
+      <title>3. Energy landscapes and microbial interactions in hydrothermal systems</title>
+      <link>/project/energy_landscapes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/energy_landscapes/</guid>
+      <description>Project 3: Energy landscapes. Deep-sea sediments and subseafloor environments host slowly growing, low-density microbial populations. Microbial persistence in systems with such extreme energy limitation remains poorly understood. Hydrothermal vents, on the other hand, are veritable oases in the deep-sea desert, supporting rich biological communities with primary productivity driven by chemosynthetic autotrophs. Energy landscapes in hydrothermal vents are shaped by chemical gradients resulting from the mixing of seawater and vent fluids.</description>
+    </item>
+    
+  </channel>
+</rss>

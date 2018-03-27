@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on Earth System Evolution</title>
+    <link>/articles/</link>
+    <description>Recent content in Articles on Earth System Evolution</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/articles/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Estimating invariant probability densities from time series</title>
+      <link>/articles/20180324_estimating_ergodic_probability_distributions/</link>
+      <pubDate>Sat, 24 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/articles/20180324_estimating_ergodic_probability_distributions/</guid>
+      <description>Motivation The main idea behind this article is the following:
+How do we quantify the maximum amount of information we can get out of incomplete observations, without assuming anything about the underlying dynamical system that produced them?
+This is a very basic tutorial where visualisations serve as replacements for the underlying mathematical concepts. Interested readers are referred to the work of Gary Froyland (which introduced the concept of estimating invariant measures as we do in this article).</description>
+    </item>
+    
+  </channel>
+</rss>

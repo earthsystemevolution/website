@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Earth System Evolution</title>
+    <link>/page/</link>
+    <description>Recent content in Pages on Earth System Evolution</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog</title>
+      <link>/page/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/page/blog/</guid>
+      <description>Blog  </description>
+    </item>
+    
+    <item>
+      <title>Crew</title>
+      <link>/page/crew/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/page/crew/</guid>
+      <description>Earth System Evolution group The Earth System Evolution group is an interdisciplinary group based at the Department of Earth Science at the University of Bergen (UiB) in Norway. We are part of the K.G. Jebsen Centre for Deep Sea Research) and the Bjerknes Centre for Climate Research (BCCR). Formerly, we were part of the Centre for Geobiology (CGB), which was superseeded by the K.G. Jebsen Centre for Deep Sea Research in May 2017.</description>
+    </item>
+    
+    <item>
+      <title>Earth System Evolution</title>
+      <link>/page/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/page/research/</guid>
+      <description>Motivation Earth scientists increasingly recognize the need to study not only the components of the Earth system (lithosphere-hydrosphere-atmosphere-biosphere), but also the complex and evolving nature of their coupling. Understanding these interconnections is crucial for global environmental projections, including climate tipping points, ocean acidification, sea level rise, biodiversity loss and mass extinctions. Although unprecedented in the history of human civilization, such dramatic upheavals have occurred repeatedly throughout Earth’s history. Researchers therefore turn to the geological record for insights into causes, consequences, and time scales of global change in the past.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/page/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/page/publications/</guid>
+      <description>Recent publications  </description>
+    </item>
+    
+    <item>
+      <title>Tools</title>
+      <link>/page/tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/page/tools/</guid>
+      <description>Tools On this page, we will provide links to code repositories for different methods used in our projects. We also share some interactive software tools for generating time series from dynamical systems.
+ Wrapper functions in R that simplify lagged CCM analyses with surrogate testing. These functions accompany our study of the forcing of Late Pleistocene ice volume by spatially variable summer energy.
+ An interactive Daisyworld model that can be used to generate time series of components of a coupled dynamical system involving external forcing and internal feedbacks.</description>
+    </item>
+    
+  </channel>
+</rss>
