@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Earth System Evolution</title>
+    <link>https://www.earthsystemevolution.com/authors/</link>
+    <description>Recent content in Authors on Earth System Evolution</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 May 2020 00:00:01 +0200</lastBuildDate>
+    
+	<atom:link href="https://www.earthsystemevolution.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://www.earthsystemevolution.com/authors/bjarte/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/bjarte/</guid>
+      <description>Bjarte Hannisdal is an Associate professor of Earth science at the University of Bergen. His research interests include quantitative paleobiology and geobiology, Earth system history, and causality in dynamical systems. He leads the Earth System Evolution group, which develops novel methods for quantifying causal interactions from time series, with the aim of transforming the way geoscientists use observed geological records to study changes in Earth&amp;rsquo;s past.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.earthsystemevolution.com/authors/david/</link>
+      <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/david/</guid>
+      <description>David Diego is a Researcher at the Department of Earth science at the University of Bergen. His research interests include theoretical physics, dynamical systems, and mathematical modelling of biological processes. In this project he has worked on the computation of transfer entropy from time series using transfer operator approximation, making sure that our methods rest on solid mathematical foundations.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.earthsystemevolution.com/authors/jo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/jo/</guid>
+      <description>Jo Brendryen is a Researcher at the Department of Earth science at the University of Bergen. His research interests include climate system interactions, paleoclimate reconstruction, and geochronology. In this project he has worked on quantifying chronological uncertainty in paleoclimate proxies and the deglacial radiocarbon evolution of the Norwegian Sea.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.earthsystemevolution.com/authors/kristian/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/kristian/</guid>
+      <description>Kristian Agasøster Haaga is a PhD fellow at the Department of Earth science, University of Bergen. His research interests include causality in dynamical systems, paleoclimate analysis, geochemistry, and geology. In this project he has worked on the computation of causal measures from time series, including a novel causal asymmetry test, and the development of robust, high-performance open source code.</description>
+    </item>
+    
+    <item>
+      <title>Brendryen J</title>
+      <link>https://www.earthsystemevolution.com/authors/brendryen-j/</link>
+      <pubDate>Mon, 04 May 2020 00:00:01 +0200</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/brendryen-j/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diego D</title>
+      <link>https://www.earthsystemevolution.com/authors/diego-d/</link>
+      <pubDate>Mon, 04 May 2020 00:00:01 +0200</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/diego-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haaga KA</title>
+      <link>https://www.earthsystemevolution.com/authors/haaga-ka/</link>
+      <pubDate>Mon, 04 May 2020 00:00:01 +0200</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/haaga-ka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hannisdal B</title>
+      <link>https://www.earthsystemevolution.com/authors/hannisdal-b/</link>
+      <pubDate>Mon, 04 May 2020 00:00:01 +0200</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/hannisdal-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haflidason H</title>
+      <link>https://www.earthsystemevolution.com/authors/haflidason-h/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/haflidason-h/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yokoyama Y</title>
+      <link>https://www.earthsystemevolution.com/authors/yokoyama-y/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/yokoyama-y/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ho SL</title>
+      <link>https://www.earthsystemevolution.com/authors/ho-sl/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/ho-sl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meckler AN</title>
+      <link>https://www.earthsystemevolution.com/authors/meckler-an/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/meckler-an/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meinicke N</title>
+      <link>https://www.earthsystemevolution.com/authors/meinicke-n/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/meinicke-n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nürnberg D</title>
+      <link>https://www.earthsystemevolution.com/authors/n%C3%BCrnberg-d/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/n%C3%BCrnberg-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Schiebel R</title>
+      <link>https://www.earthsystemevolution.com/authors/schiebel-r/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/schiebel-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tripati A</title>
+      <link>https://www.earthsystemevolution.com/authors/tripati-a/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/tripati-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bjarte Hannisdal</title>
+      <link>https://www.earthsystemevolution.com/authors/bjarte-hannisdal/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/bjarte-hannisdal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Diego</title>
+      <link>https://www.earthsystemevolution.com/authors/david-diego/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/david-diego/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kristian A. Haaga</title>
+      <link>https://www.earthsystemevolution.com/authors/kristian-a.-haaga/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/kristian-a.-haaga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tor Einar Møller</title>
+      <link>https://www.earthsystemevolution.com/authors/tor-einar-m%C3%B8ller/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/tor-einar-m%C3%B8ller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Born A</title>
+      <link>https://www.earthsystemevolution.com/authors/born-a/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/born-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>van der Bilt WGM</title>
+      <link>https://www.earthsystemevolution.com/authors/van-der-bilt-wgm/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/van-der-bilt-wgm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Balthasar U</title>
+      <link>https://www.earthsystemevolution.com/authors/balthasar-u/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/balthasar-u/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eichenseer K</title>
+      <link>https://www.earthsystemevolution.com/authors/eichenseer-k/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/eichenseer-k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kiessling W</title>
+      <link>https://www.earthsystemevolution.com/authors/kiessling-w/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/kiessling-w/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smart CW</title>
+      <link>https://www.earthsystemevolution.com/authors/smart-cw/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/smart-cw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stander J</title>
+      <link>https://www.earthsystemevolution.com/authors/stander-j/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/stander-j/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jørgensen SL</title>
+      <link>https://www.earthsystemevolution.com/authors/j%C3%B8rgensen-sl/</link>
+      <pubDate>Fri, 14 Jun 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/j%C3%B8rgensen-sl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mogollon, JM</title>
+      <link>https://www.earthsystemevolution.com/authors/mogollon-jm/</link>
+      <pubDate>Fri, 14 Jun 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/mogollon-jm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhao R</title>
+      <link>https://www.earthsystemevolution.com/authors/zhao-r/</link>
+      <pubDate>Fri, 14 Jun 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/zhao-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bernasconi SM</title>
+      <link>https://www.earthsystemevolution.com/authors/bernasconi-sm/</link>
+      <pubDate>Thu, 25 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/bernasconi-sm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grauel A-L</title>
+      <link>https://www.earthsystemevolution.com/authors/grauel-a-l/</link>
+      <pubDate>Thu, 25 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/grauel-a-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leutert TJ</title>
+      <link>https://www.earthsystemevolution.com/authors/leutert-tj/</link>
+      <pubDate>Thu, 25 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/leutert-tj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marchitto TM</title>
+      <link>https://www.earthsystemevolution.com/authors/marchitto-tm/</link>
+      <pubDate>Thu, 25 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/marchitto-tm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meckler N</title>
+      <link>https://www.earthsystemevolution.com/authors/meckler-n/</link>
+      <pubDate>Thu, 25 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/meckler-n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Piasecki A</title>
+      <link>https://www.earthsystemevolution.com/authors/piasecki-a/</link>
+      <pubDate>Thu, 25 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/piasecki-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tisserand A</title>
+      <link>https://www.earthsystemevolution.com/authors/tisserand-a/</link>
+      <pubDate>Thu, 25 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/tisserand-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lunnan EM</title>
+      <link>https://www.earthsystemevolution.com/authors/lunnan-em/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/lunnan-em/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mangerud J</title>
+      <link>https://www.earthsystemevolution.com/authors/mangerud-j/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/mangerud-j/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Svean A</title>
+      <link>https://www.earthsystemevolution.com/authors/svean-a/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/svean-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Svendsen JI</title>
+      <link>https://www.earthsystemevolution.com/authors/svendsen-ji/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/svendsen-ji/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vasskog K</title>
+      <link>https://www.earthsystemevolution.com/authors/vasskog-k/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/vasskog-k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.earthsystemevolution.com/authors/admin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/admin/</guid>
+      <description>Bjarte Hannisdal is an Associate professor of Earth science at the University of Bergen. His research interests include quantitative paleobiology and geobiology, Earth system history, and causality in dynamical systems. He leads the Earth System Evolution group, which develops novel methods for quantifying causal interactions from time series, with the aim of transforming the way geoscientists use observed geological records to study changes in Earth&amp;rsquo;s past.</description>
+    </item>
+    
+    <item>
+      <title>Liow LH</title>
+      <link>https://www.earthsystemevolution.com/authors/liow-lh/</link>
+      <pubDate>Thu, 12 Apr 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/liow-lh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benton MJ</title>
+      <link>https://www.earthsystemevolution.com/authors/benton-mj/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/benton-mj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brocklehurst N</title>
+      <link>https://www.earthsystemevolution.com/authors/brocklehurst-n/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/brocklehurst-n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dunhill AM</title>
+      <link>https://www.earthsystemevolution.com/authors/dunhill-am/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/dunhill-am/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reitan T</title>
+      <link>https://www.earthsystemevolution.com/authors/reitan-t/</link>
+      <pubDate>Wed, 12 Jul 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/reitan-t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Henderiks J</title>
+      <link>https://www.earthsystemevolution.com/authors/henderiks-j/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/henderiks-j/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Baumberger T</title>
+      <link>https://www.earthsystemevolution.com/authors/baumberger-t/</link>
+      <pubDate>Wed, 05 Sep 2012 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/baumberger-t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flesland K</title>
+      <link>https://www.earthsystemevolution.com/authors/flesland-k/</link>
+      <pubDate>Wed, 05 Sep 2012 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/flesland-k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fonseca R</title>
+      <link>https://www.earthsystemevolution.com/authors/fonseca-r/</link>
+      <pubDate>Wed, 05 Sep 2012 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/fonseca-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lanzén A</title>
+      <link>https://www.earthsystemevolution.com/authors/lanz%C3%A9n-a/</link>
+      <pubDate>Wed, 05 Sep 2012 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/lanz%C3%A9n-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pedersen RB</title>
+      <link>https://www.earthsystemevolution.com/authors/pedersen-rb/</link>
+      <pubDate>Wed, 05 Sep 2012 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/pedersen-rb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Schleper C</title>
+      <link>https://www.earthsystemevolution.com/authors/schleper-c/</link>
+      <pubDate>Wed, 05 Sep 2012 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/schleper-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steen IH</title>
+      <link>https://www.earthsystemevolution.com/authors/steen-ih/</link>
+      <pubDate>Wed, 05 Sep 2012 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/steen-ih/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thorseth IH</title>
+      <link>https://www.earthsystemevolution.com/authors/thorseth-ih/</link>
+      <pubDate>Wed, 05 Sep 2012 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/thorseth-ih/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Øvreås L</title>
+      <link>https://www.earthsystemevolution.com/authors/%C3%B8vre%C3%A5s-l/</link>
+      <pubDate>Wed, 05 Sep 2012 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/%C3%B8vre%C3%A5s-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peters SE</title>
+      <link>https://www.earthsystemevolution.com/authors/peters-se/</link>
+      <pubDate>Fri, 25 Nov 2011 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/authors/peters-se/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

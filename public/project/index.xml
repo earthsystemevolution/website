@@ -2,41 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Earth System Evolution</title>
-    <link>/project/</link>
+    <link>https://www.earthsystemevolution.com/project/</link>
     <description>Recent content in Projects on Earth System Evolution</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 11 Nov 2019 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.earthsystemevolution.com/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>1. Causal interactions in deep time</title>
-      <link>/project/causal_interactions_in_deep_time/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Causality Tools</title>
+      <link>https://www.earthsystemevolution.com/project/causalitytools/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0100</pubDate>
       
-      <guid>/project/causal_interactions_in_deep_time/</guid>
-      <description>Project 1: Causal interactions in deep time It is a quirk of human cognition that we tend to process temporally extended, dynamic information by segmenting it into discrete events with a beginning and an end. Longer-term patterns are often perceived as a background, or status quo, against which events are identified and often retrofitted with a cause-effect structure. In geology, this event-based causal focus is enhanced by the discontinuous nature of the stratigraphic record (which, “like the life of a soldier, consists of long periods of boredom and short periods of terror” in Derek Ager’s famous aphorism).</description>
+      <guid>https://www.earthsystemevolution.com/project/causalitytools/</guid>
+      <description>A Julia package for computing causal estimators from time series data.</description>
     </item>
     
     <item>
-      <title>2. Dynamical system invariants and information flow</title>
-      <link>/project/information-invariants/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Predictive asymmetry</title>
+      <link>https://www.earthsystemevolution.com/project/asymmetrytest/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0100</pubDate>
       
-      <guid>/project/information-invariants/</guid>
-      <description>Project 2: Dynamical system invariants and information flow   Here are some articles introducing the key concepts we use in this project: 
-  Estimating invariant probability distributions from time series  
-     Motivation In an open, dissipative system that exchanges energy and matter with its environment, a balancing of driving forces and dissipation will confine the dynamics to a subset of the state space known as an attractor.</description>
+      <guid>https://www.earthsystemevolution.com/project/asymmetrytest/</guid>
+      <description>A simple and robust test for causal directionality in complex systems.</description>
     </item>
     
     <item>
-      <title>3. Energy landscapes and microbial interactions in hydrothermal systems</title>
-      <link>/project/energy_landscapes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Uncertain Data</title>
+      <link>https://www.earthsystemevolution.com/project/uncertaindata/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0100</pubDate>
       
-      <guid>/project/energy_landscapes/</guid>
-      <description>Project 3: Energy landscapes. Deep-sea sediments and subseafloor environments host slowly growing, low-density microbial populations. Microbial persistence in systems with such extreme energy limitation remains poorly understood. Hydrothermal vents, on the other hand, are veritable oases in the deep-sea desert, supporting rich biological communities with primary productivity driven by chemosynthetic autotrophs. Energy landscapes in hydrothermal vents are shaped by chemical gradients resulting from the mixing of seawater and vent fluids.</description>
+      <guid>https://www.earthsystemevolution.com/project/uncertaindata/</guid>
+      <description>A Julia package for working with uncertain values and datasets.</description>
     </item>
     
   </channel>

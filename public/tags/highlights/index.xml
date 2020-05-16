@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Highlights on Earth System Evolution</title>
+    <link>https://www.earthsystemevolution.com/tags/highlights/</link>
+    <description>Recent content in Highlights on Earth System Evolution</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 May 2020 00:00:01 +0200</lastBuildDate>
+    
+	<atom:link href="https://www.earthsystemevolution.com/tags/highlights/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A simple test for causality in complex systems</title>
+      <link>https://www.earthsystemevolution.com/publication/haaga_et_al_2020/</link>
+      <pubDate>Mon, 04 May 2020 00:00:01 +0200</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/publication/haaga_et_al_2020/</guid>
+      <description>We show that the evolution of any dynamical system is related to a predictive asymmetry that quantifies causal connections from limited observations.</description>
+    </item>
+    
+    <item>
+      <title>Eurasian ice sheet collapse was a major source of Meltwater Pulse 1A 14,600 years ago</title>
+      <link>https://www.earthsystemevolution.com/publication/brendryen_et_al_2020/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/publication/brendryen_et_al_2020/</guid>
+      <description>We show that marine-based sectors of the Eurasian ice sheet complex collapsed at the Bølling transition and contributed significantly to Meltwater Pulse 1a.</description>
+    </item>
+    
+    <item>
+      <title>Transfer entropy computation using the Perron-Frobenius operator</title>
+      <link>https://www.earthsystemevolution.com/publication/diego_et_al_2019/</link>
+      <pubDate>Fri, 19 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/publication/diego_et_al_2019/</guid>
+      <description>We compute transfer entropy by estimating the invariant measure from the invariant distribution of the transfer operator approximated from time series. We use two methods for approximating the transfer operator, and find that our methods are robust to noise and show promising performance relative to other transfer entropy estimators.</description>
+    </item>
+    
+    <item>
+      <title>Forcing of Late Pleistocene ice volume by spatially variable summer energy</title>
+      <link>https://www.earthsystemevolution.com/publication/haaga_et_al_2018/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/publication/haaga_et_al_2018/</guid>
+      <description>We leverage the intrinsic dynamical information in empirical records to show that the external forcing of ice volume encompasses insolation signals with a wide range of orbital frequency content, and cannot be fully accounted for by a unique time series.</description>
+    </item>
+    
+    <item>
+      <title>Causality from palaeontological time series</title>
+      <link>https://www.earthsystemevolution.com/publication/hannisdal_liow_2018/</link>
+      <pubDate>Thu, 12 Apr 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/publication/hannisdal_liow_2018/</guid>
+      <description>We review some of the ways in which causal connections can be extracted from palaeontological time series and provide an overview of three recently developed analytical frameworks that have been applied to palaeontological questions.</description>
+    </item>
+    
+    <item>
+      <title>Common species link global ecosystems to climate change: dynamical evidence in the planktonic fossil record</title>
+      <link>https://www.earthsystemevolution.com/publication/hannisdal_et_al_2017/</link>
+      <pubDate>Wed, 12 Jul 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/publication/hannisdal_et_al_2017/</guid>
+      <description>We use common and widespread species of planktonic foraminifera in deep-sea sediments and show that the observed global occupancy of planktonic foraminifera has been dynamically coupled to past oceanographic changes captured in deep-ocean temperature reconstructions.</description>
+    </item>
+    
+  </channel>
+</rss>
