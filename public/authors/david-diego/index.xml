@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Diego on Earth System Evolution</title>
+    <link>https://www.earthsystemevolution.com/authors/david-diego/</link>
+    <description>Recent content in David Diego on Earth System Evolution</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Nov 2019 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://www.earthsystemevolution.com/authors/david-diego/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Causality Tools</title>
+      <link>https://www.earthsystemevolution.com/project/causalitytools/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/project/causalitytools/</guid>
+      <description>A Julia package for computing causal estimators from time series data.</description>
+    </item>
+    
+    <item>
+      <title>Predictive asymmetry</title>
+      <link>https://www.earthsystemevolution.com/project/asymmetrytest/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/project/asymmetrytest/</guid>
+      <description>A simple and robust test for causal directionality in complex systems.</description>
+    </item>
+    
+  </channel>
+</rss>

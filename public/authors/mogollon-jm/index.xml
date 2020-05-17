@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mogollon, JM on Earth System Evolution</title>
+    <link>https://www.earthsystemevolution.com/authors/mogollon-jm/</link>
+    <description>Recent content in Mogollon, JM on Earth System Evolution</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Jun 2019 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://www.earthsystemevolution.com/authors/mogollon-jm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nitrifier abundance and diversity peak at deep redox transition zones</title>
+      <link>https://www.earthsystemevolution.com/publication/zhao_et_al_2019/</link>
+      <pubDate>Fri, 14 Jun 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.earthsystemevolution.com/publication/zhao_et_al_2019/</guid>
+      <description>We provide quantitative constraints on microbial nitrogen cycling in open ocean oligotrophic sediments from seafloor to basement. Local peaks in diversity and abundance at redox transition zones deep within the sediments suggest that nitrogen cycling microbes are revived from their maintenance state and start growing again after millions of years of attrition.</description>
+    </item>
+    
+  </channel>
+</rss>
