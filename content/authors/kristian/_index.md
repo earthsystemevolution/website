@@ -72,10 +72,10 @@ user_groups = [" "]
 #  icon_pack = "ai"
 #  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
-#[[social]]
-#  icon = "github"
-#  icon_pack = "fab"
-#  link = "https://github.com/gcushen"
+[[social]]
+  icon = "github"
+  icon_pack = "fab"
+  link = "https://github.com/kahaaga"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -86,4 +86,4 @@ user_groups = [" "]
 
 +++
 
-Kristian Agasøster Haaga is a PhD fellow at the Department of Earth science, University of Bergen. His research interests include causality in dynamical systems, paleoclimate analysis, geochemistry, and geology. In this project he has worked on the computation of causal measures from time series, including a novel causal asymmetry test, and the development of robust, high-performance open source code.
+Kristian Agasøster Haaga is a Postdoctoral research fellow at the Department of Earth science, University of Bergen. His research interests include causality in dynamical systems, paleoclimate analysis, geochemistry, and geology. In his PhD project (2020) he worked on the computation of causal measures from time series, introduced the novel predictive asymmetry test, and developed robust, high-performance open source code.
