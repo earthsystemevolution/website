@@ -9,7 +9,7 @@ authors = ["kristian"]
 superuser = false
 
 # Role/position
-role = "PhD fellow"
+role = "Postdoc"
 
 # add a "weight" to avoid ordering people by date
 weight = 4
@@ -28,7 +28,8 @@ email = ""
 interests = [
   "Causality in dynamical systems",
   "Paleoclimate analysis",
-  "Geochemistry and geology"
+  "Geochemistry and geology",
+  "Software development"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -37,14 +38,14 @@ user_groups = [" "]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "MSc in Earth science"
+  course = "PhD in Earth science"
   institution = "University of Bergen"
-  year = 2014
+  year = 2020
 
 #[[education.courses]]
-#  course = ""
-#  institution = ""
-#  year = 2000
+#  course = "MSc in Earth science"
+#  institution = "University of Bergen"
+#  year = 2014
 
 #[[education.courses]]
 #  course = "BSc in Artificial Intelligence"
