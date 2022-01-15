@@ -79,8 +79,3 @@ url_pdf = "https://www.sciencedirect.com/science/article/pii/S0277379119304123"
   focal_point = "Center"
 +++
 
-<!--
-{{% alert note %}}
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-{{% /alert %}}
--->

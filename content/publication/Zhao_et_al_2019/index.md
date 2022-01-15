@@ -80,8 +80,3 @@ url_pdf = "https://www.nature.com/articles/s41598-019-44585-6.pdf"
   focal_point = "Center"
 +++
 
-<!--
-{{% alert note %}}
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-{{% /alert %}}
--->

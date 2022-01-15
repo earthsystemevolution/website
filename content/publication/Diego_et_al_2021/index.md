@@ -26,7 +26,7 @@ publication_short = "*Math. Biosci* 338: 108615"
 abstract = "Understanding how environmental factors affect microbial survival is an important open problem in microbial ecology. Patterns of microbial community structure have been characterized across a wide range of different environmental settings, but the mechanisms generating these patterns remain poorly understood. Here, we use mathematical modelling to investigate fundamental connections between chemical power supply to a system and patterns of microbial survival. We reveal a complex set of interdependences between power supply and distributions of survival probability across microbial habitats, in a case without interspecific resource competition. We also find that different properties determining power supply, such as substrate fluxes and Gibbs energies of reactions, affect microbial survival in fundamentally different ways. Moreover, we show how simple connections between power supply and growth can give rise to complex patterns of microbial survival across physicochemical gradients, such as pH gradients. Our findings show the importance of taking energy fluxes into account in order to reveal fundamental connections between microbial survival and environmental conditions, and to obtain a better understanding of microbial population dynamics in natural environments."
 
 # Summary. An optional shortened abstract.
-summary = "We use mathematical modelling to reveal complex interdependences between power supply and survival probabilities across microbial habitats. Our findings show the importance of energy fluxes in determining the relationship between microbial survival and environmental conditions."
+summary = "We use mathematical modelling to reveal complex interdependences between power supply and survival probabilities across microbial habitats."
 
 # Digital Object Identifier (DOI)
 doi = "10.1016/j.mbs.2021.108615"
@@ -79,8 +79,3 @@ url_pdf = "https://www.sciencedirect.com/science/article/pii/S0025556421000602"
   focal_point = ""
 +++
 
-<!--
-{{% alert note %}}
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-{{% /alert %}}
--->

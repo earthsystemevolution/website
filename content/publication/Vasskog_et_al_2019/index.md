@@ -80,8 +80,4 @@ url_pdf = "https://onlinelibrary.wiley.com/doi/pdf/10.1002/jqs.3109"
   focal_point = "Center"
 +++
 
-<!--
-{{% alert note %}}
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-{{% /alert %}}
--->
+

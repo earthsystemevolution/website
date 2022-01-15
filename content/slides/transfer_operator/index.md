@@ -1,358 +1,65 @@
 ---
 title: A new method for quantifying Earth system interactions from time series
+event: K. G. Jebsen Centre for Deep Sea Research
+event_url: https://www.uib.no/en/kgj-deepsea
+location: Bergen, Norway
 summary: A presentation of transfer entropy computation using the Perron-Frobenius operator.
-authors: [David]
-tags: []
-categories: []
-date: "2019-05-23T00:00:00Z"
-slides:
-  # Choose a theme from https://github.com/hakimel/reveal.js#theming
-  theme: white
-  # Choose a code highlighting style (if highlighting enabled in `params.toml`)
-  #   Light style: github. Dark style: dracula (default).
-  highlight_style: dracula
+abstract: "We present a method for computing the transfer entropy between time series using Ulam’s approximation of the Perron-Frobenius (transfer) operator associated with the map generating the dynamics. Our method differs from standard transfer entropy estimators in that the invariant measure is estimated not directly from the data points but from the invariant distribution of the transfer operator approximated from the data points. We discuss the robustness of our method to sparse and noisy data, and assess its performance relative to other transfer entropy estimators."
 
-#---
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: "2018-11-26T12:15:00Z"
+date_end: "2018-11-26T13:00:00Z"
+all_day: false
 
-#<img class="plain"
-#  src="Seminar_TE_28.11.18/Seminar_TE_28.11.18.001.png"
-#  width="pagewidth"
-#/>
+# Schedule page publish date (NOT talk date).
+publishDate: "2019-01-01T00:00:00Z"
 
+# Adding author name makes it show up as "latest" on person page
+#authors: [David]
+tags: ["Presentations"]
+
+# Is this a featured talk? (true/false)
+featured: false
+
+image:
+  caption: 'Estimating transfer entropy from the invariant distribution'
+  focal_point: Right
+
+links:
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+# Markdown Slides (optional).
+#   Associate this talk with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: transfer_operator
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects:
+- internal-project
+
+# Enable math on this page?
+math: true
 ---
 
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.001.png">
-</section>
+<!--Slides can be added in a few ways:
 
----
+- **Create** slides using Academic's [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.002.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.003.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.004.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.005.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.006.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.007.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.008.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.009.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.010.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.011.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.012.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.013.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.014.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.015.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.016.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.017.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.018.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.019.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.020.png">
-</section>
-
----
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.021.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.022.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.023.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.024.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.025.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.026.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.027.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.028.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.029.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.030.png">
-</section>
-
----
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.031.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.032.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.033.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.034.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.035.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.036.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.037.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.038.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.039.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.040.png">
-</section>
-
----
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.041.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.042.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.043.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.044.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.045.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.046.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.047.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.048.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.049.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.050.png">
-</section>
-
----
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.051.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.052.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.053.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.054.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.055.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.056.png">
-</section>
-
----
-
-<section
-data-background-image="Seminar_TE_28.11.18/Seminar_TE_28.11.18.058.png">
-</section>
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
+-->

@@ -48,28 +48,24 @@ subtitle = ""
  css_class = ""
 +++
 
+
 <center>
 
-Our work is made possible by
+#### Our work is made possible by
 
 </br>
 
 <a href="https://www.mohnfoundation.no/?lang=en">
-  <img src="/img/TMS_eng_rgb.jpg" width="100"/></a>
+  <img src="TMS_eng_rgb.jpg" width="100"/></a>
 
 </br>
 
 <a href="https://www.forskningsradet.no/en/Home_page/1177315753906">
-  <img src="/img/FR_logo_Eng_rgb.png" width="200"/></a>
+  <img src="FR_logo_Eng_rgb.png" width="200"/></a>
 
 </br>
 
-<a href="https://stiftkgj.no/?lang=en">
-  <img src="/img/Logo_skgj_rgb.png" width="100"/></a>
-
-  </br>
-
   <a href="https://www.uib.no/en">
-    <img src="/img/UiBlogo_Eng_gray_center.png" width="200"/></a>
+    <img src="uib_400x400_svart_SoMe.png" width="100"/></a>
 
 </center>
