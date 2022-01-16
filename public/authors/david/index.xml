@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Diego | Earth System Evolution</title>
+    <link>https://www.earthsystemevolution.com/authors/david/</link>
+      <atom:link href="https://www.earthsystemevolution.com/authors/david/index.xml" rel="self" type="application/rss+xml" />
+    <description>David Diego</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://www.earthsystemevolution.com/authors/david/avatar_hu20c5d760b1f611404452ec4f4dfadf75_59096_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>David Diego</title>
+      <link>https://www.earthsystemevolution.com/authors/david/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,1332 @@
+<!DOCTYPE html><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.4.0 for Hugo" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Bjarte Hannisdal" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="A Julia package for computing causal estimators from time series data." />
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://www.earthsystemevolution.com/project/causalitytools/" />
+
+  
+  
+  
+    <meta name="theme-color" content="#1565c0" />
+  
+
+  
+  
+    
+    <script src="/js/mathjax-config.js"></script>
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.f1ecf783c14edc00c9320c205831ad8e.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha512-W0xM4mr6dEP9nREo7Z9z+9X70wytKvMGeDsj7ps2+xg5QPrEBXC8tAW1IFnzjR6eoJ90JmCnFzerQJTLzIEHjA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/monokai.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/monokai.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+      
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.246129d782c938a644fe2d653d8a976f.css" />
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+
+  
+    <link rel="manifest" href="/manifest.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hud242a1b9c063d413ae2af03b7832dc94_98570_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hud242a1b9c063d413ae2af03b7832dc94_98570_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="https://www.earthsystemevolution.com/project/causalitytools/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary_large_image" />
+  
+  <meta property="og:site_name" content="Earth System Evolution" />
+  <meta property="og:url" content="https://www.earthsystemevolution.com/project/causalitytools/" />
+  <meta property="og:title" content="Causality Tools | Earth System Evolution" />
+  <meta property="og:description" content="A Julia package for computing causal estimators from time series data." /><meta property="og:image" content="https://www.earthsystemevolution.com/project/causalitytools/featured.png" />
+    <meta property="twitter:image" content="https://www.earthsystemevolution.com/project/causalitytools/featured.png" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2019-11-11T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2022-01-07T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.earthsystemevolution.com/project/causalitytools/"
+  },
+  "headline": "Causality Tools",
+  
+  "image": [
+    "https://www.earthsystemevolution.com/project/causalitytools/featured.png"
+  ],
+  
+  "datePublished": "2019-11-11T00:00:00Z",
+  "dateModified": "2022-01-07T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Bjarte Hannisdal"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Earth System Evolution",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.earthsystemevolution.com/media/icon_hud242a1b9c063d413ae2af03b7832dc94_98570_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "A Julia package for computing causal estimators from time series data."
+}
+</script>
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>Causality Tools | Earth System Evolution</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="8dbdc8c345108375fa8dd226bc71acac" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.8f76bdc9e086322ed5147724ebba3d06.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<header class="header--fixed">
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">Earth System Evolution</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">Earth System Evolution</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#about"><span>Home</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#featured"><span>Publications</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#projects"><span>Tools</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#people"><span>People</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        <li class="nav-item dropdown theme-dropdown">
+          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+            <i class="fas fa-moon" aria-hidden="true"></i>
+          </a>
+          <div class="dropdown-menu">
+            <a href="#" class="dropdown-item js-set-theme-light">
+              <span>Light</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-dark">
+              <span>Dark</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-auto">
+              <span>Automatic</span>
+            </a>
+          </div>
+        </li>
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    <article class="article article-project">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<div class="article-container pt-3">
+  <h1>Causality Tools</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+          Last updated on
+      
+    
+    Jan 7, 2022
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header" href="/project/causalitytools/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 412px;">
+  <div style="position: relative">
+    <img src="/project/causalitytools/featured_hu972875733fd7d00257b1d45e6e4b68aa_5869047_720x2500_fit_q75_h2_lanczos_3.webp" width="720" height="412" alt="" class="featured-image">
+    
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <h2 id="a-brief-tutorial">A brief tutorial</h2>
+<p>Here&rsquo;s an example of some of the functionality in the <a href="https://github.com/JuliaDynamics/CausalityTools.jl" target="_blank" rel="noopener">CausalityTools.jl</a> package, which provides algorithms for characterizing dynamical coupling and causal interactions from time series data. The package is developed by <a href="../../authors/kristian/">Kristian A. Haaga</a> and is integrated in the <a href="https://github.com/JuliaDynamics" target="_blank" rel="noopener">JuliaDynamics</a> organization for dynamical systems, nonlinear dynamics and complex systems. The example was made in a <a href="https://jupyter.org" target="_blank" rel="noopener">JupyterLab</a> notebook using a <a href="https://julialang.org" target="_blank" rel="noopener">Julia</a> 1.6.0 kernel and <a href="https://github.com/JuliaDynamics/CausalityTools.jl" target="_blank" rel="noopener">CausalityTools.jl</a> version 1.2.0.</p>
+<p>Please see the package <a href="https://juliadynamics.github.io/CausalityTools.jl/stable/" target="_blank" rel="noopener">documentation</a> for more details.</p>
+<hr>
+<p>We first create a dedicated folder and start by activating a Julia project in that folder:</p>
+<pre><code class="language-julia">using Pkg
+Pkg.activate(&quot;./&quot;)
+</code></pre>
+<p>Then we add the required packages to the project:</p>
+<pre><code class="language-julia">Pkg.add([&quot;CausalityTools&quot;, &quot;Plots&quot;, &quot;LaTeXStrings&quot;])
+</code></pre>
+<p>Now we are ready to load the modules we need for this example:</p>
+<pre><code class="language-julia">using CausalityTools, Plots, LaTeXStrings
+</code></pre>
+<h3 id="generating-time-series-from-a-dynamical-system">Generating time series from a dynamical system</h3>
+<p>CausalityTools.jl provides a range of different example systems as built-in functions. As an example, let&rsquo;s choose a discrete dynamical system composed of two coupled logistic maps where $x$ unidirectionally influences $y$, using the function <code>logistic2_unidir</code>, which takes the following arguments:</p>
+<ul>
+<li>$u_0$, a two-element vector specifying the initial states of $x$ and $y$</li>
+<li>$c_{xy}$, a scalar controlling the strength of the influence of $x$ on $y$</li>
+<li>$r_{1}$ and $r_{2}$ are the model parameters, which by default are set to values yielding chaotic behaviour</li>
+<li>$\sigma$ is a scalar on $[0, 1]$ controlling the level of dynamical noise</li>
+</ul>
+<p>For more details on this system, see <a href="https://juliadynamics.github.io/CausalityTools.jl/stable/example_systems/" target="_blank" rel="noopener">Example systems</a> in the documentation.</p>
+<pre><code class="language-julia">system = logistic2_unidir(u₀ = rand(2), 
+                          c_xy = 0.5, 
+                          r₁ = 3.78,
+                          r₂ = 3.66,
+                          σ = 0.05)
+</code></pre>
+<p>Now we can generate an orbit (a collection of points following the evolution function of the system) and extract time series for the $x$ and $y$ components:</p>
+<pre><code class="language-julia">npts = 300 # number of points in the time series
+Ttr = 1000 # how many transient points to skip
+
+orbit = trajectory(system, npts, Ttr = Ttr) 
+x = orbit[:, 1]
+y = orbit[:, 2]
+
+# set some nice plot font defaults
+default(fontfamily=&quot;Computer Modern&quot;,
+        yguidefontsize = 12,
+        ytickfontsize = 8,
+        xguidefontsize = 12,
+        xtickfontsize = 8,
+        legendfontsize = 12)
+
+
+px = plot(0:npts, x, c = :black)
+py = plot(0:npts, y, c = :red)
+
+plot(px, py, layout = grid(2,1), link = :all, legend = false,
+    xlabel =[&quot;&quot; L&quot;t&quot;],  ylabel = [L&quot;x(t)&quot; L&quot;y(t)&quot;], size = (600, 400))
+</code></pre>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="svg"
+           src="/project/causalitytools/output_9_0.svg"
+           loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<hr>
+<p>Now we can try to recover the unidirectional causal relationship $x \to y$ by computing causality statistics directly from the time series data. CausalityTools.jl provides a range of different methods, both distance-based and entropy-based. Here we will shamelessly plug an information-theoretic method proposed by <a href="https://www.earthsystemevolution.com/publication/haaga_et_al_2020/" target="_blank" rel="noopener">Haaga <em>et al.</em></a>, called <a href="https://juliadynamics.github.io/CausalityTools.jl/dev/predictive_asymmetry/" target="_blank" rel="noopener">Predictive Asymmetry</a>. The particular implementation of predictive asymmetry used here is based on computing <a href="https://juliadynamics.github.io/CausalityTools.jl/stable/TransferEntropy/" target="_blank" rel="noopener">Transfer Entropy</a> across a range of temporal prediction lags. We choose a simple estimator that counts visitation frequency of states in a rectangular binning of the state space. For more background on these methods, including details on embedding parameters and different estimators, please see the <a href="https://juliadynamics.github.io/CausalityTools.jl/stable/" target="_blank" rel="noopener">documentation</a>.</p>
+<h3 id="causal-analysis">Causal analysis</h3>
+<pre><code class="language-julia">ηs = 1:20 # Prediction lags
+
+# Specify an underlying estimator for transfer entropy
+est = VisitationFrequency(RectangularBinning(4)) 
+
+pa_xy = predictive_asymmetry(x, y, est, ηs) # from x to y
+pa_yx = predictive_asymmetry(y, x, est, ηs) # from y to x
+
+
+p_xy =  plot(ηs, pa_xy, label = L&quot;x \to y&quot;, c = :black, lw = 1.5)
+        plot!(ηs, pa_yx, label = L&quot;y \to x&quot;, c = :red, lw = 1.5)
+        hline!([0], lw = 1, α = 0.2, c = :black, label = &quot;&quot;)
+
+plot(p_xy, size = (600, 400), legend = :outerright, 
+    xlabel = &quot;Prediction lag &quot;*L&quot;(\eta)&quot;,  ylabel = L&quot;\mathbb{A}(\eta)\ [bits]&quot;)
+</code></pre>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="svg"
+           src="/project/causalitytools/output_11_0.svg"
+           loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>The predictive asymmetry results can be interpreted as follows: If two variables $a$ and $b$ are dynamically coupled in a <em>unidirectional</em> causal relationship $a \to b$, then we expect the predictive asymmetry from the driver variable $a$ to the response variable $b$ to be positive: $\mathbb{A}_{a \to b} &gt; 0$. Conversely, we expect the predictive asymmetry from the response variable $b$ to the driver variable $a$ to be zero or negative:  $\mathbb{A}_{b \to a} \leq 0$. If there is a <em>bidirectional</em> coupling, then we expect both $\mathbb{A}_{a \to b}$ and $\mathbb{A}_{b \to a}$ to be positive (see example below). Furthermore, we expect the predictive asymmetry to converge towards zero with increasing prediction lag in a system-dependent manner, as the influence of the driver on the response variable diminishes.</p>
+<p>In our example of two chaotic logistic maps unidirectionally coupled $x \to y$, we find that $\mathbb{A}_{x \to y} &gt; 0$  and $\mathbb{A}_{y \to x} &lt; 0$, which indicates a unidirectional causal relationships $x \to y$.</p>
+<p>But what happens if the causal relationship goes both ways?</p>
+<h3 id="bidirectional-causality">Bidirectional causality</h3>
+<p>We can use the function <code>logistic2_bidir</code> to generate bidirectionally coupled logistic maps. The input arguments are the same as for the unidirectional system but there are two separate arguments for the coupling strengths and noise levels in each causal direction.</p>
+<pre><code class="language-julia">system2 = logistic2_bidir(u₀ = rand(2), 
+                          c_xy = 0.3, 
+                          c_yx = 0.3, 
+                          r₁ = 3.7, 
+                          r₂ = 3.8,
+                          σ_xy = 0.05, 
+                          σ_yx = 0.05)
+</code></pre>
+<pre><code class="language-julia">orbit = trajectory(system2, npts, Ttr = Ttr) 
+x = orbit[:, 1]
+y = orbit[:, 2]
+
+pa_xy = predictive_asymmetry(x, y, est, ηs) # from x to y
+pa_yx = predictive_asymmetry(y, x, est, ηs) # from y to x
+
+
+p_xy =  plot(ηs, pa_xy, label = L&quot;x \to y&quot;, c = :black, lw = 1.5)
+        plot!(ηs, pa_yx, label = L&quot;y \to x&quot;, c = :red, lw = 1.5)
+        hline!([0], lw = 1, α = 0.2, c = :black, label = &quot;&quot;)
+
+plot(p_xy, size = (600, 400), legend = :outerright, 
+    xlabel = &quot;Prediction lag &quot;*L&quot;(\eta)&quot;,  ylabel = L&quot;\mathbb{A}(\eta)\ [bits]&quot;)
+</code></pre>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="svg"
+           src="/project/causalitytools/output_14_0.svg"
+           loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>In this case we find that both $\mathbb{A}_{x \to y}$  and $\mathbb{A}_{y \to x}$ are positive, indicating a two-way influence. We stress, however, that bidirectional interactions are notoriously difficult to characterize, and the results will vary considerably with different realizations of the system and with different parameters, especially for short time series. See <a href="https://www.earthsystemevolution.com/publication/haaga_et_al_2020/" target="_blank" rel="noopener">Haaga <em>et al.</em></a> for a more comprehensive analysis of sensitivity and specificity for the logistic maps and many other systems.</p>
+<p>Other examples can be found in the short tutorials on <a href="../asymmetrytest/">Predictive Asymmetry</a> and <a href="../uncertaindata/">Uncertain Data</a>.</p>
+<hr>
+
+    </div>
+
+    
+
+
+
+
+
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://www.earthsystemevolution.com/project/causalitytools/&amp;text=Causality%20Tools" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://www.earthsystemevolution.com/project/causalitytools/&amp;t=Causality%20Tools" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Causality%20Tools&amp;body=https://www.earthsystemevolution.com/project/causalitytools/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://www.earthsystemevolution.com/project/causalitytools/&amp;title=Causality%20Tools" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=Causality%20Tools%20https://www.earthsystemevolution.com/project/causalitytools/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://www.earthsystemevolution.com/project/causalitytools/&amp;title=Causality%20Tools" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/authors/admin/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hua519b17d347faee12130d8c00f40a736_92561_270x270_fill_q75_lanczos_center.jpg" alt="Bjarte Hannisdal"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/admin/">Bjarte Hannisdal</a></h5>
+      <h6 class="card-subtitle">Associate Professor</h6>
+      <p class="card-text">My research interests include Earth system history, quantitative paleo- and geobiology, and causality in dynamical systems.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+    <div class="project-related-pages content-widget-hr">
+      
+      
+
+      
+      
+      
+
+      
+      
+      
+
+      
+      
+      
+    </div>
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+  
+
+  
+
+  
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    <script src="/js/vendor-bundle.min.b73dfaac3b6499dc997741748a7c3fe2.js"></script>
+
+    
+    
+    
+      
+      
+        <script src="https://cdn.jsdelivr.net/gh/desandro/imagesloaded@v4.1.4/imagesloaded.pkgd.min.js" integrity="sha512-S5PZ9GxJZO16tT9r3WJp/Safn31eu8uWrzglMahDT4dsmgqWonRY9grk3j+3tfuPr9WJNsfooOR7Gi7HL5W2jw==" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/gh/metafizzy/isotope@v3.0.6/dist/isotope.pkgd.min.js" integrity="sha512-Zq2BOxyhvnRFXu0+WE6ojpZLOU2jdnqbrM1hmVdGzyeCa1DgM3X5Q4A/Is9xA1IkbUeDd7755dNNI/PzSf2Pew==" crossorigin="anonymous"></script>
+      
+
+      
+      
+
+      
+
+      
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/highlight.min.js" integrity="sha512-Ypjm0o7jOxAd4hpdoppSEN0TQOC19UtPAqD+4s5AlXmUvbmmS/YMxYqAqarQYyxTnB6/rqip9qcxlNB/3U9Wdg==" crossorigin="anonymous"></script>
+        
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/julia.min.js" crossorigin="anonymous"></script>
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/python.min.js" crossorigin="anonymous"></script>
+        
+      
+
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+
+    
+    
+    
+    <script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+    
+    
+      <script src="/js/wowchemy-headroom.1cb9e2fc8399acee94eab837265b73bf.js" type="module"></script>
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="/en/js/wowchemy.min.247fd8f54253895301106e3006f53f38.js"></script>
+
+    
+
+
+
+
+
+
+</body>
+</html>

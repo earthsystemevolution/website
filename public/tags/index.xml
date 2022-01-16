@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Earth System Evolution</title>
+    <link>https://www.earthsystemevolution.com/tags/</link>
+      <atom:link href="https://www.earthsystemevolution.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 18 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.earthsystemevolution.com/media/icon_hud242a1b9c063d413ae2af03b7832dc94_98570_512x512_fill_lanczos_center_3.png</url>
+      <title>Tags</title>
+      <link>https://www.earthsystemevolution.com/tags/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Haaga KA | Earth System Evolution</title>
+    <link>https://www.earthsystemevolution.com/authors/haaga-ka/</link>
+      <atom:link href="https://www.earthsystemevolution.com/authors/haaga-ka/index.xml" rel="self" type="application/rss+xml" />
+    <description>Haaga KA</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 May 2020 00:00:01 +0000</lastBuildDate>
+    <image>
+      <url>https://www.earthsystemevolution.com/media/icon_hud242a1b9c063d413ae2af03b7832dc94_98570_512x512_fill_lanczos_center_3.png</url>
+      <title>Haaga KA</title>
+      <link>https://www.earthsystemevolution.com/authors/haaga-ka/</link>
+    </image>
+    
+    <item>
+      <title>A simple test for causality in complex systems</title>
+      <link>https://www.earthsystemevolution.com/publication/haaga_et_al_2020/</link>
+      <pubDate>Mon, 04 May 2020 00:00:01 +0000</pubDate>
+      <guid>https://www.earthsystemevolution.com/publication/haaga_et_al_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eurasian ice sheet collapse was a major source of Meltwater Pulse 1A 14,600 years ago</title>
+      <link>https://www.earthsystemevolution.com/publication/brendryen_et_al_2020/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.earthsystemevolution.com/publication/brendryen_et_al_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UncertainData.jl: a Julia package for working with measurements and datasets with uncertainties</title>
+      <link>https://www.earthsystemevolution.com/publication/haaga_2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.earthsystemevolution.com/publication/haaga_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Was Common Era glacier expansion in the Arctic Atlantic region triggered by unforced atmospheric cooling?</title>
+      <link>https://www.earthsystemevolution.com/publication/vanderbilt_et_al_2019/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.earthsystemevolution.com/publication/vanderbilt_et_al_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jurassic shift from abiotic to biotic control on marine ecological success</title>
+      <link>https://www.earthsystemevolution.com/publication/eichenseer_et_al_2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.earthsystemevolution.com/publication/eichenseer_et_al_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transfer entropy computation using the Perron-Frobenius operator</title>
+      <link>https://www.earthsystemevolution.com/publication/diego_et_al_2019/</link>
+      <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.earthsystemevolution.com/publication/diego_et_al_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evidence of early deglaciation (18 000 cal a BP) and a postglacial relative sea‐level curve from southern Karmøy, south‐west Norway</title>
+      <link>https://www.earthsystemevolution.com/publication/vasskog_et_al_2019/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.earthsystemevolution.com/publication/vasskog_et_al_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamically invariant surrogate data generation using the Perron-Frobenius (transfer) operator</title>
+      <link>https://www.earthsystemevolution.com/publication/haaga_et_al_surrogates/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.earthsystemevolution.com/publication/haaga_et_al_surrogates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forcing of Late Pleistocene ice volume by spatially variable summer energy</title>
+      <link>https://www.earthsystemevolution.com/publication/haaga_et_al_2018/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.earthsystemevolution.com/publication/haaga_et_al_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Common species link global ecosystems to climate change: dynamical evidence in the planktonic fossil record</title>
+      <link>https://www.earthsystemevolution.com/publication/hannisdal_et_al_2017/</link>
+      <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.earthsystemevolution.com/publication/hannisdal_et_al_2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

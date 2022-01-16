@@ -1,0 +1,1199 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Earth System Evolution</title>
+    <link>https://www.earthsystemevolution.com/</link>
+      <atom:link href="https://www.earthsystemevolution.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>Earth System Evolution</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.earthsystemevolution.com/media/icon_hud242a1b9c063d413ae2af03b7832dc94_98570_512x512_fill_lanczos_center_3.png</url>
+      <title>Earth System Evolution</title>
+      <link>https://www.earthsystemevolution.com/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://www.earthsystemevolution.com/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://www.earthsystemevolution.com/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On how the power supply shapes microbial survival</title>
+      <link>https://www.earthsystemevolution.com/publication/diego_et_al_2021/</link>
+      <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.earthsystemevolution.com/publication/diego_et_al_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Welcome to Wowchemy, the website builder for Hugo</title>
+      <link>https://www.earthsystemevolution.com/post/getting-started/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.earthsystemevolution.com/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
+&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%28%23MadeWithWowchemy%20OR%20%23MadeWithAcademic%29&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://wowchemy.com/docs/hugo-tutorials/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Tutorial&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
+&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
+&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomplans&#34;&gt;&lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/hugo-academic-cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://wowchemy.com/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://wowchemy.com/docs/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://wowchemy.com/docs/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://wowchemy.com/docs/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A simple test for causality in complex systems</title>
+      <link>https://www.earthsystemevolution.com/publication/haaga_et_al_2020/</link>
+      <pubDate>Mon, 04 May 2020 00:00:01 +0000</pubDate>
+      <guid>https://www.earthsystemevolution.com/publication/haaga_et_al_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eurasian ice sheet collapse was a major source of Meltwater Pulse 1A 14,600 years ago</title>
+      <link>https://www.earthsystemevolution.com/publication/brendryen_et_al_2020/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.earthsystemevolution.com/publication/brendryen_et_al_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A robust calibration of the clumped isotopes to temperature relationship for foraminifers</title>
+      <link>https://www.earthsystemevolution.com/publication/meinicke_et_al_2020/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.earthsystemevolution.com/publication/meinicke_et_al_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Causality Tools</title>
+      <link>https://www.earthsystemevolution.com/project/causalitytools/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.earthsystemevolution.com/project/causalitytools/</guid>
+      <description>&lt;h2 id=&#34;a-brief-tutorial&#34;&gt;A brief tutorial&lt;/h2&gt;
+&lt;p&gt;Here&amp;rsquo;s an example of some of the functionality in the &lt;a href=&#34;https://github.com/JuliaDynamics/CausalityTools.jl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CausalityTools.jl&lt;/a&gt; package, which provides algorithms for characterizing dynamical coupling and causal interactions from time series data. The package is developed by &lt;a href=&#34;../../authors/kristian/&#34;&gt;Kristian A. Haaga&lt;/a&gt; and is integrated in the &lt;a href=&#34;https://github.com/JuliaDynamics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JuliaDynamics&lt;/a&gt; organization for dynamical systems, nonlinear dynamics and complex systems. The example was made in a &lt;a href=&#34;https://jupyter.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JupyterLab&lt;/a&gt; notebook using a &lt;a href=&#34;https://julialang.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julia&lt;/a&gt; 1.6.0 kernel and &lt;a href=&#34;https://github.com/JuliaDynamics/CausalityTools.jl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CausalityTools.jl&lt;/a&gt; version 1.2.0.&lt;/p&gt;
+&lt;p&gt;Please see the package &lt;a href=&#34;https://juliadynamics.github.io/CausalityTools.jl/stable/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation&lt;/a&gt; for more details.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;We first create a dedicated folder and start by activating a Julia project in that folder:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-julia&#34;&gt;using Pkg
+Pkg.activate(&amp;quot;./&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Then we add the required packages to the project:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-julia&#34;&gt;Pkg.add([&amp;quot;CausalityTools&amp;quot;, &amp;quot;Plots&amp;quot;, &amp;quot;LaTeXStrings&amp;quot;])
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Now we are ready to load the modules we need for this example:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-julia&#34;&gt;using CausalityTools, Plots, LaTeXStrings
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;generating-time-series-from-a-dynamical-system&#34;&gt;Generating time series from a dynamical system&lt;/h3&gt;
+&lt;p&gt;CausalityTools.jl provides a range of different example systems as built-in functions. As an example, let&amp;rsquo;s choose a discrete dynamical system composed of two coupled logistic maps where $x$ unidirectionally influences $y$, using the function &lt;code&gt;logistic2_unidir&lt;/code&gt;, which takes the following arguments:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;$u_0$, a two-element vector specifying the initial states of $x$ and $y$&lt;/li&gt;
+&lt;li&gt;$c_{xy}$, a scalar controlling the strength of the influence of $x$ on $y$&lt;/li&gt;
+&lt;li&gt;$r_{1}$ and $r_{2}$ are the model parameters, which by default are set to values yielding chaotic behaviour&lt;/li&gt;
+&lt;li&gt;$\sigma$ is a scalar on $[0, 1]$ controlling the level of dynamical noise&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For more details on this system, see &lt;a href=&#34;https://juliadynamics.github.io/CausalityTools.jl/stable/example_systems/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Example systems&lt;/a&gt; in the documentation.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-julia&#34;&gt;system = logistic2_unidir(u₀ = rand(2), 
+                          c_xy = 0.5, 
+                          r₁ = 3.78,
+                          r₂ = 3.66,
+                          σ = 0.05)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Now we can generate an orbit (a collection of points following the evolution function of the system) and extract time series for the $x$ and $y$ components:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-julia&#34;&gt;npts = 300 # number of points in the time series
+Ttr = 1000 # how many transient points to skip
+
+orbit = trajectory(system, npts, Ttr = Ttr) 
+x = orbit[:, 1]
+y = orbit[:, 2]
+
+# set some nice plot font defaults
+default(fontfamily=&amp;quot;Computer Modern&amp;quot;,
+        yguidefontsize = 12,
+        ytickfontsize = 8,
+        xguidefontsize = 12,
+        xtickfontsize = 8,
+        legendfontsize = 12)
+
+
+px = plot(0:npts, x, c = :black)
+py = plot(0:npts, y, c = :red)
+
+plot(px, py, layout = grid(2,1), link = :all, legend = false,
+    xlabel =[&amp;quot;&amp;quot; L&amp;quot;t&amp;quot;],  ylabel = [L&amp;quot;x(t)&amp;quot; L&amp;quot;y(t)&amp;quot;], size = (600, 400))
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;svg&#34;
+           src=&#34;https://www.earthsystemevolution.com/project/causalitytools/output_9_0.svg&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Now we can try to recover the unidirectional causal relationship $x \to y$ by computing causality statistics directly from the time series data. CausalityTools.jl provides a range of different methods, both distance-based and entropy-based. Here we will shamelessly plug an information-theoretic method proposed by &lt;a href=&#34;https://www.earthsystemevolution.com/publication/haaga_et_al_2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Haaga &lt;em&gt;et al.&lt;/em&gt;&lt;/a&gt;, called &lt;a href=&#34;https://juliadynamics.github.io/CausalityTools.jl/dev/predictive_asymmetry/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Predictive Asymmetry&lt;/a&gt;. The particular implementation of predictive asymmetry used here is based on computing &lt;a href=&#34;https://juliadynamics.github.io/CausalityTools.jl/stable/TransferEntropy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Transfer Entropy&lt;/a&gt; across a range of temporal prediction lags. We choose a simple estimator that counts visitation frequency of states in a rectangular binning of the state space. For more background on these methods, including details on embedding parameters and different estimators, please see the &lt;a href=&#34;https://juliadynamics.github.io/CausalityTools.jl/stable/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;causal-analysis&#34;&gt;Causal analysis&lt;/h3&gt;
+&lt;pre&gt;&lt;code class=&#34;language-julia&#34;&gt;ηs = 1:20 # Prediction lags
+
+# Specify an underlying estimator for transfer entropy
+est = VisitationFrequency(RectangularBinning(4)) 
+
+pa_xy = predictive_asymmetry(x, y, est, ηs) # from x to y
+pa_yx = predictive_asymmetry(y, x, est, ηs) # from y to x
+
+
+p_xy =  plot(ηs, pa_xy, label = L&amp;quot;x \to y&amp;quot;, c = :black, lw = 1.5)
+        plot!(ηs, pa_yx, label = L&amp;quot;y \to x&amp;quot;, c = :red, lw = 1.5)
+        hline!([0], lw = 1, α = 0.2, c = :black, label = &amp;quot;&amp;quot;)
+
+plot(p_xy, size = (600, 400), legend = :outerright, 
+    xlabel = &amp;quot;Prediction lag &amp;quot;*L&amp;quot;(\eta)&amp;quot;,  ylabel = L&amp;quot;\mathbb{A}(\eta)\ [bits]&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;svg&#34;
+           src=&#34;https://www.earthsystemevolution.com/project/causalitytools/output_11_0.svg&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The predictive asymmetry results can be interpreted as follows: If two variables $a$ and $b$ are dynamically coupled in a &lt;em&gt;unidirectional&lt;/em&gt; causal relationship $a \to b$, then we expect the predictive asymmetry from the driver variable $a$ to the response variable $b$ to be positive: $\mathbb{A}_{a \to b} &amp;gt; 0$. Conversely, we expect the predictive asymmetry from the response variable $b$ to the driver variable $a$ to be zero or negative:  $\mathbb{A}_{b \to a} \leq 0$. If there is a &lt;em&gt;bidirectional&lt;/em&gt; coupling, then we expect both $\mathbb{A}_{a \to b}$ and $\mathbb{A}_{b \to a}$ to be positive (see example below). Furthermore, we expect the predictive asymmetry to converge towards zero with increasing prediction lag in a system-dependent manner, as the influence of the driver on the response variable diminishes.&lt;/p&gt;
+&lt;p&gt;In our example of two chaotic logistic maps unidirectionally coupled $x \to y$, we find that $\mathbb{A}_{x \to y} &amp;gt; 0$  and $\mathbb{A}_{y \to x} &amp;lt; 0$, which indicates a unidirectional causal relationships $x \to y$.&lt;/p&gt;
+&lt;p&gt;But what happens if the causal relationship goes both ways?&lt;/p&gt;
+&lt;h3 id=&#34;bidirectional-causality&#34;&gt;Bidirectional causality&lt;/h3&gt;
+&lt;p&gt;We can use the function &lt;code&gt;logistic2_bidir&lt;/code&gt; to generate bidirectionally coupled logistic maps. The input arguments are the same as for the unidirectional system but there are two separate arguments for the coupling strengths and noise levels in each causal direction.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-julia&#34;&gt;system2 = logistic2_bidir(u₀ = rand(2), 
+                          c_xy = 0.3, 
+                          c_yx = 0.3, 
+                          r₁ = 3.7, 
+                          r₂ = 3.8,
+                          σ_xy = 0.05, 
+                          σ_yx = 0.05)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code class=&#34;language-julia&#34;&gt;orbit = trajectory(system2, npts, Ttr = Ttr) 
+x = orbit[:, 1]
+y = orbit[:, 2]
+
+pa_xy = predictive_asymmetry(x, y, est, ηs) # from x to y
+pa_yx = predictive_asymmetry(y, x, est, ηs) # from y to x
+
+
+p_xy =  plot(ηs, pa_xy, label = L&amp;quot;x \to y&amp;quot;, c = :black, lw = 1.5)
+        plot!(ηs, pa_yx, label = L&amp;quot;y \to x&amp;quot;, c = :red, lw = 1.5)
+        hline!([0], lw = 1, α = 0.2, c = :black, label = &amp;quot;&amp;quot;)
+
+plot(p_xy, size = (600, 400), legend = :outerright, 
+    xlabel = &amp;quot;Prediction lag &amp;quot;*L&amp;quot;(\eta)&amp;quot;,  ylabel = L&amp;quot;\mathbb{A}(\eta)\ [bits]&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;svg&#34;
+           src=&#34;https://www.earthsystemevolution.com/project/causalitytools/output_14_0.svg&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;In this case we find that both $\mathbb{A}_{x \to y}$  and $\mathbb{A}_{y \to x}$ are positive, indicating a two-way influence. We stress, however, that bidirectional interactions are notoriously difficult to characterize, and the results will vary considerably with different realizations of the system and with different parameters, especially for short time series. See &lt;a href=&#34;https://www.earthsystemevolution.com/publication/haaga_et_al_2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Haaga &lt;em&gt;et al.&lt;/em&gt;&lt;/a&gt; for a more comprehensive analysis of sensitivity and specificity for the logistic maps and many other systems.&lt;/p&gt;
+&lt;p&gt;Other examples can be found in the short tutorials on &lt;a href=&#34;../asymmetrytest/&#34;&gt;Predictive Asymmetry&lt;/a&gt; and &lt;a href=&#34;../uncertaindata/&#34;&gt;Uncertain Data&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Predictive asymmetry</title>
+      <link>https://www.earthsystemevolution.com/project/asymmetrytest/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.earthsystemevolution.com/project/asymmetrytest/</guid>
+      <description>&lt;h2 id=&#34;a-brief-tutorial&#34;&gt;A brief tutorial&lt;/h2&gt;
+&lt;p&gt;Here&amp;rsquo;s an example of how to use the predictive asymmetry function in the &lt;a href=&#34;https://github.com/JuliaDynamics/CausalityTools.jl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CausalityTools.jl&lt;/a&gt; package to characterize causal relationships directly from time series. The example was made in a &lt;a href=&#34;https://jupyter.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JupyterLab&lt;/a&gt; notebook using a &lt;a href=&#34;https://julialang.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julia&lt;/a&gt; 1.6.0 kernel and &lt;a href=&#34;https://github.com/JuliaDynamics/CausalityTools.jl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CausalityTools.jl&lt;/a&gt; version 1.2.0.&lt;/p&gt;
+&lt;p&gt;For more details on the method see the preprint by &lt;a href=&#34;https://www.earthsystemevolution.com/publication/haaga_et_al_2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Haaga &lt;em&gt;et al.&lt;/em&gt;&lt;/a&gt; and the package &lt;a href=&#34;https://juliadynamics.github.io/CausalityTools.jl/stable/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;We first create a dedicated folder and start by activating a Julia project in that folder:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-julia&#34;&gt;using Pkg
+Pkg.activate(&amp;quot;./&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Then we add the required packages to the project:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-julia&#34;&gt;Pkg.add([&amp;quot;CausalityTools&amp;quot;, &amp;quot;Plots&amp;quot;, &amp;quot;Distributions&amp;quot;, &amp;quot;LaTeXStrings&amp;quot;])
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Now we are ready to load the modules we need for this example:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-julia&#34;&gt;using CausalityTools, Random, Distributions, Plots, LaTeXStrings
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;some-example-data&#34;&gt;Some example data&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s create some example data with three dynamical variables coupled $x \to y \to z$. In other words, $x$ drives $y$ and $y$ drives $z$. The system is stochastic with dynamical noise.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-julia&#34;&gt;npts = 500 # Number of points in the time series
+
+Random.seed!(76534) # Set the seed to reproduce exactly
+
+N = Normal(0, 1) # A standard normal distribution for noise
+
+# System coefficients
+a₁, a₂ = 0.7, 0.1
+b₁, b₂ = 0.75, 0.2
+c₁, c₂ = 0.6, 0.2
+
+# Coupling strengths, where
+# C₁₂ modulates x -&amp;gt; y
+# C₂₃ modulates y -&amp;gt; z 
+C₁₂, C₂₃ = 0.4, 0.4
+
+# Noise levels
+ϵ₁, ϵ₂, ϵ₃ = 0.3, 0.3, 0.3
+
+s = rand(npts, 3) # Initialize 3-D system
+
+for t in 5:npts
+    s[t,1] = a₁*s[t-1,1] - a₂*s[t-4,1] +                ϵ₁*rand(N)
+    s[t,2] = b₁*s[t-1,2] - b₂*s[t-4,2] + C₁₂*s[t-1,1] + ϵ₂*rand(N)
+    s[t,3] = c₁*s[t-1,3] - c₂*s[t-3,3] + C₂₃*s[t-1,2] + ϵ₃*rand(N)
+end
+
+# Assign x, y, z time series
+x, y, z = [s[:, i] for i = 1:3]
+
+# Plot time series
+px = plot(1:npts, x, c = :black)
+py = plot(1:npts, y, c = :red)
+pz = plot(1:npts, z, c = :blue)
+
+# set some nice plot font defaults
+default(fontfamily=&amp;quot;Computer Modern&amp;quot;,
+        yguidefontsize = 12,
+        ytickfontsize = 8,
+        xguidefontsize = 12,
+        xtickfontsize = 8,
+        legendfontsize = 12)
+
+plot(px, py, pz, layout = grid(3,1), link = :all, legend = false,
+    xlabel =[&amp;quot;&amp;quot; &amp;quot;&amp;quot; L&amp;quot;t&amp;quot;],  ylabel = [L&amp;quot;x(t)&amp;quot; L&amp;quot;y(t)&amp;quot; L&amp;quot;z(t)&amp;quot;], size = (600, 600))
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;svg&#34;
+           src=&#34;https://www.earthsystemevolution.com/project/asymmetrytest/output_7_0.svg&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;computing-the-predictive-asymmetry&#34;&gt;Computing the Predictive asymmetry&lt;/h2&gt;
+&lt;p&gt;Now, we&amp;rsquo;ll try to see if we can recover the unidirectional relationships $x \to y \to z$ by computing the predictive asymmetry from the time series data. The predictive asymmetry is an information-theoretic method that uses entropy estimators from &lt;a href=&#34;https://github.com/JuliaDynamics/Entropies.jl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Entropies.jl&lt;/a&gt;. The particular implementation of predictive asymmetry used here is based on computing &lt;a href=&#34;https://juliadynamics.github.io/CausalityTools.jl/stable/TransferEntropy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Transfer Entropy&lt;/a&gt; across a range of temporal prediction lags. We here use a simple estimator that counts visitation frequency of states in a rectangular binning of the state space. For more background on transfer entropy and details on embedding parameters and different estimators, please see the &lt;a href=&#34;https://juliadynamics.github.io/CausalityTools.jl/stable/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation&lt;/a&gt;.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-julia&#34;&gt;ηs = 1:10 # Prediction lags
+
+# Specify an underlying estimator for transfer entropy
+est = VisitationFrequency(RectangularBinning(4)) 
+
+pa_xy = predictive_asymmetry(x, y, est, ηs) # from x to y
+pa_yx = predictive_asymmetry(y, x, est, ηs) # from y to x
+pa_yz = predictive_asymmetry(y, z, est, ηs) # etc...
+pa_zy = predictive_asymmetry(z, y, est, ηs)
+pa_xz = predictive_asymmetry(x, z, est, ηs)
+pa_zx = predictive_asymmetry(z, x, est, ηs)
+;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code class=&#34;language-julia&#34;&gt;p_xy =  plot(ηs, pa_xy, label = L&amp;quot;x \to y&amp;quot;, c = :black)
+        plot!(ηs, pa_yx, label = L&amp;quot;y \to x&amp;quot;, c = :red)
+        hline!([0], lw = 1, α = 0.2, c = :black, label = &amp;quot;&amp;quot;)
+
+p_yz =  plot(ηs, pa_yz, label = L&amp;quot;y \to z&amp;quot;, c = :red)
+        plot!(ηs, pa_zy, label = L&amp;quot;z \to y&amp;quot;, c = :blue)
+        hline!([0], lw = 1, α = 0.2, c = :black, label = &amp;quot;&amp;quot;)
+
+p_xz =  plot(ηs, pa_xz, label = L&amp;quot;x \to z&amp;quot;, c = :black)
+        plot!(ηs, pa_zx, label = L&amp;quot;z \to x&amp;quot;, c = :blue)
+        hline!([0], lw = 1, α = 0.2, c = :black, label = &amp;quot;&amp;quot;)
+
+plot(p_xy, p_yz, p_xz, lw = 1.5, layout = grid(3, 1), 
+    size = (600, 600), link= :all, legend = :outerright, 
+    xlabel =[&amp;quot;&amp;quot; &amp;quot;&amp;quot; &amp;quot;Prediction lag &amp;quot;*L&amp;quot;(\eta)&amp;quot;],  ylabel = L&amp;quot;\mathbb{A}(\eta)\ [bits]&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;svg&#34;
+           src=&#34;https://www.earthsystemevolution.com/project/asymmetrytest/output_10_0.svg&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The predictive asymmetry results can be interpreted as follows: If two variables $a$ and $b$ are dynamically coupled in a &lt;em&gt;unidirectional&lt;/em&gt; causal relationship $a \to b$, then we expect the predictive asymmetry from the driver variable $a$ to the response variable $b$ to be positive: ${\mathbb{A}}_{a \to b} &amp;gt; 0$. Conversely, we expect the predictive asymmetry from the response variable $b$ to the driver variable $a$ to be zero or negative:  $\mathbb{A}_{b \to a} \leq 0$. If there is a &lt;em&gt;bidirectional&lt;/em&gt; coupling, then we expect both $\mathbb{A}_{a \to b}$ and $\mathbb{A}_{b \to a}$ to be positive. Furthermore, we expect the predictive asymmetry to converge towards zero with increasing prediction lag in a system-dependent manner, as the influence of the driver on the response variable diminishes.&lt;/p&gt;
+&lt;p&gt;In our example system, we have two direct causal relationships, $x \to y$ and $y \to z$, and one indirect causal relationship $x \to z$. All these relationships are unidirectional. Our results show that the predictive asymmetry for the direct relationships $\mathbb{A}_{x \to y}$ and $\mathbb{A}_{y \to z}$ are both positive. The indirect relationship $\mathbb{A}_{x \to z}$ is also positive but arguably a bit weaker. In the non-causal direction, $\mathbb{A}_{y \to x}$, $\mathbb{A}_{z \to y}$ and $\mathbb{A}_{z \to x}$ are all negative. In this example the predictive asymmetry is thus able to detect the underlying causal relationships and characterize them as unidirectional.&lt;/p&gt;
+&lt;p&gt;However, these pairwise results do not tell us whether $x \to z$ is a direct relationship or is accounted for by the intermediate variable $y$. To further distinguish between direct and indirect causal relationships, we can compute the &lt;em&gt;conditional&lt;/em&gt; predictive asymmetry:&lt;/p&gt;
+&lt;h2 id=&#34;conditional-predictive-asymmetry&#34;&gt;Conditional Predictive Asymmetry&lt;/h2&gt;
+&lt;p&gt;If $x \to y$ and $y \to z$, then the causal relationship $x \to z$ is mediated by the variable $y$, and the variable $x$ should not contain any independent information on $z$ that is not already contained in $y$. In other words, we expect the conditional predictive asymmetry $\mathbb{A}_{x \to z | y}$ to vanish. To explore this, we can simply add the third variable as a conditional in the &lt;code&gt;predictive_asymmetry&lt;/code&gt; function:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-julia&#34;&gt;pa_xyz = predictive_asymmetry(x, y, z, est, ηs)
+pa_yxz = predictive_asymmetry(y, x, z, est, ηs)
+pa_yzx = predictive_asymmetry(y, z, x, est, ηs)
+pa_zyx = predictive_asymmetry(z, y, x, est, ηs)
+pa_xzy = predictive_asymmetry(x, z, y, est, ηs)
+pa_zxy = predictive_asymmetry(z, x, y, est, ηs)
+;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code class=&#34;language-julia&#34;&gt;p_xyz = plot(ηs, pa_xyz, label = L&amp;quot;x \to y | z&amp;quot;, c = :black)
+        plot!(ηs, pa_yxz, label = L&amp;quot;y \to x  | z&amp;quot;, c = :red)
+        hline!([0], α = 0.2, c = :black, label = &amp;quot;&amp;quot;)
+
+p_yzx = plot(ηs, pa_yzx, label = L&amp;quot;y \to z | x&amp;quot;, c = :red)
+        plot!(ηs, pa_zyx, label = L&amp;quot;z \to y | x&amp;quot;, c = :blue)
+        hline!([0], α = 0.2, c = :black, label = &amp;quot;&amp;quot;)
+
+p_xzy = plot(ηs, pa_xzy, label = L&amp;quot;x \to z | y&amp;quot;, c = :black)
+        plot!(ηs, pa_zxy, label = L&amp;quot;z \to x | y&amp;quot;, c = :blue)
+        hline!([0], α = 0.2, c = :black, label = &amp;quot;&amp;quot;)
+
+plot(p_xyz, p_yzx, p_xzy, lw = 1.5, layout = grid(3, 1), 
+    size = (600, 600), link= :all, legend = :outerright,
+    xlabel =[&amp;quot;&amp;quot; &amp;quot;&amp;quot; &amp;quot;Prediction lag &amp;quot;*L&amp;quot;(\eta)&amp;quot;],  ylabel = L&amp;quot;\mathbb{A}(\eta)\ [bits]&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;svg&#34;
+           src=&#34;https://www.earthsystemevolution.com/project/asymmetrytest/output_14_0.svg&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Predictive asymmetry for the direct causal relationships $x \to y$ and $y \to z$ seem to be qualitatively unaffected by conditioning on a third variable. For the indirect relationship $x \to z$, however, the result becomes a bit more ambiguous when conditioning on the intermediate variable $y$.&lt;/p&gt;
+&lt;p&gt;The difficulty in interpreting the results for $\mathbb{A}_{x \to z | y}$ brings up an important issue: the predictive asymmetry is ultimately a &lt;em&gt;statistical&lt;/em&gt; approach to causality detection, and we are dealing with finite time series (500 observations) of a stochastic system. How robust are these results to statistical fluctuations and how do we assess the sensitivity and specificity of the predictive asymmetry?&lt;/p&gt;
+&lt;p&gt;A common approach to limit false positives in causal inference from time series is the method of surrogates. Surrogates are copies of the original time series where some specific properties of the data have been randomized to break the causal coupling. We provide a wide range of different surrogate techniques in the &lt;a href=&#34;https://juliadynamics.github.io/TimeseriesSurrogates.jl/stable/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TimeSeriesSurrogates.jl&lt;/a&gt; package.&lt;/p&gt;
+&lt;p&gt;In the case of real-world data, the effect of statistical fluctuations can be assessed by iterative resampling within the uncertainty envelopes (e.g. error bars) of the observations. Here we can iterate over multiple realizations of the stochastic system.&lt;/p&gt;
+&lt;h2 id=&#34;statistical-testing-with-surrogates&#34;&gt;Statistical testing with surrogates&lt;/h2&gt;
+&lt;pre&gt;&lt;code class=&#34;language-julia&#34;&gt;
+# bundle the example system in a function
+
+function example_system(npts)
+    N = Normal(0, 1)
+    a₁, a₂ = 0.7, 0.1 
+    b₁, b₂ = 0.75, 0.2
+    c₁, c₂ = 0.6, 0.2
+    C₁₂, C₂₃ = 0.4, 0.4
+    ϵ₁, ϵ₂, ϵ₃ = 0.3, 0.3, 0.3
+    s = rand(npts, 3)
+    for t in 5:npts
+        s[t,1] = a₁*s[t-1,1] - a₂*s[t-4,1] +                ϵ₁*rand(N)
+        s[t,2] = b₁*s[t-1,2] - b₂*s[t-4,2] + C₁₂*s[t-1,1] + ϵ₂*rand(N)
+        s[t,3] = c₁*s[t-1,3] - c₂*s[t-3,3] + C₂₃*s[t-1,2] + ϵ₃*rand(N)
+    end
+    x, y, z = [s[:, i] for i = 1:3]
+    return x, y, z
+end
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code class=&#34;language-julia&#34;&gt;
+npts = 500
+n_reps = 50 # number of realizations of the system
+n_surr = 20 # number of surrogates per realization
+surr_type = RandomShuffle() # the simplest type of surrogate
+
+pas_xyz = zeros(n_reps, length(ηs))
+pas_yxz = zeros(n_reps, length(ηs))
+pas_yzx = zeros(n_reps, length(ηs))
+pas_zyx = zeros(n_reps, length(ηs))
+pas_xzy = zeros(n_reps, length(ηs))
+pas_zxy = zeros(n_reps, length(ηs))
+
+pas_xyz_surr = zeros(n_reps, n_surr, length(ηs))
+pas_yxz_surr = zeros(n_reps, n_surr, length(ηs))
+pas_yzx_surr = zeros(n_reps, n_surr, length(ηs))
+pas_zyx_surr = zeros(n_reps, n_surr, length(ηs))
+pas_xzy_surr = zeros(n_reps, n_surr, length(ηs))
+pas_zxy_surr = zeros(n_reps, n_surr, length(ηs))
+
+for i in 1:n_reps
+    
+    x, y, z = example_system(npts)
+    
+    pas_xyz[i, :] = predictive_asymmetry(x, y, z, est, ηs)
+    pas_yxz[i, :] = predictive_asymmetry(y, x, z, est, ηs)
+    pas_yzx[i, :] = predictive_asymmetry(y, z, x, est, ηs)
+    pas_zyx[i, :] = predictive_asymmetry(z, y, x, est, ηs)
+    pas_xzy[i, :] = predictive_asymmetry(x, z, y, est, ηs)
+    pas_zxy[i, :] = predictive_asymmetry(z, x, y, est, ηs)
+    
+    sx = surrogenerator(x, surr_type)
+    sy = surrogenerator(y, surr_type)
+    sz = surrogenerator(z, surr_type)
+
+    for k in 1:n_surr
+        pas_xyz_surr[i, k, :] = predictive_asymmetry(sx(), sy(), sz(), est, ηs)
+        pas_yxz_surr[i, k, :] = predictive_asymmetry(sy(), sx(), sz(), est, ηs)
+        pas_yzx_surr[i, k, :] = predictive_asymmetry(sy(), sz(), sx(), est, ηs)
+        pas_zyx_surr[i, k, :] = predictive_asymmetry(sz(), sy(), sx(), est, ηs)
+        pas_xzy_surr[i, k, :] = predictive_asymmetry(sx(), sz(), sy(), est, ηs)
+        pas_zxy_surr[i, k, :] = predictive_asymmetry(sz(), sx(), sy(), est, ηs)
+    end
+end
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code class=&#34;language-julia&#34;&gt;# prepare quantiles for plotting
+
+# get three quantiles for ribbon plot across realizations
+Axyz = [quantile(pas_xyz[:, i], [0.025, 0.50, 0.975] ) for i in ηs]
+Ayxz = [quantile(pas_yxz[:, i], [0.025, 0.50, 0.975] ) for i in ηs]
+Ayzx = [quantile(pas_yzx[:, i], [0.025, 0.50, 0.975] ) for i in ηs]
+Azyx = [quantile(pas_zyx[:, i], [0.025, 0.50, 0.975] ) for i in ηs]
+Axzy = [quantile(pas_xzy[:, i], [0.025, 0.50, 0.975] ) for i in ηs]
+Azxy = [quantile(pas_zxy[:, i], [0.025, 0.50, 0.975] ) for i in ηs]
+
+# get upper quantile of surrogates
+Sxyz = [quantile(reshape(pas_xyz_surr, (length(ηs), n_surr*n_reps))[i,:], 0.99) for i in ηs]
+Syxz = [quantile(reshape(pas_yxz_surr, (length(ηs), n_surr*n_reps))[i,:], 0.99) for i in ηs]
+Syzx = [quantile(reshape(pas_yzx_surr, (length(ηs), n_surr*n_reps))[i,:], 0.99) for i in ηs]
+Szyx = [quantile(reshape(pas_zyx_surr, (length(ηs), n_surr*n_reps))[i,:], 0.99) for i in ηs]
+Sxzy = [quantile(reshape(pas_xzy_surr, (length(ηs), n_surr*n_reps))[i,:], 0.99) for i in ηs]
+Szxy = [quantile(reshape(pas_zxy_surr, (length(ηs), n_surr*n_reps))[i,:], 0.99) for i in ηs]
+;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code class=&#34;language-julia&#34;&gt;ps_xyz = plot(ηs, getindex.(Axyz, 2), label = L&amp;quot;x \to y | z&amp;quot;, c = :black,
+        ribbon = (getindex.(Axyz, 2) - getindex.(Axyz, 1), getindex.(Axyz, 3) - getindex.(Axyz, 2)))
+        plot!(ηs, getindex.(Ayxz, 2), label = L&amp;quot;y \to x  | z&amp;quot;, c = :red,
+        ribbon = (getindex.(Ayxz, 2) - getindex.(Ayxz, 1), getindex.(Ayxz, 3) - getindex.(Ayxz, 2)))
+        plot!(ηs, Sxyz, ls = :dash, c = :black, label = L&amp;quot;x_{surr} \to y | z&amp;quot;)
+        plot!(ηs, Syxz, ls = :dash, c = :red, label = L&amp;quot;y_{surr} \to x | z&amp;quot;)
+
+ps_yzx = plot(ηs, getindex.(Ayzx, 2), label = L&amp;quot;y \to z | x&amp;quot;, c = :red,
+        ribbon = (getindex.(Ayzx, 2) - getindex.(Ayzx, 1), getindex.(Ayzx, 3) - getindex.(Ayzx, 2)))
+        plot!(ηs, getindex.(Azyx, 2), label = L&amp;quot;z \to y  | x&amp;quot;, c = :blue,
+        ribbon = (getindex.(Azyx, 2) - getindex.(Azyx, 1), getindex.(Azyx, 3) - getindex.(Azyx, 2)))
+        plot!(ηs, Syzx, ls = :dash, c = :red, label = L&amp;quot;y_{surr} \to z | x&amp;quot;)
+        plot!(ηs, Szyx, ls = :dash, c = :blue, label = L&amp;quot;z_{surr} \to y | x&amp;quot;)
+
+ps_xzy = plot(ηs, getindex.(Axzy, 2), label = L&amp;quot;x \to z | y&amp;quot;, c = :black,
+        ribbon = (getindex.(Axzy, 2) - getindex.(Axzy, 1), getindex.(Axzy, 3) - getindex.(Axzy, 2)))
+        plot!(ηs, getindex.(Azxy, 2), label = L&amp;quot;z \to x  | y&amp;quot;, c = :blue,
+        ribbon = (getindex.(Azxy, 2) - getindex.(Azxy, 1), getindex.(Azxy, 3) - getindex.(Azxy, 2)))
+        plot!(ηs, Sxzy, ls = :dash, c = :black, label = L&amp;quot;x_{surr} \to z | y&amp;quot;)
+        plot!(ηs, Szxy, ls = :dash, c = :blue, label = L&amp;quot;z_{surr} \to x | y&amp;quot;)
+
+plot(ps_xyz, ps_yzx, ps_xzy, lw = 1.5, layout = grid(3, 1), fillalpha = 0.3,
+    size = (600, 600), link= :all, legend = :outerright, legendfontsize = 12,
+    xlabel =[&amp;quot;&amp;quot; &amp;quot;&amp;quot; &amp;quot;Prediction lag &amp;quot;*L&amp;quot;(\eta)&amp;quot;],  ylabel = L&amp;quot;\mathbb{A}(\eta)\ [bits]&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;svg&#34;
+           src=&#34;https://www.earthsystemevolution.com/project/asymmetrytest/output_20_0.svg&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;When iterating over multiple realizations of the system, we find that conditional predictive asymmetry values for the relationships $x \to y | z$ and $y \to z | x$ are well above the surrogates, whereas for $x \to z | y$ it is not, suggesting that the latter is an indirect relationship mediated by $y$.&lt;/p&gt;
+&lt;p&gt;Other examples can be found in the short tutorials on &lt;a href=&#34;../causalitytools/&#34;&gt;CausalityTools&lt;/a&gt; and &lt;a href=&#34;../uncertaindata/&#34;&gt;UncertainData&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Uncertain Data</title>
+      <link>https://www.earthsystemevolution.com/project/uncertaindata/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.earthsystemevolution.com/project/uncertaindata/</guid>
+      <description>&lt;h3 id=&#34;a-brief-tutorial&#34;&gt;A brief tutorial&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/kahaaga/UncertainData.jl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UncertainData.jl&lt;/a&gt; is a Julia package developed by &lt;a href=&#34;../../authors/kristian/&#34;&gt;Kristian A. Haaga&lt;/a&gt; for handling data with associated uncertainties and datasets consisting of uncertain values. These uncertain data values are stored in the form of probability distributions or populations. Computational data analyses are performed by resampling the distributions furnishing the uncertain values. For more details, please see the &lt;a href=&#34;https://kahaaga.github.io/UncertainData.jl/stable/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This example was made in a &lt;a href=&#34;https://jupyter.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JupyterLab&lt;/a&gt; notebook using a &lt;a href=&#34;https://julialang.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julia&lt;/a&gt; 1.6.0 kernel, &lt;a href=&#34;https://github.com/kahaaga/UncertainData.jl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UncertainData.jl&lt;/a&gt; version 0.16.0 and &lt;a href=&#34;https://github.com/JuliaDynamics/CausalityTools.jl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CausalityTools.jl&lt;/a&gt; version 1.2.0.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;We first create a dedicated folder and start by activating a Julia project in that folder:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-julia&#34;&gt;using Pkg
+Pkg.activate(&amp;quot;./&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Then we add the required packages to the project:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-julia&#34;&gt;Pkg.add([&amp;quot;UncertainData&amp;quot;, &amp;quot;CausalityTools&amp;quot;, &amp;quot;Distributions&amp;quot;, &amp;quot;Plots&amp;quot;, &amp;quot;LaTeXStrings&amp;quot;])
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Now we are ready to load the modules we need for this example:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-julia&#34;&gt;using UncertainData, CausalityTools, Distributions, Plots, LaTeXStrings
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;time-series-with-uncertainty&#34;&gt;Time series with uncertainty&lt;/h3&gt;
+&lt;p&gt;The UncertainData.jl package is primarily intended for use with real-world data, but here we generate synthetic data using one of the example systems available as built-in functions in &lt;a href=&#34;https://github.com/JuliaDynamics/CausalityTools.jl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CausalityTools.jl&lt;/a&gt; Let&amp;rsquo;s choose a stochastic dynamical system consisting of two first-order autoregressive (AR1) processes unidirectionally coupled $x \to y$. We use the function &lt;code&gt;ar1_unidir&lt;/code&gt;, which takes the following arguments:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;$u_0$, a two-element vector specifying the initial states of $x$ and $y$&lt;/li&gt;
+&lt;li&gt;$a_{1}$ and $b_{1}$ are the model parameters&lt;/li&gt;
+&lt;li&gt;$c_{xy}$, a scalar controlling the strength of the influence of $x$ on $y$&lt;/li&gt;
+&lt;li&gt;$\sigma$ is the standard deviation of the noise terms&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For more details on this system, see &lt;a href=&#34;https://juliadynamics.github.io/CausalityTools.jl/stable/example_systems/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Example systems&lt;/a&gt; in the documentation.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-julia&#34;&gt;system = ar1_unidir(u₀ = rand(2), 
+                    a₁ = 0.90693, 
+                    b₁ = 0.40693, 
+                    c_xy = 0.5, 
+                    σ = 0.40662)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Now we can generate time series from this system and then add uncertainty both to the values and to the time indices. The latter is relevant for data such as paleoclimate proxies with geochronological (e.g. radiocarbon dating) uncertainty.&lt;/p&gt;
+&lt;p&gt;For this we can use the convenience function &lt;code&gt;example_uncertain_indexvalue_dataset&lt;/code&gt; from the &lt;a href=&#34;https://github.com/kahaaga/UncertainData.jl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UncertainData.jl&lt;/a&gt; package. This function generates a pair of &lt;code&gt;UncertainIndexValueDatasets&lt;/code&gt; from a discrete dynamical &lt;code&gt;system&lt;/code&gt; by iterating the system &lt;code&gt;npts&lt;/code&gt; times after a transient run of &lt;code&gt;tstep&lt;/code&gt; steps, then it gathers two variables defined by column indices &lt;code&gt;vars&lt;/code&gt; as time series &lt;code&gt;x&lt;/code&gt; and &lt;code&gt;y&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;These time series are then converted to uncertain data by replacing each value with a probability distribution, in this case a normal distribution defined by a mean (the original value) and a standard deviation (user defined). Hence, &lt;code&gt;x[i]&lt;/code&gt; and &lt;code&gt;y[i]&lt;/code&gt; are replaced with &lt;code&gt;UncertainValue(Normal, x[i], d_xval)&lt;/code&gt; and &lt;code&gt;UncertainValue(Normal, y[i], d_yval)&lt;/code&gt;, respectively. The time indices for &lt;code&gt;x&lt;/code&gt; and &lt;code&gt;y&lt;/code&gt; are also replaced with normal distributions, such that &lt;code&gt;x_inds[i] = UncertainValue(Normal, i, d_xind)&lt;/code&gt;, and &lt;code&gt;y_inds[i] = UncertainValue(Normal, i, d_yind)&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;The function returns a tuple of &lt;code&gt;UncertainIndexValueDataset&lt;/code&gt; instances, one for &lt;code&gt;x&lt;/code&gt; and one for &lt;code&gt;y&lt;/code&gt;.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-julia&#34;&gt;vars = (1, 2)
+npts, tstep = 100, 10
+
+# Let&#39;s draw random values for the std. devs.
+d_xind, d_yind = Uniform(2.5, 15.5), Uniform(2.5, 15.5)
+d_xval, d_yval = Uniform(0.01, 0.2), Uniform(0.01, 0.2)
+
+x, y = example_uncertain_indexvalue_datasets(system,
+        npts, vars, tstep = tstep,
+        d_xind = d_xind, d_yind = d_yind,
+        d_xval = d_xval, d_yval = d_yval)
+
+# set some nice plot font defaults
+default(fontfamily=&amp;quot;Computer Modern&amp;quot;,
+        yguidefontsize = 12,
+        ytickfontsize = 8,
+        xguidefontsize = 12,
+        xtickfontsize = 8,
+        legendfontsize = 12)
+
+qs = [0.025, 0.975] # quantile range for error bars
+
+px = plot(x, qs, qs, ms = 3, c = :black, marker = stroke(0.01, :black))
+py = plot(y, qs, qs, ms = 3, c = :red, marker = stroke(0.01, :red))
+
+plot(px, py, layout = grid(2,1), link = :all, legend = false,
+    xlabel =[&amp;quot;&amp;quot; L&amp;quot;t&amp;quot;],  ylabel = [L&amp;quot;x(t)&amp;quot; L&amp;quot;y(t)&amp;quot;], size = (800, 600))
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;svg&#34;
+           src=&#34;https://www.earthsystemevolution.com/project/uncertaindata/output_9_0.svg&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;These time series have variable uncertainties on their time indices, hence they are not on a regularly spaced grid. This irregularity can create problems for many time series analysis methods, including lag-based causality estimators. One solution is to resample the data on a regular time grid. Let&amp;rsquo;s choose a grid where the left bin edges range from 0 to 1000 in steps of 10, which would look like this:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-julia&#34;&gt;tgrid = 0:10:1000
+
+plot(px, py, layout = grid(2,1), link = :all, legend = false,
+    xlabel =[&amp;quot;&amp;quot; L&amp;quot;t&amp;quot;],  ylabel = [L&amp;quot;x(t)&amp;quot; L&amp;quot;y(t)&amp;quot;], size = (800, 600))
+vline!([tgrid tgrid] |&amp;gt; collect, c = :grey, lw = .5)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;svg&#34;
+           src=&#34;https://www.earthsystemevolution.com/project/uncertaindata/output_11_0.svg&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Now we can use &lt;code&gt;BinnedResampling&lt;/code&gt; to resample within the uncertainties in each bin, keeping track of all draws falling in a particular bin. Uncertainty distributions in a bin are then estimated by a kernel density estimate over the draws falling in that bin.&lt;/p&gt;
+&lt;p&gt;Here we&amp;rsquo;ll sample each point in the dataset 1000 times, yielding a total of 100 $\times$ 1000 draws from which the distributions are estimated.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-julia&#34;&gt;resampling = BinnedResampling(tgrid, 1000)
+x_binned = resample(x, resampling)
+y_binned = resample(y, resampling)
+
+
+# get three quantiles for ribbon plot
+qs_x = quantile.(x_binned.values, [0.025 0.50 0.975])
+qs_y = quantile.(y_binned.values, [0.025 0.50 0.975])
+rib_x = (qs_x[:, 2] - qs_x[:, 1] , qs_x[:, 3]  - qs_x[:, 2])
+rib_y = (qs_y[:, 2] - qs_y[:, 1] , qs_y[:, 3]  - qs_y[:, 2])
+
+# get time bin midpoints
+t_bin = [x_binned.indices[i].value for i in 1:length(tgrid)-1]
+
+pxr = scatter(t_bin, qs_x[:, 2], ms = 3, c = :black)
+     plot!(t_bin, qs_x[:, 2], lw = 1, c = :black,
+           ribbon = rib_x, fillalpha = 0.2)
+pyr = scatter(t_bin, qs_y[:, 2], ms = 3, c = :red, msc = :red)
+     plot!(t_bin, qs_y[:, 2], lw = 1, c = :red,
+           ribbon = rib_y, fillalpha = 0.2)
+
+plot(pxr, pyr, layout = grid(2,1), link = :all, legend = false,
+    xlabel =[&amp;quot;&amp;quot; L&amp;quot;t&amp;quot;],  ylabel = [L&amp;quot;x(t)&amp;quot; L&amp;quot;y(t)&amp;quot;], size = (800, 600))
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;svg&#34;
+           src=&#34;https://www.earthsystemevolution.com/project/uncertaindata/output_13_0.svg&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Now we have represented $x$ and $y$ on a regular time grid as distributions that take into account uncertainties in both the original values and the original time indices. We can then generate time series from within those distributions using the &lt;code&gt;resample&lt;/code&gt; function and perform any time series analysis we want. As an example, we will (again, shamelessly) use the &lt;a href=&#34;https://juliadynamics.github.io/CausalityTools.jl/dev/predictive_asymmetry/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Predictive Asymmetry&lt;/a&gt; method proposed by &lt;a href=&#34;https://www.earthsystemevolution.com/publication/haaga_et_al_2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Haaga &lt;em&gt;et al&lt;/em&gt;&lt;/a&gt;. The particular implementation of predictive asymmetry used here is based on computing &lt;a href=&#34;https://juliadynamics.github.io/CausalityTools.jl/stable/TransferEntropy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Transfer Entropy&lt;/a&gt; across a range of temporal prediction lags. We choose a simple estimator that counts visitation frequency of states in a rectangular binning of the state space. For more background on these methods, including details on embedding parameters and different estimators, please see the &lt;a href=&#34;https://juliadynamics.github.io/CausalityTools.jl/stable/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;causal-analysis&#34;&gt;Causal analysis&lt;/h3&gt;
+&lt;pre&gt;&lt;code class=&#34;language-julia&#34;&gt;ηs = 1:10 # Prediction lags
+
+# Specify an underlying estimator for transfer entropy
+est = VisitationFrequency(RectangularBinning(4)) 
+
+n_reps = 500 # number of resamplings of the binned data
+
+pas_xy = zeros(n_reps, length(ηs))
+pas_yx = zeros(n_reps, length(ηs))
+
+for i in 1:n_reps
+    
+    xr = getindex(resample(x_binned), 2)
+    yr = getindex(resample(y_binned), 2)
+    
+    pas_xy[i, :] = predictive_asymmetry(xr, yr, est, ηs)
+    pas_yx[i, :] = predictive_asymmetry(yr, xr, est, ηs)
+end
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code class=&#34;language-julia&#34;&gt;# get three quantiles for ribbon plot
+A_xy = [quantile(pas_xy[:,i], [0.025 0.50 0.975]) for i in ηs]
+A_yx = [quantile(pas_yx[:,i], [0.025 0.50 0.975]) for i in ηs]
+rib_xy = (getindex.(A_xy, 2) - getindex.(A_xy, 1), 
+          getindex.(A_xy, 3)  - getindex.(A_xy, 2))
+rib_yx = (getindex.(A_yx, 2) - getindex.(A_yx, 1), 
+          getindex.(A_yx, 3)  - getindex.(A_yx, 2))
+
+plot(lw = 1.5, size = (800, 500), legend = :outerright, 
+    xlabel = &amp;quot;Prediction lag &amp;quot;*L&amp;quot;(\eta)&amp;quot;,  ylabel = L&amp;quot;\mathbb{A}(\eta)\ [bits]&amp;quot;)
+plot!(ηs, getindex.(A_xy, 2), label = L&amp;quot;x \to y&amp;quot;, c = :black,
+        ribbon = rib_xy, fillalpha = 0.3)
+plot!(ηs, getindex.(A_yx, 2), label = L&amp;quot;y \to x&amp;quot;, c = :red,
+        ribbon = rib_yx, fillalpha = 0.3)
+        hline!([0], lw = 1, α = 0.2, c = :black, label = &amp;quot;&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;svg&#34;
+           src=&#34;https://www.earthsystemevolution.com/project/uncertaindata/output_16_0.svg&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The predictive asymmetry results can be interpreted as follows: If two variables $a$ and $b$ are dynamically coupled in a &lt;em&gt;unidirectional&lt;/em&gt; causal relationship $a \to b$, then we expect the predictive asymmetry from the driver variable $a$ to the response variable $b$ to be positive: $\mathbb{A}_{a \to b} &amp;gt; 0$. Conversely, we expect the predictive asymmetry from the response variable $b$ to the driver variable $a$ to be zero or negative:  $\mathbb{A}_{b \to a} \leq 0$. If there is a &lt;em&gt;bidirectional&lt;/em&gt; coupling, then we expect both $\mathbb{A}_{a \to b}$ and $\mathbb{A}_{b \to a}$ to be positive. Furthermore, we expect the predictive asymmetry to converge towards zero with increasing prediction lag in a system-dependent manner, as the influence of the driver on the response variable diminishes.&lt;/p&gt;
+&lt;p&gt;In this case we find that the predictive asymmetry in the causal direction ($\mathbb{A}_{x \to y}$) is positive, whereas the asymmetry in the non-causal direction ($\mathbb{A}_{y \to x}$) is negative. We thus recover the expected unidirectional causal relationship $x \to y$. We stress, however, that the results will vary considerably with different realizations of the stochastic system and with different parameters, especially for short time series (here $n = 100$). See &lt;a href=&#34;https://www.earthsystemevolution.com/publication/haaga_et_al_2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Haaga &lt;em&gt;et al.&lt;/em&gt;&lt;/a&gt; for a more comprehensive analysis of sensitivity and specificity for autoregressive processes and many other systems.&lt;/p&gt;
+&lt;p&gt;Other examples can be found  in the short tutorials on &lt;a href=&#34;../causalitytools/&#34;&gt;CausalityTools&lt;/a&gt; and &lt;a href=&#34;../asymmetrytest/&#34;&gt;Predictive Asymmetry&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;If you use &lt;a href=&#34;https://github.com/kahaaga/UncertainData.jl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UncertainData.jl&lt;/a&gt; for any of your projects or scientific publications, please cite this small &lt;a href=&#34;https://joss.theoj.org/papers/10.21105/joss.01666&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Open Source Software (JOSS) publication&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>UncertainData.jl: a Julia package for working with measurements and datasets with uncertainties</title>
+      <link>https://www.earthsystemevolution.com/publication/haaga_2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.earthsystemevolution.com/publication/haaga_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Was Common Era glacier expansion in the Arctic Atlantic region triggered by unforced atmospheric cooling?</title>
+      <link>https://www.earthsystemevolution.com/publication/vanderbilt_et_al_2019/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.earthsystemevolution.com/publication/vanderbilt_et_al_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jurassic shift from abiotic to biotic control on marine ecological success</title>
+      <link>https://www.earthsystemevolution.com/publication/eichenseer_et_al_2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.earthsystemevolution.com/publication/eichenseer_et_al_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nitrifier abundance and diversity peak at deep redox transition zones</title>
+      <link>https://www.earthsystemevolution.com/publication/zhao_et_al_2019/</link>
+      <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.earthsystemevolution.com/publication/zhao_et_al_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application of Clumped Isotope Thermometry to Benthic Foraminifera</title>
+      <link>https://www.earthsystemevolution.com/publication/piasecki_et_al_2019/</link>
+      <pubDate>Thu, 25 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.earthsystemevolution.com/publication/piasecki_et_al_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transfer entropy computation using the Perron-Frobenius operator</title>
+      <link>https://www.earthsystemevolution.com/publication/diego_et_al_2019/</link>
+      <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.earthsystemevolution.com/publication/diego_et_al_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evidence of early deglaciation (18 000 cal a BP) and a postglacial relative sea‐level curve from southern Karmøy, south‐west Norway</title>
+      <link>https://www.earthsystemevolution.com/publication/vasskog_et_al_2019/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.earthsystemevolution.com/publication/vasskog_et_al_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamically invariant surrogate data generation using the Perron-Frobenius (transfer) operator</title>
+      <link>https://www.earthsystemevolution.com/publication/haaga_et_al_surrogates/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.earthsystemevolution.com/publication/haaga_et_al_surrogates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://www.earthsystemevolution.com/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.earthsystemevolution.com/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   One 
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   **Two** 
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   Three 
+&lt;/span&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A new method for quantifying Earth system interactions from time series</title>
+      <link>https://www.earthsystemevolution.com/slides/transfer_operator/</link>
+      <pubDate>Mon, 26 Nov 2018 12:15:00 +0000</pubDate>
+      <guid>https://www.earthsystemevolution.com/slides/transfer_operator/</guid>
+      <description>&lt;!--Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Forcing of Late Pleistocene ice volume by spatially variable summer energy</title>
+      <link>https://www.earthsystemevolution.com/publication/haaga_et_al_2018/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.earthsystemevolution.com/publication/haaga_et_al_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Causality from palaeontological time series</title>
+      <link>https://www.earthsystemevolution.com/publication/hannisdal_liow_2018/</link>
+      <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.earthsystemevolution.com/publication/hannisdal_liow_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On formation-based sampling proxies and why they should not be used to correct the fossil record</title>
+      <link>https://www.earthsystemevolution.com/publication/dunhill_et_al_2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.earthsystemevolution.com/publication/dunhill_et_al_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Common species link global ecosystems to climate change: dynamical evidence in the planktonic fossil record</title>
+      <link>https://www.earthsystemevolution.com/publication/hannisdal_et_al_2017/</link>
+      <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.earthsystemevolution.com/publication/hannisdal_et_al_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disentangling rock record bias and common-cause from redundancy in the British fossil record</title>
+      <link>https://www.earthsystemevolution.com/publication/dunhill_et_al_2014/</link>
+      <pubDate>Thu, 04 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.earthsystemevolution.com/publication/dunhill_et_al_2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long‐term evolutionary and ecological responses of calcifying phytoplankton to changes in atmospheric CO2</title>
+      <link>https://www.earthsystemevolution.com/publication/hannisdal_et_al_2012/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>https://www.earthsystemevolution.com/publication/hannisdal_et_al_2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correlating microbial community profiles with geochemical data in highly stratified sediments from the Arctic Mid-Ocean Ridge</title>
+      <link>https://www.earthsystemevolution.com/publication/jorgensen_et_al_2012/</link>
+      <pubDate>Wed, 05 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>https://www.earthsystemevolution.com/publication/jorgensen_et_al_2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting common-cause relationships with directional information transfer</title>
+      <link>https://www.earthsystemevolution.com/publication/hannisdal_2011_lyell/</link>
+      <pubDate>Tue, 13 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>https://www.earthsystemevolution.com/publication/hannisdal_2011_lyell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phanerozoic Earth system evolution and marine biodiversity</title>
+      <link>https://www.earthsystemevolution.com/publication/hannisdal_peters_2011/</link>
+      <pubDate>Fri, 25 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://www.earthsystemevolution.com/publication/hannisdal_peters_2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-parametric inference of causal interactions from geological records</title>
+      <link>https://www.earthsystemevolution.com/publication/hannisdal_2011_ajs/</link>
+      <pubDate>Sun, 24 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>https://www.earthsystemevolution.com/publication/hannisdal_2011_ajs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.earthsystemevolution.com/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.earthsystemevolution.com/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

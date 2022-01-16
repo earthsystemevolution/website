@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brendryen J | Earth System Evolution</title>
+    <link>https://www.earthsystemevolution.com/authors/brendryen-j/</link>
+      <atom:link href="https://www.earthsystemevolution.com/authors/brendryen-j/index.xml" rel="self" type="application/rss+xml" />
+    <description>Brendryen J</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 May 2020 00:00:01 +0000</lastBuildDate>
+    <image>
+      <url>https://www.earthsystemevolution.com/media/icon_hud242a1b9c063d413ae2af03b7832dc94_98570_512x512_fill_lanczos_center_3.png</url>
+      <title>Brendryen J</title>
+      <link>https://www.earthsystemevolution.com/authors/brendryen-j/</link>
+    </image>
+    
+    <item>
+      <title>A simple test for causality in complex systems</title>
+      <link>https://www.earthsystemevolution.com/publication/haaga_et_al_2020/</link>
+      <pubDate>Mon, 04 May 2020 00:00:01 +0000</pubDate>
+      <guid>https://www.earthsystemevolution.com/publication/haaga_et_al_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eurasian ice sheet collapse was a major source of Meltwater Pulse 1A 14,600 years ago</title>
+      <link>https://www.earthsystemevolution.com/publication/brendryen_et_al_2020/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.earthsystemevolution.com/publication/brendryen_et_al_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forcing of Late Pleistocene ice volume by spatially variable summer energy</title>
+      <link>https://www.earthsystemevolution.com/publication/haaga_et_al_2018/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.earthsystemevolution.com/publication/haaga_et_al_2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

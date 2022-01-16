@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Schiebel R | Earth System Evolution</title>
+    <link>https://www.earthsystemevolution.com/authors/schiebel-r/</link>
+      <atom:link href="https://www.earthsystemevolution.com/authors/schiebel-r/index.xml" rel="self" type="application/rss+xml" />
+    <description>Schiebel R</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.earthsystemevolution.com/media/icon_hud242a1b9c063d413ae2af03b7832dc94_98570_512x512_fill_lanczos_center_3.png</url>
+      <title>Schiebel R</title>
+      <link>https://www.earthsystemevolution.com/authors/schiebel-r/</link>
+    </image>
+    
+    <item>
+      <title>A robust calibration of the clumped isotopes to temperature relationship for foraminifers</title>
+      <link>https://www.earthsystemevolution.com/publication/meinicke_et_al_2020/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.earthsystemevolution.com/publication/meinicke_et_al_2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

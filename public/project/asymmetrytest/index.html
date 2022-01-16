@@ -1,0 +1,1495 @@
+<!DOCTYPE html><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.4.0 for Hugo" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Bjarte Hannisdal" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="A new method for analysing causality in dynamical systems." />
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://www.earthsystemevolution.com/project/asymmetrytest/" />
+
+  
+  
+  
+    <meta name="theme-color" content="#1565c0" />
+  
+
+  
+  
+    
+    <script src="/js/mathjax-config.js"></script>
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.f1ecf783c14edc00c9320c205831ad8e.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha512-W0xM4mr6dEP9nREo7Z9z+9X70wytKvMGeDsj7ps2+xg5QPrEBXC8tAW1IFnzjR6eoJ90JmCnFzerQJTLzIEHjA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/monokai.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/monokai.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+      
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.246129d782c938a644fe2d653d8a976f.css" />
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+
+  
+    <link rel="manifest" href="/manifest.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hud242a1b9c063d413ae2af03b7832dc94_98570_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hud242a1b9c063d413ae2af03b7832dc94_98570_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="https://www.earthsystemevolution.com/project/asymmetrytest/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary_large_image" />
+  
+  <meta property="og:site_name" content="Earth System Evolution" />
+  <meta property="og:url" content="https://www.earthsystemevolution.com/project/asymmetrytest/" />
+  <meta property="og:title" content="Predictive asymmetry | Earth System Evolution" />
+  <meta property="og:description" content="A new method for analysing causality in dynamical systems." /><meta property="og:image" content="https://www.earthsystemevolution.com/project/asymmetrytest/featured.png" />
+    <meta property="twitter:image" content="https://www.earthsystemevolution.com/project/asymmetrytest/featured.png" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2019-11-11T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2022-01-07T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.earthsystemevolution.com/project/asymmetrytest/"
+  },
+  "headline": "Predictive asymmetry",
+  
+  "image": [
+    "https://www.earthsystemevolution.com/project/asymmetrytest/featured.png"
+  ],
+  
+  "datePublished": "2019-11-11T00:00:00Z",
+  "dateModified": "2022-01-07T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Bjarte Hannisdal"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Earth System Evolution",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.earthsystemevolution.com/media/icon_hud242a1b9c063d413ae2af03b7832dc94_98570_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "A new method for analysing causality in dynamical systems."
+}
+</script>
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>Predictive asymmetry | Earth System Evolution</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="f32af5a97735fd99f80d0b917a1f92f2" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.8f76bdc9e086322ed5147724ebba3d06.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<header class="header--fixed">
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">Earth System Evolution</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">Earth System Evolution</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#about"><span>Home</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#featured"><span>Publications</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#projects"><span>Tools</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#people"><span>People</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        <li class="nav-item dropdown theme-dropdown">
+          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+            <i class="fas fa-moon" aria-hidden="true"></i>
+          </a>
+          <div class="dropdown-menu">
+            <a href="#" class="dropdown-item js-set-theme-light">
+              <span>Light</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-dark">
+              <span>Dark</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-auto">
+              <span>Automatic</span>
+            </a>
+          </div>
+        </li>
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    <article class="article article-project">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<div class="article-container pt-3">
+  <h1>Predictive asymmetry</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+          Last updated on
+      
+    
+    Jan 7, 2022
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header" href="/project/asymmetrytest/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 236px;">
+  <div style="position: relative">
+    <img src="/project/asymmetrytest/featured_hu8a27d24f511499bc23c4934e9ad93c28_986695_720x2500_fit_q75_h2_lanczos_3.webp" width="720" height="236" alt="" class="featured-image">
+    
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <h2 id="a-brief-tutorial">A brief tutorial</h2>
+<p>Here&rsquo;s an example of how to use the predictive asymmetry function in the <a href="https://github.com/JuliaDynamics/CausalityTools.jl" target="_blank" rel="noopener">CausalityTools.jl</a> package to characterize causal relationships directly from time series. The example was made in a <a href="https://jupyter.org" target="_blank" rel="noopener">JupyterLab</a> notebook using a <a href="https://julialang.org" target="_blank" rel="noopener">Julia</a> 1.6.0 kernel and <a href="https://github.com/JuliaDynamics/CausalityTools.jl" target="_blank" rel="noopener">CausalityTools.jl</a> version 1.2.0.</p>
+<p>For more details on the method see the preprint by <a href="https://www.earthsystemevolution.com/publication/haaga_et_al_2020/" target="_blank" rel="noopener">Haaga <em>et al.</em></a> and the package <a href="https://juliadynamics.github.io/CausalityTools.jl/stable/" target="_blank" rel="noopener">documentation</a>.</p>
+<hr>
+<p>We first create a dedicated folder and start by activating a Julia project in that folder:</p>
+<pre><code class="language-julia">using Pkg
+Pkg.activate(&quot;./&quot;)
+</code></pre>
+<p>Then we add the required packages to the project:</p>
+<pre><code class="language-julia">Pkg.add([&quot;CausalityTools&quot;, &quot;Plots&quot;, &quot;Distributions&quot;, &quot;LaTeXStrings&quot;])
+</code></pre>
+<p>Now we are ready to load the modules we need for this example:</p>
+<pre><code class="language-julia">using CausalityTools, Random, Distributions, Plots, LaTeXStrings
+</code></pre>
+<h2 id="some-example-data">Some example data</h2>
+<p>Let&rsquo;s create some example data with three dynamical variables coupled $x \to y \to z$. In other words, $x$ drives $y$ and $y$ drives $z$. The system is stochastic with dynamical noise.</p>
+<pre><code class="language-julia">npts = 500 # Number of points in the time series
+
+Random.seed!(76534) # Set the seed to reproduce exactly
+
+N = Normal(0, 1) # A standard normal distribution for noise
+
+# System coefficients
+a₁, a₂ = 0.7, 0.1
+b₁, b₂ = 0.75, 0.2
+c₁, c₂ = 0.6, 0.2
+
+# Coupling strengths, where
+# C₁₂ modulates x -&gt; y
+# C₂₃ modulates y -&gt; z 
+C₁₂, C₂₃ = 0.4, 0.4
+
+# Noise levels
+ϵ₁, ϵ₂, ϵ₃ = 0.3, 0.3, 0.3
+
+s = rand(npts, 3) # Initialize 3-D system
+
+for t in 5:npts
+    s[t,1] = a₁*s[t-1,1] - a₂*s[t-4,1] +                ϵ₁*rand(N)
+    s[t,2] = b₁*s[t-1,2] - b₂*s[t-4,2] + C₁₂*s[t-1,1] + ϵ₂*rand(N)
+    s[t,3] = c₁*s[t-1,3] - c₂*s[t-3,3] + C₂₃*s[t-1,2] + ϵ₃*rand(N)
+end
+
+# Assign x, y, z time series
+x, y, z = [s[:, i] for i = 1:3]
+
+# Plot time series
+px = plot(1:npts, x, c = :black)
+py = plot(1:npts, y, c = :red)
+pz = plot(1:npts, z, c = :blue)
+
+# set some nice plot font defaults
+default(fontfamily=&quot;Computer Modern&quot;,
+        yguidefontsize = 12,
+        ytickfontsize = 8,
+        xguidefontsize = 12,
+        xtickfontsize = 8,
+        legendfontsize = 12)
+
+plot(px, py, pz, layout = grid(3,1), link = :all, legend = false,
+    xlabel =[&quot;&quot; &quot;&quot; L&quot;t&quot;],  ylabel = [L&quot;x(t)&quot; L&quot;y(t)&quot; L&quot;z(t)&quot;], size = (600, 600))
+
+</code></pre>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="svg"
+           src="/project/asymmetrytest/output_7_0.svg"
+           loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h2 id="computing-the-predictive-asymmetry">Computing the Predictive asymmetry</h2>
+<p>Now, we&rsquo;ll try to see if we can recover the unidirectional relationships $x \to y \to z$ by computing the predictive asymmetry from the time series data. The predictive asymmetry is an information-theoretic method that uses entropy estimators from <a href="https://github.com/JuliaDynamics/Entropies.jl" target="_blank" rel="noopener">Entropies.jl</a>. The particular implementation of predictive asymmetry used here is based on computing <a href="https://juliadynamics.github.io/CausalityTools.jl/stable/TransferEntropy/" target="_blank" rel="noopener">Transfer Entropy</a> across a range of temporal prediction lags. We here use a simple estimator that counts visitation frequency of states in a rectangular binning of the state space. For more background on transfer entropy and details on embedding parameters and different estimators, please see the <a href="https://juliadynamics.github.io/CausalityTools.jl/stable/" target="_blank" rel="noopener">documentation</a>.</p>
+<pre><code class="language-julia">ηs = 1:10 # Prediction lags
+
+# Specify an underlying estimator for transfer entropy
+est = VisitationFrequency(RectangularBinning(4)) 
+
+pa_xy = predictive_asymmetry(x, y, est, ηs) # from x to y
+pa_yx = predictive_asymmetry(y, x, est, ηs) # from y to x
+pa_yz = predictive_asymmetry(y, z, est, ηs) # etc...
+pa_zy = predictive_asymmetry(z, y, est, ηs)
+pa_xz = predictive_asymmetry(x, z, est, ηs)
+pa_zx = predictive_asymmetry(z, x, est, ηs)
+;
+</code></pre>
+<pre><code class="language-julia">p_xy =  plot(ηs, pa_xy, label = L&quot;x \to y&quot;, c = :black)
+        plot!(ηs, pa_yx, label = L&quot;y \to x&quot;, c = :red)
+        hline!([0], lw = 1, α = 0.2, c = :black, label = &quot;&quot;)
+
+p_yz =  plot(ηs, pa_yz, label = L&quot;y \to z&quot;, c = :red)
+        plot!(ηs, pa_zy, label = L&quot;z \to y&quot;, c = :blue)
+        hline!([0], lw = 1, α = 0.2, c = :black, label = &quot;&quot;)
+
+p_xz =  plot(ηs, pa_xz, label = L&quot;x \to z&quot;, c = :black)
+        plot!(ηs, pa_zx, label = L&quot;z \to x&quot;, c = :blue)
+        hline!([0], lw = 1, α = 0.2, c = :black, label = &quot;&quot;)
+
+plot(p_xy, p_yz, p_xz, lw = 1.5, layout = grid(3, 1), 
+    size = (600, 600), link= :all, legend = :outerright, 
+    xlabel =[&quot;&quot; &quot;&quot; &quot;Prediction lag &quot;*L&quot;(\eta)&quot;],  ylabel = L&quot;\mathbb{A}(\eta)\ [bits]&quot;)
+</code></pre>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="svg"
+           src="/project/asymmetrytest/output_10_0.svg"
+           loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>The predictive asymmetry results can be interpreted as follows: If two variables $a$ and $b$ are dynamically coupled in a <em>unidirectional</em> causal relationship $a \to b$, then we expect the predictive asymmetry from the driver variable $a$ to the response variable $b$ to be positive: ${\mathbb{A}}_{a \to b} &gt; 0$. Conversely, we expect the predictive asymmetry from the response variable $b$ to the driver variable $a$ to be zero or negative:  $\mathbb{A}_{b \to a} \leq 0$. If there is a <em>bidirectional</em> coupling, then we expect both $\mathbb{A}_{a \to b}$ and $\mathbb{A}_{b \to a}$ to be positive. Furthermore, we expect the predictive asymmetry to converge towards zero with increasing prediction lag in a system-dependent manner, as the influence of the driver on the response variable diminishes.</p>
+<p>In our example system, we have two direct causal relationships, $x \to y$ and $y \to z$, and one indirect causal relationship $x \to z$. All these relationships are unidirectional. Our results show that the predictive asymmetry for the direct relationships $\mathbb{A}_{x \to y}$ and $\mathbb{A}_{y \to z}$ are both positive. The indirect relationship $\mathbb{A}_{x \to z}$ is also positive but arguably a bit weaker. In the non-causal direction, $\mathbb{A}_{y \to x}$, $\mathbb{A}_{z \to y}$ and $\mathbb{A}_{z \to x}$ are all negative. In this example the predictive asymmetry is thus able to detect the underlying causal relationships and characterize them as unidirectional.</p>
+<p>However, these pairwise results do not tell us whether $x \to z$ is a direct relationship or is accounted for by the intermediate variable $y$. To further distinguish between direct and indirect causal relationships, we can compute the <em>conditional</em> predictive asymmetry:</p>
+<h2 id="conditional-predictive-asymmetry">Conditional Predictive Asymmetry</h2>
+<p>If $x \to y$ and $y \to z$, then the causal relationship $x \to z$ is mediated by the variable $y$, and the variable $x$ should not contain any independent information on $z$ that is not already contained in $y$. In other words, we expect the conditional predictive asymmetry $\mathbb{A}_{x \to z | y}$ to vanish. To explore this, we can simply add the third variable as a conditional in the <code>predictive_asymmetry</code> function:</p>
+<pre><code class="language-julia">pa_xyz = predictive_asymmetry(x, y, z, est, ηs)
+pa_yxz = predictive_asymmetry(y, x, z, est, ηs)
+pa_yzx = predictive_asymmetry(y, z, x, est, ηs)
+pa_zyx = predictive_asymmetry(z, y, x, est, ηs)
+pa_xzy = predictive_asymmetry(x, z, y, est, ηs)
+pa_zxy = predictive_asymmetry(z, x, y, est, ηs)
+;
+</code></pre>
+<pre><code class="language-julia">p_xyz = plot(ηs, pa_xyz, label = L&quot;x \to y | z&quot;, c = :black)
+        plot!(ηs, pa_yxz, label = L&quot;y \to x  | z&quot;, c = :red)
+        hline!([0], α = 0.2, c = :black, label = &quot;&quot;)
+
+p_yzx = plot(ηs, pa_yzx, label = L&quot;y \to z | x&quot;, c = :red)
+        plot!(ηs, pa_zyx, label = L&quot;z \to y | x&quot;, c = :blue)
+        hline!([0], α = 0.2, c = :black, label = &quot;&quot;)
+
+p_xzy = plot(ηs, pa_xzy, label = L&quot;x \to z | y&quot;, c = :black)
+        plot!(ηs, pa_zxy, label = L&quot;z \to x | y&quot;, c = :blue)
+        hline!([0], α = 0.2, c = :black, label = &quot;&quot;)
+
+plot(p_xyz, p_yzx, p_xzy, lw = 1.5, layout = grid(3, 1), 
+    size = (600, 600), link= :all, legend = :outerright,
+    xlabel =[&quot;&quot; &quot;&quot; &quot;Prediction lag &quot;*L&quot;(\eta)&quot;],  ylabel = L&quot;\mathbb{A}(\eta)\ [bits]&quot;)
+</code></pre>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="svg"
+           src="/project/asymmetrytest/output_14_0.svg"
+           loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>Predictive asymmetry for the direct causal relationships $x \to y$ and $y \to z$ seem to be qualitatively unaffected by conditioning on a third variable. For the indirect relationship $x \to z$, however, the result becomes a bit more ambiguous when conditioning on the intermediate variable $y$.</p>
+<p>The difficulty in interpreting the results for $\mathbb{A}_{x \to z | y}$ brings up an important issue: the predictive asymmetry is ultimately a <em>statistical</em> approach to causality detection, and we are dealing with finite time series (500 observations) of a stochastic system. How robust are these results to statistical fluctuations and how do we assess the sensitivity and specificity of the predictive asymmetry?</p>
+<p>A common approach to limit false positives in causal inference from time series is the method of surrogates. Surrogates are copies of the original time series where some specific properties of the data have been randomized to break the causal coupling. We provide a wide range of different surrogate techniques in the <a href="https://juliadynamics.github.io/TimeseriesSurrogates.jl/stable/" target="_blank" rel="noopener">TimeSeriesSurrogates.jl</a> package.</p>
+<p>In the case of real-world data, the effect of statistical fluctuations can be assessed by iterative resampling within the uncertainty envelopes (e.g. error bars) of the observations. Here we can iterate over multiple realizations of the stochastic system.</p>
+<h2 id="statistical-testing-with-surrogates">Statistical testing with surrogates</h2>
+<pre><code class="language-julia">
+# bundle the example system in a function
+
+function example_system(npts)
+    N = Normal(0, 1)
+    a₁, a₂ = 0.7, 0.1 
+    b₁, b₂ = 0.75, 0.2
+    c₁, c₂ = 0.6, 0.2
+    C₁₂, C₂₃ = 0.4, 0.4
+    ϵ₁, ϵ₂, ϵ₃ = 0.3, 0.3, 0.3
+    s = rand(npts, 3)
+    for t in 5:npts
+        s[t,1] = a₁*s[t-1,1] - a₂*s[t-4,1] +                ϵ₁*rand(N)
+        s[t,2] = b₁*s[t-1,2] - b₂*s[t-4,2] + C₁₂*s[t-1,1] + ϵ₂*rand(N)
+        s[t,3] = c₁*s[t-1,3] - c₂*s[t-3,3] + C₂₃*s[t-1,2] + ϵ₃*rand(N)
+    end
+    x, y, z = [s[:, i] for i = 1:3]
+    return x, y, z
+end
+
+</code></pre>
+<pre><code class="language-julia">
+npts = 500
+n_reps = 50 # number of realizations of the system
+n_surr = 20 # number of surrogates per realization
+surr_type = RandomShuffle() # the simplest type of surrogate
+
+pas_xyz = zeros(n_reps, length(ηs))
+pas_yxz = zeros(n_reps, length(ηs))
+pas_yzx = zeros(n_reps, length(ηs))
+pas_zyx = zeros(n_reps, length(ηs))
+pas_xzy = zeros(n_reps, length(ηs))
+pas_zxy = zeros(n_reps, length(ηs))
+
+pas_xyz_surr = zeros(n_reps, n_surr, length(ηs))
+pas_yxz_surr = zeros(n_reps, n_surr, length(ηs))
+pas_yzx_surr = zeros(n_reps, n_surr, length(ηs))
+pas_zyx_surr = zeros(n_reps, n_surr, length(ηs))
+pas_xzy_surr = zeros(n_reps, n_surr, length(ηs))
+pas_zxy_surr = zeros(n_reps, n_surr, length(ηs))
+
+for i in 1:n_reps
+    
+    x, y, z = example_system(npts)
+    
+    pas_xyz[i, :] = predictive_asymmetry(x, y, z, est, ηs)
+    pas_yxz[i, :] = predictive_asymmetry(y, x, z, est, ηs)
+    pas_yzx[i, :] = predictive_asymmetry(y, z, x, est, ηs)
+    pas_zyx[i, :] = predictive_asymmetry(z, y, x, est, ηs)
+    pas_xzy[i, :] = predictive_asymmetry(x, z, y, est, ηs)
+    pas_zxy[i, :] = predictive_asymmetry(z, x, y, est, ηs)
+    
+    sx = surrogenerator(x, surr_type)
+    sy = surrogenerator(y, surr_type)
+    sz = surrogenerator(z, surr_type)
+
+    for k in 1:n_surr
+        pas_xyz_surr[i, k, :] = predictive_asymmetry(sx(), sy(), sz(), est, ηs)
+        pas_yxz_surr[i, k, :] = predictive_asymmetry(sy(), sx(), sz(), est, ηs)
+        pas_yzx_surr[i, k, :] = predictive_asymmetry(sy(), sz(), sx(), est, ηs)
+        pas_zyx_surr[i, k, :] = predictive_asymmetry(sz(), sy(), sx(), est, ηs)
+        pas_xzy_surr[i, k, :] = predictive_asymmetry(sx(), sz(), sy(), est, ηs)
+        pas_zxy_surr[i, k, :] = predictive_asymmetry(sz(), sx(), sy(), est, ηs)
+    end
+end
+
+</code></pre>
+<pre><code class="language-julia"># prepare quantiles for plotting
+
+# get three quantiles for ribbon plot across realizations
+Axyz = [quantile(pas_xyz[:, i], [0.025, 0.50, 0.975] ) for i in ηs]
+Ayxz = [quantile(pas_yxz[:, i], [0.025, 0.50, 0.975] ) for i in ηs]
+Ayzx = [quantile(pas_yzx[:, i], [0.025, 0.50, 0.975] ) for i in ηs]
+Azyx = [quantile(pas_zyx[:, i], [0.025, 0.50, 0.975] ) for i in ηs]
+Axzy = [quantile(pas_xzy[:, i], [0.025, 0.50, 0.975] ) for i in ηs]
+Azxy = [quantile(pas_zxy[:, i], [0.025, 0.50, 0.975] ) for i in ηs]
+
+# get upper quantile of surrogates
+Sxyz = [quantile(reshape(pas_xyz_surr, (length(ηs), n_surr*n_reps))[i,:], 0.99) for i in ηs]
+Syxz = [quantile(reshape(pas_yxz_surr, (length(ηs), n_surr*n_reps))[i,:], 0.99) for i in ηs]
+Syzx = [quantile(reshape(pas_yzx_surr, (length(ηs), n_surr*n_reps))[i,:], 0.99) for i in ηs]
+Szyx = [quantile(reshape(pas_zyx_surr, (length(ηs), n_surr*n_reps))[i,:], 0.99) for i in ηs]
+Sxzy = [quantile(reshape(pas_xzy_surr, (length(ηs), n_surr*n_reps))[i,:], 0.99) for i in ηs]
+Szxy = [quantile(reshape(pas_zxy_surr, (length(ηs), n_surr*n_reps))[i,:], 0.99) for i in ηs]
+;
+</code></pre>
+<pre><code class="language-julia">ps_xyz = plot(ηs, getindex.(Axyz, 2), label = L&quot;x \to y | z&quot;, c = :black,
+        ribbon = (getindex.(Axyz, 2) - getindex.(Axyz, 1), getindex.(Axyz, 3) - getindex.(Axyz, 2)))
+        plot!(ηs, getindex.(Ayxz, 2), label = L&quot;y \to x  | z&quot;, c = :red,
+        ribbon = (getindex.(Ayxz, 2) - getindex.(Ayxz, 1), getindex.(Ayxz, 3) - getindex.(Ayxz, 2)))
+        plot!(ηs, Sxyz, ls = :dash, c = :black, label = L&quot;x_{surr} \to y | z&quot;)
+        plot!(ηs, Syxz, ls = :dash, c = :red, label = L&quot;y_{surr} \to x | z&quot;)
+
+ps_yzx = plot(ηs, getindex.(Ayzx, 2), label = L&quot;y \to z | x&quot;, c = :red,
+        ribbon = (getindex.(Ayzx, 2) - getindex.(Ayzx, 1), getindex.(Ayzx, 3) - getindex.(Ayzx, 2)))
+        plot!(ηs, getindex.(Azyx, 2), label = L&quot;z \to y  | x&quot;, c = :blue,
+        ribbon = (getindex.(Azyx, 2) - getindex.(Azyx, 1), getindex.(Azyx, 3) - getindex.(Azyx, 2)))
+        plot!(ηs, Syzx, ls = :dash, c = :red, label = L&quot;y_{surr} \to z | x&quot;)
+        plot!(ηs, Szyx, ls = :dash, c = :blue, label = L&quot;z_{surr} \to y | x&quot;)
+
+ps_xzy = plot(ηs, getindex.(Axzy, 2), label = L&quot;x \to z | y&quot;, c = :black,
+        ribbon = (getindex.(Axzy, 2) - getindex.(Axzy, 1), getindex.(Axzy, 3) - getindex.(Axzy, 2)))
+        plot!(ηs, getindex.(Azxy, 2), label = L&quot;z \to x  | y&quot;, c = :blue,
+        ribbon = (getindex.(Azxy, 2) - getindex.(Azxy, 1), getindex.(Azxy, 3) - getindex.(Azxy, 2)))
+        plot!(ηs, Sxzy, ls = :dash, c = :black, label = L&quot;x_{surr} \to z | y&quot;)
+        plot!(ηs, Szxy, ls = :dash, c = :blue, label = L&quot;z_{surr} \to x | y&quot;)
+
+plot(ps_xyz, ps_yzx, ps_xzy, lw = 1.5, layout = grid(3, 1), fillalpha = 0.3,
+    size = (600, 600), link= :all, legend = :outerright, legendfontsize = 12,
+    xlabel =[&quot;&quot; &quot;&quot; &quot;Prediction lag &quot;*L&quot;(\eta)&quot;],  ylabel = L&quot;\mathbb{A}(\eta)\ [bits]&quot;)
+</code></pre>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="svg"
+           src="/project/asymmetrytest/output_20_0.svg"
+           loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>When iterating over multiple realizations of the system, we find that conditional predictive asymmetry values for the relationships $x \to y | z$ and $y \to z | x$ are well above the surrogates, whereas for $x \to z | y$ it is not, suggesting that the latter is an indirect relationship mediated by $y$.</p>
+<p>Other examples can be found in the short tutorials on <a href="../causalitytools/">CausalityTools</a> and <a href="../uncertaindata/">UncertainData</a>.</p>
+<hr>
+
+    </div>
+
+    
+
+
+
+
+
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://www.earthsystemevolution.com/project/asymmetrytest/&amp;text=Predictive%20asymmetry" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://www.earthsystemevolution.com/project/asymmetrytest/&amp;t=Predictive%20asymmetry" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Predictive%20asymmetry&amp;body=https://www.earthsystemevolution.com/project/asymmetrytest/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://www.earthsystemevolution.com/project/asymmetrytest/&amp;title=Predictive%20asymmetry" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=Predictive%20asymmetry%20https://www.earthsystemevolution.com/project/asymmetrytest/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://www.earthsystemevolution.com/project/asymmetrytest/&amp;title=Predictive%20asymmetry" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/authors/admin/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hua519b17d347faee12130d8c00f40a736_92561_270x270_fill_q75_lanczos_center.jpg" alt="Bjarte Hannisdal"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/admin/">Bjarte Hannisdal</a></h5>
+      <h6 class="card-subtitle">Associate Professor</h6>
+      <p class="card-text">My research interests include Earth system history, quantitative paleo- and geobiology, and causality in dynamical systems.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+    <div class="project-related-pages content-widget-hr">
+      
+      
+
+      
+      
+      
+
+      
+      
+      
+
+      
+      
+      
+    </div>
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+  
+
+  
+
+  
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    <script src="/js/vendor-bundle.min.b73dfaac3b6499dc997741748a7c3fe2.js"></script>
+
+    
+    
+    
+      
+      
+        <script src="https://cdn.jsdelivr.net/gh/desandro/imagesloaded@v4.1.4/imagesloaded.pkgd.min.js" integrity="sha512-S5PZ9GxJZO16tT9r3WJp/Safn31eu8uWrzglMahDT4dsmgqWonRY9grk3j+3tfuPr9WJNsfooOR7Gi7HL5W2jw==" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/gh/metafizzy/isotope@v3.0.6/dist/isotope.pkgd.min.js" integrity="sha512-Zq2BOxyhvnRFXu0+WE6ojpZLOU2jdnqbrM1hmVdGzyeCa1DgM3X5Q4A/Is9xA1IkbUeDd7755dNNI/PzSf2Pew==" crossorigin="anonymous"></script>
+      
+
+      
+      
+
+      
+
+      
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/highlight.min.js" integrity="sha512-Ypjm0o7jOxAd4hpdoppSEN0TQOC19UtPAqD+4s5AlXmUvbmmS/YMxYqAqarQYyxTnB6/rqip9qcxlNB/3U9Wdg==" crossorigin="anonymous"></script>
+        
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/julia.min.js" crossorigin="anonymous"></script>
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/python.min.js" crossorigin="anonymous"></script>
+        
+      
+
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+
+    
+    
+    
+    <script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+    
+    
+      <script src="/js/wowchemy-headroom.1cb9e2fc8399acee94eab837265b73bf.js" type="module"></script>
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="/en/js/wowchemy.min.247fd8f54253895301106e3006f53f38.js"></script>
+
+    
+
+
+
+
+
+
+</body>
+</html>

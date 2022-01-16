@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Presentations | Earth System Evolution</title>
+    <link>https://www.earthsystemevolution.com/tag/presentations/</link>
+      <atom:link href="https://www.earthsystemevolution.com/tag/presentations/index.xml" rel="self" type="application/rss+xml" />
+    <description>Presentations</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 26 Nov 2018 12:15:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.earthsystemevolution.com/media/icon_hud242a1b9c063d413ae2af03b7832dc94_98570_512x512_fill_lanczos_center_3.png</url>
+      <title>Presentations</title>
+      <link>https://www.earthsystemevolution.com/tag/presentations/</link>
+    </image>
+    
+    <item>
+      <title>A new method for quantifying Earth system interactions from time series</title>
+      <link>https://www.earthsystemevolution.com/slides/transfer_operator/</link>
+      <pubDate>Mon, 26 Nov 2018 12:15:00 +0000</pubDate>
+      <guid>https://www.earthsystemevolution.com/slides/transfer_operator/</guid>
+      <description>&lt;!--Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
+--&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

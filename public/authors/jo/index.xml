@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jo Brendryen | Earth System Evolution</title>
+    <link>https://www.earthsystemevolution.com/authors/jo/</link>
+      <atom:link href="https://www.earthsystemevolution.com/authors/jo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jo Brendryen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://www.earthsystemevolution.com/authors/jo/avatar_hu2729116813038a2eb0cf56a21befdc98_33536_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Jo Brendryen</title>
+      <link>https://www.earthsystemevolution.com/authors/jo/</link>
+    </image>
+    
+  </channel>
+</rss>

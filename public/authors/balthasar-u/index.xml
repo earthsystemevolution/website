@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Balthasar U | Earth System Evolution</title>
+    <link>https://www.earthsystemevolution.com/authors/balthasar-u/</link>
+      <atom:link href="https://www.earthsystemevolution.com/authors/balthasar-u/index.xml" rel="self" type="application/rss+xml" />
+    <description>Balthasar U</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.earthsystemevolution.com/media/icon_hud242a1b9c063d413ae2af03b7832dc94_98570_512x512_fill_lanczos_center_3.png</url>
+      <title>Balthasar U</title>
+      <link>https://www.earthsystemevolution.com/authors/balthasar-u/</link>
+    </image>
+    
+    <item>
+      <title>Jurassic shift from abiotic to biotic control on marine ecological success</title>
+      <link>https://www.earthsystemevolution.com/publication/eichenseer_et_al_2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.earthsystemevolution.com/publication/eichenseer_et_al_2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
