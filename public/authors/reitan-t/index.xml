@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Reitan T on Earth System Evolution</title>
+    <title>Reitan T | Earth System Evolution</title>
     <link>https://www.earthsystemevolution.com/authors/reitan-t/</link>
-    <description>Recent content in Reitan T on Earth System Evolution</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 12 Jul 2017 00:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://www.earthsystemevolution.com/authors/reitan-t/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://www.earthsystemevolution.com/authors/reitan-t/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reitan T</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.earthsystemevolution.com/media/icon_hud242a1b9c063d413ae2af03b7832dc94_98570_512x512_fill_lanczos_center_3.png</url>
+      <title>Reitan T</title>
+      <link>https://www.earthsystemevolution.com/authors/reitan-t/</link>
+    </image>
     
     <item>
       <title>Common species link global ecosystems to climate change: dynamical evidence in the planktonic fossil record</title>
       <link>https://www.earthsystemevolution.com/publication/hannisdal_et_al_2017/</link>
-      <pubDate>Wed, 12 Jul 2017 00:00:00 +0200</pubDate>
-      
+      <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
       <guid>https://www.earthsystemevolution.com/publication/hannisdal_et_al_2017/</guid>
-      <description>We use common and widespread species of planktonic foraminifera in deep-sea sediments and show that the observed global occupancy of planktonic foraminifera has been dynamically coupled to past oceanographic changes captured in deep-ocean temperature reconstructions.</description>
+      <description></description>
     </item>
     
   </channel>

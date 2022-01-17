@@ -80,8 +80,4 @@ links = [{name = "supplement", url = "http://science.sciencemag.org/content/sci/
   focal_point = "Center"
 +++
 
-<!--
-{{% alert note %}}
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-{{% /alert %}}
--->
+

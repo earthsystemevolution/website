@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Henderiks J on Earth System Evolution</title>
+    <title>Henderiks J | Earth System Evolution</title>
     <link>https://www.earthsystemevolution.com/authors/henderiks-j/</link>
-    <description>Recent content in Henderiks J on Earth System Evolution</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 01 Dec 2012 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="https://www.earthsystemevolution.com/authors/henderiks-j/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://www.earthsystemevolution.com/authors/henderiks-j/index.xml" rel="self" type="application/rss+xml" />
+    <description>Henderiks J</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Dec 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.earthsystemevolution.com/media/icon_hud242a1b9c063d413ae2af03b7832dc94_98570_512x512_fill_lanczos_center_3.png</url>
+      <title>Henderiks J</title>
+      <link>https://www.earthsystemevolution.com/authors/henderiks-j/</link>
+    </image>
     
     <item>
       <title>Long‐term evolutionary and ecological responses of calcifying phytoplankton to changes in atmospheric CO2</title>
       <link>https://www.earthsystemevolution.com/publication/hannisdal_et_al_2012/</link>
-      <pubDate>Sat, 01 Dec 2012 00:00:00 +0100</pubDate>
-      
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
       <guid>https://www.earthsystemevolution.com/publication/hannisdal_et_al_2012/</guid>
-      <description>We show that coccolithophores were globally more common and widespread, larger, and more heavily calcified in the pre‐34 Ma greenhouse world, and declined along with pCO$&lt;sub&gt;2&lt;/sub&gt; during the Oligocene (34–23 Ma). Our results suggest that atmospheric pCO&lt;sub&gt;2&lt;/sub&gt; has exerted an important long‐term control on coccolithophores.</description>
+      <description></description>
     </item>
     
   </channel>

@@ -1,11 +1,11 @@
 +++
 # A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
+# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
 
-widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "blank"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "What we do"
@@ -23,32 +23,32 @@ subtitle = ""
 
   # Background color.
   # color = "navy"
-
+  
   # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
-
+  # gradient_start = "DarkGreen"
+  # gradient_end = "ForestGreen"
+  
   # Background image.
-  image = "background_image.jpg"  # Name of image in `static/img/`.
-  image_darken = 0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-
+  image = "background_image.jpg"   # Name of image in `static/media/`.
+  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+  # image_position = "center"  # Options include `left`, `center` (default), or `right`.
+  # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+  
   # Text color (true=light or false=dark).
   text_color_light = true
 
-
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["60px", "0", "60px", "0"]
+  padding = ["20px", "0", "20px", "0"]
 
 [advanced]
- # Custom CSS.
+ # Custom CSS. 
  css_style = ""
-
+ 
  # CSS class.
  css_class = ""
 +++
-
-<!-- Welcome to the **Earth System Evolution** project web pages.-->
 
 We seek new fundamental insights into the coupling between Earth system components on time scales ranging from the present to hundreds of millions of years into the past.
 

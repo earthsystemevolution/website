@@ -1,4 +1,5 @@
 +++
+math = true
 title = "Long‐term evolutionary and ecological responses of calcifying phytoplankton to changes in atmospheric CO2"
 date = 2012-12-01T00:00:00
 
@@ -80,8 +81,3 @@ links = [{name = "supplement", url = "http://onlinelibrary.wiley.com/store/10.11
   focal_point = "Center"
 +++
 
-<!--
-{{% alert note %}}
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-{{% /alert %}}
--->

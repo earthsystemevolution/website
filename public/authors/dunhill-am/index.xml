@@ -1,32 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dunhill AM on Earth System Evolution</title>
+    <title>Dunhill AM | Earth System Evolution</title>
     <link>https://www.earthsystemevolution.com/authors/dunhill-am/</link>
-    <description>Recent content in Dunhill AM on Earth System Evolution</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="https://www.earthsystemevolution.com/authors/dunhill-am/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://www.earthsystemevolution.com/authors/dunhill-am/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dunhill AM</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.earthsystemevolution.com/media/icon_hud242a1b9c063d413ae2af03b7832dc94_98570_512x512_fill_lanczos_center_3.png</url>
+      <title>Dunhill AM</title>
+      <link>https://www.earthsystemevolution.com/authors/dunhill-am/</link>
+    </image>
     
     <item>
       <title>On formation-based sampling proxies and why they should not be used to correct the fossil record</title>
       <link>https://www.earthsystemevolution.com/publication/dunhill_et_al_2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://www.earthsystemevolution.com/publication/dunhill_et_al_2018/</guid>
-      <description>We show that using formation counts as a sampling proxy to correct the fossil record via residual modelling is ill founded.</description>
+      <description></description>
     </item>
     
     <item>
       <title>Disentangling rock record bias and common-cause from redundancy in the British fossil record</title>
       <link>https://www.earthsystemevolution.com/publication/dunhill_et_al_2014/</link>
-      <pubDate>Thu, 04 Sep 2014 00:00:00 +0200</pubDate>
-      
+      <pubDate>Thu, 04 Sep 2014 00:00:00 +0000</pubDate>
       <guid>https://www.earthsystemevolution.com/publication/dunhill_et_al_2014/</guid>
-      <description>We show that outcrop area contains a signal useful for predicting changes in fossil richness as well as collection and formation counts, whilst the latter two are information redundant with fossil richness. Our results suggest that the widespread use of collection and formation counts to correct the raw richness data may be unwarranted.</description>
+      <description></description>
     </item>
     
   </channel>

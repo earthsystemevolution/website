@@ -1,89 +1,82 @@
-+++
+---
 # Display name
-name = "Kristian Agasøster Haaga"
+title: Kristian Agasøster Haaga
 
 # Username (this should match the folder name)
-authors = ["kristian"]
+authors: 
+- kristian
 
 # Is this the primary user of the site?
-superuser = false
+superuser: false
 
 # Role/position
-role = "Postdoc"
+role: Postdoc
 
 # add a "weight" to avoid ordering people by date
-weight = 4
+# weight = 4
 
 # Organizations/Affiliations
-#   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "University of Bergen", url = "" } ]
+organizations:
+- name: University of Bergen
+  url: https://www.uib.no
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include causality in dynamical systems, paleoclimate analysis, geochemistry, and geology."
+bio: My research interests include causality in dynamical systems, paleoclimate analysis, geochemistry, and geology.
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
-
-# List (academic) interests or hobbies
-interests = [
-  "Causality in dynamical systems",
-  "Paleoclimate analysis",
-  "Geochemistry and geology",
-  "Software development"
-]
+# Interests to show in About widget
+interests:
+- Causality in dynamical systems
+- Paleoclimate analysis
+- Geochemistry
+- Software development
 
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups = [" "]
+user_groups:
+- " "
 
-# List qualifications (such as academic degrees)
-[[education.courses]]
-  course = "PhD in Earth science"
-  institution = "University of Bergen"
-  year = 2020
-
-#[[education.courses]]
-#  course = "MSc in Earth science"
-#  institution = "University of Bergen"
-#  year = 2014
-
-#[[education.courses]]
-#  course = "BSc in Artificial Intelligence"
-#  institution = "Massachusetts Institute of Technology"
-#  year = 2008
+# Education to show in About widget
+education:
+  courses:
+  - course: PhD in Earth science
+    institution: University of Bergen
+    year: 2020
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
+# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+# social:
+# - icon: envelope
+#   icon_pack: fas
+#   link: '/#contact'
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
+# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#   icon_pack: fas
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/gcushen
+# - icon: linkedin
+#   icon_pack: fab
+#   link: https://www.linkedin.com/
 
-#[[social]]
-#  icon = "envelope"
-#  icon_pack = "fas"
-#  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+# Link to a PDF of your resume/CV.
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
+# and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/resume.pdf
 
-#[[social]]
-#  icon = "twitter"
-#  icon_pack = "fab"
-#  link = "https://twitter.com/GeorgeCushen"
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ""
 
-#[[social]]
-#  icon = "google-scholar"
-#  icon_pack = "ai"
-#  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 
-[[social]]
-  icon = "github"
-  icon_pack = "fab"
-  link = "https://github.com/kahaaga"
+---
 
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[social]]
-#   icon = "cv"
-#   icon_pack = "ai"
-#   link = "files/cv.pdf"
+Kristian Agasøster Haaga is a Postdoc at the Department of Earth science, University of Bergen. His research interests include causality in dynamical systems, paleoclimate analysis, geochemistry, and geology. In his PhD project (2020) he worked on the computation of causal measures from time series, introducing the novel [Predictive Asymmetry](../../project/asymmetrytest) method. He is the main developer of high-performance software associated with this project, including [CausalityTools.jl](../../project/causalitytools).
 
-+++
-
-Kristian Agasøster Haaga is a Postdoctoral research fellow at the Department of Earth science, University of Bergen. His research interests include causality in dynamical systems, paleoclimate analysis, geochemistry, and geology. In his PhD project (2020) he worked on the computation of causal measures from time series, introduced the novel predictive asymmetry test, and developed robust, high-performance open source code.
+Follow him on [GitHub](https://github.com/kahaaga).

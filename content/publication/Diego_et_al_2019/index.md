@@ -80,8 +80,3 @@ links = [{name = "arXiv", url = "https://arxiv.org/pdf/1811.01677.pdf"}]
   focal_point = "Center"
 +++
 
-<!--
-{{% alert note %}}
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-{{% /alert %}}
--->

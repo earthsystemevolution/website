@@ -80,8 +80,3 @@ url_dataset = "https://doi.org/10.5061/dryad.rb86d"
   focal_point = ""
 +++
 
-<!--
-{{% alert note %}}
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-{{% /alert %}}
--->

@@ -1,88 +1,79 @@
-+++
+---
 # Display name
-name = "Jo Brendryen"
+title: Jo Brendryen
 
 # Username (this should match the folder name)
-authors = ["jo"]
+authors: 
+  - jo
 
 # Is this the primary user of the site?
-superuser = false
+superuser: false
 
 # Role/position
-role = "Researcher"
+role: Researcher
 
 # add a "weight" to avoid ordering people by date
-weight = 3
+# weight = 3
 
 # Organizations/Affiliations
-#   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "University of Bergen", url = "" } ]
+organizations:
+- name: University of Bergen
+  url: https://www.uib.no
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include climate system interactions, paleoclimate reconstruction, and geochronology."
+bio: My research interests include climate system interactions, paleoclimate reconstruction, and geochronology.
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
-
-# List (academic) interests or hobbies
-interests = [
-  "Climate system interactions",
-  "Paleoclimate reconstruction",
-  "Geochronology"
-]
+# Interests to show in About widget
+interests:
+- Climate system interactions
+- Paleoclimate reconstruction
+- Geochronology
 
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups = [" "]
+user_groups: 
+- " "
 
-# List qualifications (such as academic degrees)
-[[education.courses]]
-  course = "PhD in Earth science"
-  institution = "University of Bergen"
-  year = 2011
-
-#[[education.courses]]
-#  course = ""
-#  institution = ""
-#  year = 2000
-
-#[[education.courses]]
-#  course = "BSc in Artificial Intelligence"
-#  institution = "Massachusetts Institute of Technology"
-#  year = 2008
+# Education to show in About widget
+education:
+  courses:
+  - course: PhD in Earth science
+    institution: University of Bergen
+    year: 2011
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
+# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+# social:
+# - icon: envelope
+#   icon_pack: fas
+#   link: '/#contact'
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
+# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#   icon_pack: fas
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/gcushen
+# - icon: linkedin
+#   icon_pack: fab
+#   link: https://www.linkedin.com/
 
-#[[social]]
-#  icon = "envelope"
-#  icon_pack = "fas"
-#  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+# Link to a PDF of your resume/CV.
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
+# and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/resume.pdf
 
-#[[social]]
-#  icon = "twitter"
-#  icon_pack = "fab"
-#  link = "https://twitter.com/GeorgeCushen"
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ""
 
-#[[social]]
-#  icon = "google-scholar"
-#  icon_pack = "ai"
-#  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 
-#[[social]]
-#  icon = "github"
-#  icon_pack = "fab"
-#  link = "https://github.com/gcushen"
-
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[social]]
-#   icon = "cv"
-#   icon_pack = "ai"
-#   link = "files/cv.pdf"
-
-+++
+---
 
 Jo Brendryen is a Researcher at the Department of Earth science at the University of Bergen. His research interests include climate system interactions, paleoclimate reconstruction, and geochronology. In this project he has worked on quantifying chronological uncertainty in paleoclimate proxies and the deglacial radiocarbon evolution of the Norwegian Sea.

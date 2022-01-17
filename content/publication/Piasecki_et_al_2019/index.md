@@ -80,8 +80,4 @@ url_pdf = "https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2018GC007961
   focal_point = "Center"
 +++
 
-<!--
-{{% alert note %}}
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-{{% /alert %}}
--->
+

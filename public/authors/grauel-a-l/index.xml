@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Grauel A-L on Earth System Evolution</title>
+    <title>Grauel A-L | Earth System Evolution</title>
     <link>https://www.earthsystemevolution.com/authors/grauel-a-l/</link>
-    <description>Recent content in Grauel A-L on Earth System Evolution</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 25 Apr 2019 00:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://www.earthsystemevolution.com/authors/grauel-a-l/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://www.earthsystemevolution.com/authors/grauel-a-l/index.xml" rel="self" type="application/rss+xml" />
+    <description>Grauel A-L</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.earthsystemevolution.com/media/icon_hud242a1b9c063d413ae2af03b7832dc94_98570_512x512_fill_lanczos_center_3.png</url>
+      <title>Grauel A-L</title>
+      <link>https://www.earthsystemevolution.com/authors/grauel-a-l/</link>
+    </image>
     
     <item>
       <title>Application of Clumped Isotope Thermometry to Benthic Foraminifera</title>
       <link>https://www.earthsystemevolution.com/publication/piasecki_et_al_2019/</link>
-      <pubDate>Thu, 25 Apr 2019 00:00:00 +0200</pubDate>
-      
+      <pubDate>Thu, 25 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://www.earthsystemevolution.com/publication/piasecki_et_al_2019/</guid>
-      <description> Supplementary notes can be added here, including code and math.   -- </description>
+      <description></description>
     </item>
     
   </channel>

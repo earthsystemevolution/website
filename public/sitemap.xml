@@ -1,576 +1,213 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <url>
-    <loc>https://www.earthsystemevolution.com/authors/bjarte/</loc>
-  </url>
   
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/david/</loc>
-    <lastmod>2019-05-23T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/jo/</loc>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/kristian/</loc>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/</loc><lastmod>2021-04-18T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/talk/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/publication-type/2/</loc><lastmod>2021-04-18T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/dahle-h/</loc><lastmod>2021-04-18T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/publication_types/3/</loc>
-    <lastmod>2020-05-04T00:00:01+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/diego-d/</loc><lastmod>2021-04-18T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/publication/haaga_et_al_2020/</loc>
-    <lastmod>2020-05-04T00:00:01+02:00</lastmod>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/hannisdal-b/</loc><lastmod>2021-04-18T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/</loc>
-    <lastmod>2020-05-04T00:00:01+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/tag/highlights/</loc><lastmod>2021-04-18T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/brendryen-j/</loc>
-    <lastmod>2020-05-04T00:00:01+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/publication/diego_et_al_2021/</loc><lastmod>2021-04-18T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/diego-d/</loc>
-    <lastmod>2020-05-04T00:00:01+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/publication_types/</loc><lastmod>2021-04-18T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/haaga-ka/</loc>
-    <lastmod>2020-05-04T00:00:01+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/publication/</loc><lastmod>2021-04-18T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/hannisdal-b/</loc>
-    <lastmod>2020-05-04T00:00:01+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/tags/</loc><lastmod>2021-04-18T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/tags/highlights/</loc>
-    <lastmod>2020-05-04T00:00:01+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/publication_types/</loc>
-    <lastmod>2020-05-04T00:00:01+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/admin/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/publication/</loc>
-    <lastmod>2020-05-04T00:00:01+02:00</lastmod>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/categories/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/tags/</loc>
-    <lastmod>2020-05-04T00:00:01+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/category/demo/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/publication_types/2/</loc>
-    <lastmod>2020-03-26T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/post/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/publication/brendryen_et_al_2020/</loc>
-    <lastmod>2020-03-26T00:00:00+01:00</lastmod>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/haflidason-h/</loc>
-    <lastmod>2020-03-26T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/%E5%90%B3%E6%81%A9%E9%81%94/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/yokoyama-y/</loc>
-    <lastmod>2020-03-26T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/publication/meinicke_et_al_2020/</loc>
-    <lastmod>2020-02-01T00:00:00+01:00</lastmod>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/ho-sl/</loc>
-    <lastmod>2020-02-01T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/publication-type/3/</loc><lastmod>2020-05-04T00:00:01+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/meckler-an/</loc>
-    <lastmod>2020-02-01T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/publication/haaga_et_al_2020/</loc><lastmod>2020-05-04T00:00:01+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/meinicke-n/</loc>
-    <lastmod>2020-02-01T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/brendryen-j/</loc><lastmod>2020-05-04T00:00:01+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/n%C3%BCrnberg-d/</loc>
-    <lastmod>2020-02-01T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/haaga-ka/</loc><lastmod>2020-05-04T00:00:01+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/schiebel-r/</loc>
-    <lastmod>2020-02-01T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/publication/brendryen_et_al_2020/</loc><lastmod>2020-03-26T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/tripati-a/</loc>
-    <lastmod>2020-02-01T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/haflidason-h/</loc><lastmod>2020-03-26T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/bjarte-hannisdal/</loc>
-    <lastmod>2019-11-11T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/yokoyama-y/</loc><lastmod>2020-03-26T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/project/causalitytools/</loc>
-    <lastmod>2019-11-11T00:00:00+01:00</lastmod>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/publication/meinicke_et_al_2020/</loc><lastmod>2020-02-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/david-diego/</loc>
-    <lastmod>2019-11-11T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/ho-sl/</loc><lastmod>2020-02-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/kristian-a.-haaga/</loc>
-    <lastmod>2019-11-11T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/meckler-an/</loc><lastmod>2020-02-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/project/asymmetrytest/</loc>
-    <lastmod>2019-11-11T00:00:00+01:00</lastmod>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/meinicke-n/</loc><lastmod>2020-02-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/project/</loc>
-    <lastmod>2019-11-11T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/nurnberg-d/</loc><lastmod>2020-02-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/tor-einar-m%C3%B8ller/</loc>
-    <lastmod>2019-11-11T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/schiebel-r/</loc><lastmod>2020-02-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/project/uncertaindata/</loc>
-    <lastmod>2019-11-11T00:00:00+01:00</lastmod>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/tripati-a/</loc><lastmod>2020-02-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/publication/haaga_2019/</loc>
-    <lastmod>2019-11-01T00:00:00+01:00</lastmod>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/project/causalitytools/</loc><lastmod>2022-01-07T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/born-a/</loc>
-    <lastmod>2019-10-15T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/project/asymmetrytest/</loc><lastmod>2022-01-07T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/publication/vanderbilt_et_al_2019/</loc>
-    <lastmod>2019-10-15T00:00:00+02:00</lastmod>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/project/</loc><lastmod>2022-01-07T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/van-der-bilt-wgm/</loc>
-    <lastmod>2019-10-15T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/project/uncertaindata/</loc><lastmod>2022-01-07T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/balthasar-u/</loc>
-    <lastmod>2019-07-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/publication/haaga_2019/</loc><lastmod>2019-11-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/eichenseer-k/</loc>
-    <lastmod>2019-07-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/born-a/</loc><lastmod>2019-10-15T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/publication/eichenseer_et_al_2019/</loc>
-    <lastmod>2019-07-01T00:00:00+02:00</lastmod>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/van-der-bilt-wgm/</loc><lastmod>2019-10-15T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/kiessling-w/</loc>
-    <lastmod>2019-07-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/publication/vanderbilt_et_al_2019/</loc><lastmod>2019-10-15T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/smart-cw/</loc>
-    <lastmod>2019-07-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/balthasar-u/</loc><lastmod>2019-07-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/stander-j/</loc>
-    <lastmod>2019-07-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/eichenseer-k/</loc><lastmod>2019-07-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/j%C3%B8rgensen-sl/</loc>
-    <lastmod>2019-06-14T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/publication/eichenseer_et_al_2019/</loc><lastmod>2019-07-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/mogollon-jm/</loc>
-    <lastmod>2019-06-14T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/kiessling-w/</loc><lastmod>2019-07-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/publication/zhao_et_al_2019/</loc>
-    <lastmod>2019-06-14T00:00:00+02:00</lastmod>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/smart-cw/</loc><lastmod>2019-07-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/zhao-r/</loc>
-    <lastmod>2019-06-14T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/stander-j/</loc><lastmod>2019-07-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/slides/transfer_operator/</loc>
-    <lastmod>2019-05-23T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/j%C3%B8rgensen-sl/</loc><lastmod>2019-06-14T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/slides/</loc>
-    <lastmod>2019-05-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/mogollon-jm/</loc><lastmod>2019-06-14T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/publication/piasecki_et_al_2019/</loc>
-    <lastmod>2019-04-25T00:00:00+02:00</lastmod>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/publication/zhao_et_al_2019/</loc><lastmod>2019-06-14T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/bernasconi-sm/</loc>
-    <lastmod>2019-04-25T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/zhao-r/</loc><lastmod>2019-06-14T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/grauel-a-l/</loc>
-    <lastmod>2019-04-25T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/publication/piasecki_et_al_2019/</loc><lastmod>2019-04-25T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/leutert-tj/</loc>
-    <lastmod>2019-04-25T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/bernasconi-sm/</loc><lastmod>2019-04-25T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/marchitto-tm/</loc>
-    <lastmod>2019-04-25T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/grauel-a-l/</loc><lastmod>2019-04-25T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/meckler-n/</loc>
-    <lastmod>2019-04-25T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/leutert-tj/</loc><lastmod>2019-04-25T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/piasecki-a/</loc>
-    <lastmod>2019-04-25T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/marchitto-tm/</loc><lastmod>2019-04-25T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/tisserand-a/</loc>
-    <lastmod>2019-04-25T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/meckler-n/</loc><lastmod>2019-04-25T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/publication/diego_et_al_2019/</loc>
-    <lastmod>2019-04-19T00:00:00+02:00</lastmod>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/piasecki-a/</loc><lastmod>2019-04-25T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/publication/vasskog_et_al_2019/</loc>
-    <lastmod>2019-04-07T00:00:00+02:00</lastmod>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/tisserand-a/</loc><lastmod>2019-04-25T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/lunnan-em/</loc>
-    <lastmod>2019-04-07T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/publication/diego_et_al_2019/</loc><lastmod>2019-04-19T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/mangerud-j/</loc>
-    <lastmod>2019-04-07T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/publication/vasskog_et_al_2019/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/svean-a/</loc>
-    <lastmod>2019-04-07T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/lunnan-em/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/svendsen-ji/</loc>
-    <lastmod>2019-04-07T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/mangerud-j/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/vasskog-k/</loc>
-    <lastmod>2019-04-07T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/svean-a/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/publication/haaga_et_al_surrogates/</loc>
-    <lastmod>2019-02-07T00:00:00+01:00</lastmod>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/svendsen-ji/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/admin/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/vasskog-k/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/tutorials/jupyter/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/publication/haaga_et_al_surrogates/</loc><lastmod>2019-02-07T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/tutorials/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/talk/transfer_operator/</loc>
-    <lastmod>2018-11-26T12:15:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/slides/transfer_operator/</loc><lastmod>2018-11-26T12:15:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/tags/presentations/</loc>
-    <lastmod>2018-11-26T12:15:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/tag/presentations/</loc><lastmod>2018-11-26T12:15:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/publication/haaga_et_al_2018/</loc>
-    <lastmod>2018-08-01T00:00:00+02:00</lastmod>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/publication/haaga_et_al_2018/</loc><lastmod>2018-08-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/publication/hannisdal_liow_2018/</loc>
-    <lastmod>2018-04-12T00:00:00+02:00</lastmod>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/publication/hannisdal_liow_2018/</loc><lastmod>2018-04-12T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/liow-lh/</loc>
-    <lastmod>2018-04-12T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/liow-lh/</loc><lastmod>2018-04-12T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/benton-mj/</loc>
-    <lastmod>2018-01-01T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/benton-mj/</loc><lastmod>2018-01-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/brocklehurst-n/</loc>
-    <lastmod>2018-01-01T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/brocklehurst-n/</loc><lastmod>2018-01-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/dunhill-am/</loc>
-    <lastmod>2018-01-01T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/dunhill-am/</loc><lastmod>2018-01-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/publication/dunhill_et_al_2018/</loc>
-    <lastmod>2018-01-01T00:00:00+01:00</lastmod>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/publication/dunhill_et_al_2018/</loc><lastmod>2018-01-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/publication/hannisdal_et_al_2017/</loc>
-    <lastmod>2017-07-12T00:00:00+02:00</lastmod>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/publication/hannisdal_et_al_2017/</loc><lastmod>2017-07-12T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/reitan-t/</loc>
-    <lastmod>2017-07-12T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/reitan-t/</loc><lastmod>2017-07-12T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/publication/dunhill_et_al_2014/</loc>
-    <lastmod>2014-09-04T00:00:00+02:00</lastmod>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/publication/dunhill_et_al_2014/</loc><lastmod>2014-09-04T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/henderiks-j/</loc>
-    <lastmod>2012-12-01T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/henderiks-j/</loc><lastmod>2012-12-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/publication/hannisdal_et_al_2012/</loc>
-    <lastmod>2012-12-01T00:00:00+01:00</lastmod>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/publication/hannisdal_et_al_2012/</loc><lastmod>2012-12-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/baumberger-t/</loc>
-    <lastmod>2012-09-05T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/baumberger-t/</loc><lastmod>2012-09-05T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/publication/jorgensen_et_al_2012/</loc>
-    <lastmod>2012-09-05T00:00:00+02:00</lastmod>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/publication/jorgensen_et_al_2012/</loc><lastmod>2012-09-05T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/flesland-k/</loc>
-    <lastmod>2012-09-05T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/flesland-k/</loc><lastmod>2012-09-05T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/fonseca-r/</loc>
-    <lastmod>2012-09-05T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/fonseca-r/</loc><lastmod>2012-09-05T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/lanz%C3%A9n-a/</loc>
-    <lastmod>2012-09-05T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/lanzen-a/</loc><lastmod>2012-09-05T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/pedersen-rb/</loc>
-    <lastmod>2012-09-05T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/pedersen-rb/</loc><lastmod>2012-09-05T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/schleper-c/</loc>
-    <lastmod>2012-09-05T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/schleper-c/</loc><lastmod>2012-09-05T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/steen-ih/</loc>
-    <lastmod>2012-09-05T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/steen-ih/</loc><lastmod>2012-09-05T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/thorseth-ih/</loc>
-    <lastmod>2012-09-05T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/thorseth-ih/</loc><lastmod>2012-09-05T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/%C3%B8vre%C3%A5s-l/</loc>
-    <lastmod>2012-09-05T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/%C3%B8vreas-l/</loc><lastmod>2012-09-05T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/publication/hannisdal_2011_lyell/</loc>
-    <lastmod>2011-12-13T00:00:00+01:00</lastmod>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/publication/hannisdal_2011_lyell/</loc><lastmod>2011-12-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/authors/peters-se/</loc>
-    <lastmod>2011-11-25T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/authors/peters-se/</loc><lastmod>2011-11-25T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/publication/hannisdal_peters_2011/</loc>
-    <lastmod>2011-11-25T00:00:00+01:00</lastmod>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/publication/hannisdal_peters_2011/</loc><lastmod>2011-11-25T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/publication/hannisdal_2011_ajs/</loc>
-    <lastmod>2011-04-24T00:00:00+02:00</lastmod>
-  </url>
-  
+    <loc>https://www.earthsystemevolution.com/publication/hannisdal_2011_ajs/</loc><lastmod>2011-04-24T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://www.earthsystemevolution.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-</urlset>
+    <loc>https://www.earthsystemevolution.com/admin/</loc></url>
+  <url>
+    <loc>https://www.earthsystemevolution.com/authors/david/</loc></url>
+  <url>
+    <loc>https://www.earthsystemevolution.com/authors/jo/</loc></url>
+  <url>
+    <loc>https://www.earthsystemevolution.com/authors/kristian/</loc></url></urlset>

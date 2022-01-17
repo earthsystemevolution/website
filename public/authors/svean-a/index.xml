@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Svean A on Earth System Evolution</title>
+    <title>Svean A | Earth System Evolution</title>
     <link>https://www.earthsystemevolution.com/authors/svean-a/</link>
-    <description>Recent content in Svean A on Earth System Evolution</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://www.earthsystemevolution.com/authors/svean-a/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://www.earthsystemevolution.com/authors/svean-a/index.xml" rel="self" type="application/rss+xml" />
+    <description>Svean A</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.earthsystemevolution.com/media/icon_hud242a1b9c063d413ae2af03b7832dc94_98570_512x512_fill_lanczos_center_3.png</url>
+      <title>Svean A</title>
+      <link>https://www.earthsystemevolution.com/authors/svean-a/</link>
+    </image>
     
     <item>
       <title>Evidence of early deglaciation (18 000 cal a BP) and a postglacial relative sea‐level curve from southern Karmøy, south‐west Norway</title>
       <link>https://www.earthsystemevolution.com/publication/vasskog_et_al_2019/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0200</pubDate>
-      
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://www.earthsystemevolution.com/publication/vasskog_et_al_2019/</guid>
-      <description> Supplementary notes can be added here, including code and math.   -- </description>
+      <description></description>
     </item>
     
   </channel>
